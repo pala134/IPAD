@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<!-- css,font -->
+	<link rel="stylesheet" href="css/map.css">
+	<link rel="stylesheet" href="css/predict.css">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&family=Gothic+A1:wght@500&family=Noto+Sans+KR:wght@500&display=swap">
+	<!-- script -->
+	<script src="js/predict.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.umd.min.js"></script>
+	<title>예상 수치</title>
+</head>
+
+<body class="vh-100 overflow-hiddden">
+	<!--nav------------------------------------------------------------------------------------------->
+	<nav class="navbar fixed-top navbar-expand-lg">
+		<div class="container">
+			<!-- LOGO -->
+			<a class="navbar-brand fs-4" href="index.html">LOGO</a>
+
+			<!-- Toggle BTN(모바일 비율 아이콘) -->
+			<button class="navbar-toggler shadow-none border-0 " type="button" data-bs-toggle="offcanvas"
+				data-bs-target="#offcanvasNavbar">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<!-- sidebar -->
+			<div class="offcanvas offcanvas-start sidebar" tabindex="-1" id="offcanvasNavbar">
+				<!-- sidebar header -->
+				<div class="offcanvas-header border-bottom">
+					<h5 class="offcanvas-title" id="offcanvasNavbarLabel">LOGO</h5>
+					<button type="button" class="btn-close shadow-none" data-bs-dismiss="offcanvas"></button>
+				</div>
+
+				<!-- sidebar body -->
+				<div class="offcanvas-body d-flex flex-column flex-lg-row p-4 p-lg-0">
+					<ul class="navbar-nav justify-content-center fs-5 flex-grow-1 pe-3">
+						<div class="dropdown-center">
+							<li class="nav-item dropdown mx-5">
+								<a class="nav-link dropdown-toggle" href="#" role="button"
+									data-bs-toggle="dropdown">입지분석</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="populationStatus.html">인구분석</a></li>
+									<li><a class="dropdown-item" href="hospitalStatus.html">병원현황</a></li>
+									<li><a class="dropdown-item" href="map.html">지도</a></li>
+								</ul>
+							</li>
+						</div>
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="search.html">매출분석</a>
+						</li>
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="#">Q&A</a>
+						</li>
+					</ul>
+					<div class="d-flex flex-column flex-lg-row justify-content-center align-items-center gap-3">
+						<a href="#" class="text-dark">로그인</a>
+						<a id="loginBtn" href="#" class="text-white text-decoration-none px-3 py-1 rounded-4">회원가입</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</nav>
+	<div style="height: 60px; width: 100px;"></div>
+
+	<!-- chart ------------------------------------------------------------------------------------------->
+	<div id="background" class="container-fluid">
+		<div style="height: 50px; width: 100px;"></div>
+		<div class="container">
+			<div class="row" style="border-bottom: 3px solid #ddd;">
+				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+					<h1>매출 분석</h1>
+				</div>
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+					<ol id="nav">
+						<li><a href="index.html" class="docs-creator">홈</a></li>
+						<li><a href="search.html">지역 선택</a></li>
+						<li>진료 과목별 추이</li>
+						<li>매출 분석</li>
+					</ol>
+				</div>
+			</div>
+			<div style="height: 5vh;"></div>
+			<div class="row">
+				<div class="col-lg-5">
+					<div class="row" style="text-align: center;">
+						<div class="col-md-12 col-lg-4">
+							<p style="padding-top: 10px;font-weight: bold;">연령별 환자 수 비중</p>
+						</div>
+
+						<div class="col-md-12 col-lg-4">
+							<p style="padding-top: 10px;font-weight: bold;">비율 : 25%</p>
+						</div>
+
+						<div class="col-md-12 col-lg-4">
+							<p style="font-size: 20px; font-weight: bold;">1. 40대</p>
+							<p>2. 50대</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-12 border border-info rounded border-opacity-25"
+							style="margin-top: 5%;height: 50vh;">
+							<canvas id="populationChart" style="width: 100%;height: 100%;"></canvas>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-12" style="margin-top: 5%;">
+							<h3 style="text-align: center;">예상 환자 수 계산 문구</h3>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-1"></div>
+				<div class="col-lg-1"></div>
+				<div class="col-lg-5">
+					<div class="row" style="text-align: center;">
+						<div class="col-lg-5">
+							<p style="padding-top: 10px;font-weight: bold;">연령별 매출 비중</p>
+						</div>
+
+						<div class="col-lg-3">
+							<p style="padding-top: 10px;font-weight: bold;">비율 : 30%</p>
+						</div>
+
+						<div class="col-lg-4">
+							<p style="font-size: 20px;font-weight: bold;">1. 60대</p>
+							<p>2. 50대</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-12 border border-info rounded border-opacity-25"
+							style="margin-top: 5%;height: 50vh; display: grid; align-items: center;">
+							<canvas id="saleChart" style="width: 80%; margin-left: 10%;"></canvas>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-12" style="margin-top: 5%;">
+							<h3 style="text-align: center;">예상 매출 계산 문구</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</div>
+
+	</div>
+	<div style="height: 50px; width: 100px;"></div>
+	</div>
+
+	<!-------------------------------------- ------------------------------------------------------->
+
+	<footer class="text-body-secondary py-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<p class="mb-1">이용약관 개인정보처리방침 회사소개</p>
+					<p></p>
+					<p class="mb-1">서울특별시 마포구 </p>
+					<p class="mb-0">대표번호 : 02-1111-1111 l FAX : 02-111-1111</p>
+				</div>
+				<div class="col-6">
+					<p class="float-end mb-1">
+					
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+
+
+</body>
+
+</html>

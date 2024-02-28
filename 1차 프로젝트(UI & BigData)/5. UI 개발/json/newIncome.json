@@ -1,0 +1,7342 @@
+[
+ {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "청운동",
+      "legaldong_cd": 1111010100,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 9049.02
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "신교동",
+      "legaldong_cd": 1111010200,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 5544.59
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "궁정동",
+      "legaldong_cd": 1111010300,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 7078.69
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "효자동",
+      "legaldong_cd": 1111010400,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 5403.79
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "창성동",
+      "legaldong_cd": 1111010500,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 5345.71
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "통인동",
+      "legaldong_cd": 1111010800,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 4784.15
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "누상동",
+      "legaldong_cd": 1111010900,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 4749.17
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "누하동",
+      "legaldong_cd": 1111011000,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 4302
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "옥인동",
+      "legaldong_cd": 1111011100,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 5638.12
+    },
+    {
+      "adstrd_nm": "서울시 종로구 청운효자동",
+      "adstrd_cd": 1111051500,
+      "legaldong_nm": "세종로",
+      "legaldong_cd": 1111011900,
+      "tot_po": 11680,
+      "tot_hshld_co": 4715,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 7285.86
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "통의동",
+      "legaldong_cd": 1111010600,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 5480.03
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "적선동",
+      "legaldong_cd": 1111010700,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 5675.54
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "체부동",
+      "legaldong_cd": 1111011200,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 4941.51
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "필운동",
+      "legaldong_cd": 1111011300,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 4943.26
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "내자동",
+      "legaldong_cd": 1111011400,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 4560.52
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "사직동",
+      "legaldong_cd": 1111011500,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 5152.87
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "도렴동",
+      "legaldong_cd": 1111011600,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 6699.8
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "당주동",
+      "legaldong_cd": 1111011700,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 6598.27
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "내수동",
+      "legaldong_cd": 1111011800,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 9203.43
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "세종로",
+      "legaldong_cd": 1111011900,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 7285.86
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "신문로1가",
+      "legaldong_cd": 1111012000,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 8127.08
+    },
+    {
+      "adstrd_nm": "서울시 종로구 사직동",
+      "adstrd_cd": 1111053000,
+      "legaldong_nm": "신문로2가",
+      "legaldong_cd": 1111012100,
+      "tot_po": 8705,
+      "tot_hshld_co": 3969,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 7340.22
+    },
+    {
+      "adstrd_nm": "서울시 종로구 삼청동",
+      "adstrd_cd": 1111054000,
+      "legaldong_nm": "팔판동",
+      "legaldong_cd": 1111013900,
+      "tot_po": 2433,
+      "tot_hshld_co": 1065,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 5545.68
+    },
+    {
+      "adstrd_nm": "서울시 종로구 삼청동",
+      "adstrd_cd": 1111054000,
+      "legaldong_nm": "삼청동",
+      "legaldong_cd": 1111014000,
+      "tot_po": 2433,
+      "tot_hshld_co": 1065,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 6082.54
+    },
+    {
+      "adstrd_nm": "서울시 종로구 삼청동",
+      "adstrd_cd": 1111054000,
+      "legaldong_nm": "안국동",
+      "legaldong_cd": 1111014100,
+      "tot_po": 2433,
+      "tot_hshld_co": 1065,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 5710.56
+    },
+    {
+      "adstrd_nm": "서울시 종로구 삼청동",
+      "adstrd_cd": 1111054000,
+      "legaldong_nm": "소격동",
+      "legaldong_cd": 1111014200,
+      "tot_po": 2433,
+      "tot_hshld_co": 1065,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 5715.89
+    },
+    {
+      "adstrd_nm": "서울시 종로구 삼청동",
+      "adstrd_cd": 1111054000,
+      "legaldong_nm": "화동",
+      "legaldong_cd": 1111014300,
+      "tot_po": 2433,
+      "tot_hshld_co": 1065,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 5335.81
+    },
+    {
+      "adstrd_nm": "서울시 종로구 삼청동",
+      "adstrd_cd": 1111054000,
+      "legaldong_nm": "사간동",
+      "legaldong_cd": 1111014400,
+      "tot_po": 2433,
+      "tot_hshld_co": 1065,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 5696.88
+    },
+    {
+      "adstrd_nm": "서울시 종로구 삼청동",
+      "adstrd_cd": 1111054000,
+      "legaldong_nm": "송현동",
+      "legaldong_cd": 1111014500,
+      "tot_po": 2433,
+      "tot_hshld_co": 1065,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 4409.57
+    },
+    {
+      "adstrd_nm": "서울시 종로구 부암동",
+      "adstrd_cd": 1111055000,
+      "legaldong_nm": "부암동",
+      "legaldong_cd": 1111018400,
+      "tot_po": 9666,
+      "tot_hshld_co": 3901,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 5784.19
+    },
+    {
+      "adstrd_nm": "서울시 종로구 부암동",
+      "adstrd_cd": 1111055000,
+      "legaldong_nm": "홍지동",
+      "legaldong_cd": 1111018500,
+      "tot_po": 9666,
+      "tot_hshld_co": 3901,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 5139.34
+    },
+    {
+      "adstrd_nm": "서울시 종로구 부암동",
+      "adstrd_cd": 1111055000,
+      "legaldong_nm": "신영동",
+      "legaldong_cd": 1111018600,
+      "tot_po": 9666,
+      "tot_hshld_co": 3901,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 4845.22
+    },
+    {
+      "adstrd_nm": "서울시 종로구 평창동",
+      "adstrd_cd": 1111056000,
+      "legaldong_nm": "구기동",
+      "legaldong_cd": 1111018200,
+      "tot_po": 17379,
+      "tot_hshld_co": 6398,
+      "hshld_per_po": 2.72,
+      "ave_income_amt": 6388.53
+    },
+    {
+      "adstrd_nm": "서울시 종로구 평창동",
+      "adstrd_cd": 1111056000,
+      "legaldong_nm": "평창동",
+      "legaldong_cd": 1111018300,
+      "tot_po": 17379,
+      "tot_hshld_co": 6398,
+      "hshld_per_po": 2.72,
+      "ave_income_amt": 10248.85
+    },
+    {
+      "adstrd_nm": "서울시 종로구 무악동",
+      "adstrd_cd": 1111057000,
+      "legaldong_nm": "무악동",
+      "legaldong_cd": 1111018700,
+      "tot_po": 8082,
+      "tot_hshld_co": 2899,
+      "hshld_per_po": 2.79,
+      "ave_income_amt": 4367.37
+    },
+    {
+      "adstrd_nm": "서울시 종로구 교남동",
+      "adstrd_cd": 1111058000,
+      "legaldong_nm": "교남동",
+      "legaldong_cd": 1111017600,
+      "tot_po": 10027,
+      "tot_hshld_co": 4174,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 6355.45
+    },
+    {
+      "adstrd_nm": "서울시 종로구 교남동",
+      "adstrd_cd": 1111058000,
+      "legaldong_nm": "평동",
+      "legaldong_cd": 1111017700,
+      "tot_po": 10027,
+      "tot_hshld_co": 4174,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 6338.5
+    },
+    {
+      "adstrd_nm": "서울시 종로구 교남동",
+      "adstrd_cd": 1111058000,
+      "legaldong_nm": "송월동",
+      "legaldong_cd": 1111017800,
+      "tot_po": 10027,
+      "tot_hshld_co": 4174,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3690
+    },
+    {
+      "adstrd_nm": "서울시 종로구 교남동",
+      "adstrd_cd": 1111058000,
+      "legaldong_nm": "홍파동",
+      "legaldong_cd": 1111017900,
+      "tot_po": 10027,
+      "tot_hshld_co": 4174,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 4451.5
+    },
+    {
+      "adstrd_nm": "서울시 종로구 교남동",
+      "adstrd_cd": 1111058000,
+      "legaldong_nm": "교북동",
+      "legaldong_cd": 1111018000,
+      "tot_po": 10027,
+      "tot_hshld_co": 4174,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 5704.8
+    },
+    {
+      "adstrd_nm": "서울시 종로구 교남동",
+      "adstrd_cd": 1111058000,
+      "legaldong_nm": "행촌동",
+      "legaldong_cd": 1111018100,
+      "tot_po": 10027,
+      "tot_hshld_co": 4174,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3643.11
+    },
+    {
+      "adstrd_nm": "서울시 종로구 가회동",
+      "adstrd_cd": 1111060000,
+      "legaldong_nm": "가회동",
+      "legaldong_cd": 1111014600,
+      "tot_po": 4169,
+      "tot_hshld_co": 1782,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 7168.63
+    },
+    {
+      "adstrd_nm": "서울시 종로구 가회동",
+      "adstrd_cd": 1111060000,
+      "legaldong_nm": "재동",
+      "legaldong_cd": 1111014700,
+      "tot_po": 4169,
+      "tot_hshld_co": 1782,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 5693.9
+    },
+    {
+      "adstrd_nm": "서울시 종로구 가회동",
+      "adstrd_cd": 1111060000,
+      "legaldong_nm": "계동",
+      "legaldong_cd": 1111014800,
+      "tot_po": 4169,
+      "tot_hshld_co": 1782,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 5349.21
+    },
+    {
+      "adstrd_nm": "서울시 종로구 가회동",
+      "adstrd_cd": 1111060000,
+      "legaldong_nm": "원서동",
+      "legaldong_cd": 1111014900,
+      "tot_po": 4169,
+      "tot_hshld_co": 1782,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 5039.73
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "세종로",
+      "legaldong_cd": 1111011900,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 7285.86
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "청진동",
+      "legaldong_cd": 1111012200,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 7638.77
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "서린동",
+      "legaldong_cd": 1111012300,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 8312.43
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "수송동",
+      "legaldong_cd": 1111012400,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 5081.21
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "중학동",
+      "legaldong_cd": 1111012500,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 6334.7
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "종로1가",
+      "legaldong_cd": 1111012600,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 8501.67
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "공평동",
+      "legaldong_cd": 1111012700,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 7161.4
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "관훈동",
+      "legaldong_cd": 1111012800,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 5468.59
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "견지동",
+      "legaldong_cd": 1111012900,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 4311.09
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "와룡동",
+      "legaldong_cd": 1111013000,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 3647.67
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "권농동",
+      "legaldong_cd": 1111013100,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 2764.42
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "운니동",
+      "legaldong_cd": 1111013200,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 4103.66
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "익선동",
+      "legaldong_cd": 1111013300,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 4269.5
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "경운동",
+      "legaldong_cd": 1111013400,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 4199.2
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "관철동",
+      "legaldong_cd": 1111013500,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 9184.04
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "인사동",
+      "legaldong_cd": 1111013600,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 6353.7
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "낙원동",
+      "legaldong_cd": 1111013700,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 4371.47
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "종로2가",
+      "legaldong_cd": 1111013800,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 11933.19
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "훈정동",
+      "legaldong_cd": 1111015000,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 3771
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "묘동",
+      "legaldong_cd": 1111015100,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 4960.92
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "봉익동",
+      "legaldong_cd": 1111015200,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 3703.98
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "돈의동",
+      "legaldong_cd": 1111015300,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 2973.83
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "장사동",
+      "legaldong_cd": 1111015400,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 5785.87
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "관수동",
+      "legaldong_cd": 1111015500,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 5464.29
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "종로3가",
+      "legaldong_cd": 1111015600,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 8735.15
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "인의동",
+      "legaldong_cd": 1111015700,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 4087.63
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "예지동",
+      "legaldong_cd": 1111015800,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 5669.22
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "원남동",
+      "legaldong_cd": 1111015900,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 3178.03
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로1·2·3·4가동",
+      "adstrd_cd": 1111061500,
+      "legaldong_nm": "종로4가",
+      "legaldong_cd": 1111016100,
+      "tot_po": 6707,
+      "tot_hshld_co": 3978,
+      "hshld_per_po": 1.69,
+      "ave_income_amt": 6625.06
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로5·6가동",
+      "adstrd_cd": 1111063000,
+      "legaldong_nm": "연지동",
+      "legaldong_cd": 1111016000,
+      "tot_po": 5456,
+      "tot_hshld_co": 2835,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 3567.91
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로5·6가동",
+      "adstrd_cd": 1111063000,
+      "legaldong_nm": "효제동",
+      "legaldong_cd": 1111016200,
+      "tot_po": 5456,
+      "tot_hshld_co": 2835,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 3782.97
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로5·6가동",
+      "adstrd_cd": 1111063000,
+      "legaldong_nm": "종로5가",
+      "legaldong_cd": 1111016300,
+      "tot_po": 5456,
+      "tot_hshld_co": 2835,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 5572.95
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로5·6가동",
+      "adstrd_cd": 1111063000,
+      "legaldong_nm": "종로6가",
+      "legaldong_cd": 1111016400,
+      "tot_po": 5456,
+      "tot_hshld_co": 2835,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 3692.62
+    },
+    {
+      "adstrd_nm": "서울시 종로구 종로5·6가동",
+      "adstrd_cd": 1111063000,
+      "legaldong_nm": "충신동",
+      "legaldong_cd": 1111016700,
+      "tot_po": 5456,
+      "tot_hshld_co": 2835,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 3002.39
+    },
+    {
+      "adstrd_nm": "서울시 종로구 이화동",
+      "adstrd_cd": 1111064000,
+      "legaldong_nm": "이화동",
+      "legaldong_cd": 1111016500,
+      "tot_po": 8241,
+      "tot_hshld_co": 4172,
+      "hshld_per_po": 1.98,
+      "ave_income_amt": 3522.07
+    },
+    {
+      "adstrd_nm": "서울시 종로구 이화동",
+      "adstrd_cd": 1111064000,
+      "legaldong_nm": "연건동",
+      "legaldong_cd": 1111016600,
+      "tot_po": 8241,
+      "tot_hshld_co": 4172,
+      "hshld_per_po": 1.98,
+      "ave_income_amt": 3604.14
+    },
+    {
+      "adstrd_nm": "서울시 종로구 이화동",
+      "adstrd_cd": 1111064000,
+      "legaldong_nm": "동숭동",
+      "legaldong_cd": 1111016800,
+      "tot_po": 8241,
+      "tot_hshld_co": 4172,
+      "hshld_per_po": 1.98,
+      "ave_income_amt": 4688.85
+    },
+    {
+      "adstrd_nm": "서울시 종로구 혜화동",
+      "adstrd_cd": 1111065000,
+      "legaldong_nm": "와룡동",
+      "legaldong_cd": 1111013000,
+      "tot_po": 21183,
+      "tot_hshld_co": 10402,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 3647.67
+    },
+    {
+      "adstrd_nm": "서울시 종로구 혜화동",
+      "adstrd_cd": 1111065000,
+      "legaldong_nm": "혜화동",
+      "legaldong_cd": 1111016900,
+      "tot_po": 21183,
+      "tot_hshld_co": 10402,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 7149.03
+    },
+    {
+      "adstrd_nm": "서울시 종로구 혜화동",
+      "adstrd_cd": 1111065000,
+      "legaldong_nm": "명륜1가",
+      "legaldong_cd": 1111017000,
+      "tot_po": 21183,
+      "tot_hshld_co": 10402,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 6465.37
+    },
+    {
+      "adstrd_nm": "서울시 종로구 혜화동",
+      "adstrd_cd": 1111065000,
+      "legaldong_nm": "명륜2가",
+      "legaldong_cd": 1111017100,
+      "tot_po": 21183,
+      "tot_hshld_co": 10402,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 5707.66
+    },
+    {
+      "adstrd_nm": "서울시 종로구 혜화동",
+      "adstrd_cd": 1111065000,
+      "legaldong_nm": "명륜4가",
+      "legaldong_cd": 1111017200,
+      "tot_po": 21183,
+      "tot_hshld_co": 10402,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 5056.93
+    },
+    {
+      "adstrd_nm": "서울시 종로구 혜화동",
+      "adstrd_cd": 1111065000,
+      "legaldong_nm": "명륜3가",
+      "legaldong_cd": 1111017300,
+      "tot_po": 21183,
+      "tot_hshld_co": 10402,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 4089.07
+    },
+    {
+      "adstrd_nm": "서울시 종로구 창신1동",
+      "adstrd_cd": 1111067000,
+      "legaldong_nm": "창신동",
+      "legaldong_cd": 1111017400,
+      "tot_po": 5791,
+      "tot_hshld_co": 2787,
+      "hshld_per_po": 2.08,
+      "ave_income_amt": 3468.01
+    },
+    {
+      "adstrd_nm": "서울시 종로구 창신2동",
+      "adstrd_cd": 1111068000,
+      "legaldong_nm": "창신동",
+      "legaldong_cd": 1111017400,
+      "tot_po": 9369,
+      "tot_hshld_co": 4116,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 3468.01
+    },
+    {
+      "adstrd_nm": "서울시 종로구 창신3동",
+      "adstrd_cd": 1111069000,
+      "legaldong_nm": "창신동",
+      "legaldong_cd": 1111017400,
+      "tot_po": 6773,
+      "tot_hshld_co": 2670,
+      "hshld_per_po": 2.54,
+      "ave_income_amt": 3468.01
+    },
+    {
+      "adstrd_nm": "서울시 종로구 숭인1동",
+      "adstrd_cd": 1111070000,
+      "legaldong_nm": "숭인동",
+      "legaldong_cd": 1111017500,
+      "tot_po": 6110,
+      "tot_hshld_co": 2793,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 3917.41
+    },
+    {
+      "adstrd_nm": "서울시 종로구 숭인2동",
+      "adstrd_cd": 1111071000,
+      "legaldong_nm": "숭인동",
+      "legaldong_cd": 1111017500,
+      "tot_po": 9520,
+      "tot_hshld_co": 5413,
+      "hshld_per_po": 1.76,
+      "ave_income_amt": 3917.41
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "북창동",
+      "legaldong_cd": 1114011300,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 5644.67
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "태평로2가",
+      "legaldong_cd": 1114011400,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 8379.33
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "남대문로3가",
+      "legaldong_cd": 1114011600,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 8823.5
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "남대문로4가",
+      "legaldong_cd": 1114011700,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 8081.5
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "봉래동1가",
+      "legaldong_cd": 1114011900,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 4800.67
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "서소문동",
+      "legaldong_cd": 1114016600,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 7337.2
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "정동",
+      "legaldong_cd": 1114016700,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 5718.23
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "순화동",
+      "legaldong_cd": 1114016800,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 4979.9
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "의주로1가",
+      "legaldong_cd": 1114016900,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 6193
+    },
+    {
+      "adstrd_nm": "서울시 중구 소공동",
+      "adstrd_cd": 1114052000,
+      "legaldong_nm": "충정로1가",
+      "legaldong_cd": 1114017000,
+      "tot_po": 2461,
+      "tot_hshld_co": 1101,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 5596
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "남창동",
+      "legaldong_cd": 1114011200,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 5321.58
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "남대문로3가",
+      "legaldong_cd": 1114011600,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 8823.5
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "남대문로4가",
+      "legaldong_cd": 1114011700,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 8081.5
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "남대문로5가",
+      "legaldong_cd": 1114011800,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 6636.47
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "봉래동1가",
+      "legaldong_cd": 1114011900,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 4800.67
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "회현동1가",
+      "legaldong_cd": 1114012100,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 4809.91
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "회현동2가",
+      "legaldong_cd": 1114012200,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 4839.48
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "충무로1가",
+      "legaldong_cd": 1114012400,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 18108.67
+    },
+    {
+      "adstrd_nm": "서울시 중구 회현동",
+      "adstrd_cd": 1114054000,
+      "legaldong_nm": "순화동",
+      "legaldong_cd": 1114016800,
+      "tot_po": 4668,
+      "tot_hshld_co": 2200,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 4979.9
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "무교동",
+      "legaldong_cd": 1114010100,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 10062.75
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "다동",
+      "legaldong_cd": 1114010200,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 9189.7
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "태평로1가",
+      "legaldong_cd": 1114010300,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 8740.6
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "을지로1가",
+      "legaldong_cd": 1114010400,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 7885
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "을지로2가",
+      "legaldong_cd": 1114010500,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 9106.89
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "삼각동",
+      "legaldong_cd": 1114010700,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 10401
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "수하동",
+      "legaldong_cd": 1114010800,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 9788
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "수표동",
+      "legaldong_cd": 1114011000,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 8626.63
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "회현동1가",
+      "legaldong_cd": 1114012100,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 4809.91
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "회현동2가",
+      "legaldong_cd": 1114012200,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 4839.48
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "회현동3가",
+      "legaldong_cd": 1114012300,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 5257.5
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "충무로1가",
+      "legaldong_cd": 1114012400,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 18108.67
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "충무로2가",
+      "legaldong_cd": 1114012500,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 12673.73
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "명동1가",
+      "legaldong_cd": 1114012600,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 16904.8
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "명동2가",
+      "legaldong_cd": 1114012700,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 20000
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "남산동1가",
+      "legaldong_cd": 1114012800,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 5322.85
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "남산동2가",
+      "legaldong_cd": 1114012900,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 5028.38
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "남산동3가",
+      "legaldong_cd": 1114013000,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 4922.68
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "저동1가",
+      "legaldong_cd": 1114013100,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 6928.83
+    },
+    {
+      "adstrd_nm": "서울시 중구 명동",
+      "adstrd_cd": 1114055000,
+      "legaldong_nm": "예장동",
+      "legaldong_cd": 1114014200,
+      "tot_po": 2794,
+      "tot_hshld_co": 1220,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 5253.56
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "충무로4가",
+      "legaldong_cd": 1114013200,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4318.48
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "충무로5가",
+      "legaldong_cd": 1114013300,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4495.64
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "묵정동",
+      "legaldong_cd": 1114013600,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4586.1
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "필동1가",
+      "legaldong_cd": 1114013700,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4070.96
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "필동2가",
+      "legaldong_cd": 1114013800,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 5023.45
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "필동3가",
+      "legaldong_cd": 1114013900,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4894.48
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "남학동",
+      "legaldong_cd": 1114014000,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 3744.95
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "주자동",
+      "legaldong_cd": 1114014100,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 5295.33
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "예장동",
+      "legaldong_cd": 1114014200,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 5253.56
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "장충동2가",
+      "legaldong_cd": 1114014400,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4207.37
+    },
+    {
+      "adstrd_nm": "서울시 중구 필동",
+      "adstrd_cd": 1114057000,
+      "legaldong_nm": "충무로3가",
+      "legaldong_cd": 1114015800,
+      "tot_po": 4955,
+      "tot_hshld_co": 2283,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 5396.52
+    },
+    {
+      "adstrd_nm": "서울시 중구 장충동",
+      "adstrd_cd": 1114058000,
+      "legaldong_nm": "묵정동",
+      "legaldong_cd": 1114013600,
+      "tot_po": 5989,
+      "tot_hshld_co": 3076,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 4586.1
+    },
+    {
+      "adstrd_nm": "서울시 중구 장충동",
+      "adstrd_cd": 1114058000,
+      "legaldong_nm": "장충동1가",
+      "legaldong_cd": 1114014300,
+      "tot_po": 5989,
+      "tot_hshld_co": 3076,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 6211.07
+    },
+    {
+      "adstrd_nm": "서울시 중구 장충동",
+      "adstrd_cd": 1114058000,
+      "legaldong_nm": "장충동2가",
+      "legaldong_cd": 1114014400,
+      "tot_po": 5989,
+      "tot_hshld_co": 3076,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 4207.37
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "충무로4가",
+      "legaldong_cd": 1114013200,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 4318.48
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "충무로5가",
+      "legaldong_cd": 1114013300,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 4495.64
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "인현동2가",
+      "legaldong_cd": 1114013400,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 3935.14
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "예관동",
+      "legaldong_cd": 1114013500,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 4221.92
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "광희동1가",
+      "legaldong_cd": 1114014500,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 3981.56
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "광희동2가",
+      "legaldong_cd": 1114014600,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 3524.27
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "쌍림동",
+      "legaldong_cd": 1114014700,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 3204.44
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "을지로6가",
+      "legaldong_cd": 1114014800,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 5024.93
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "을지로7가",
+      "legaldong_cd": 1114014900,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 3803.02
+    },
+    {
+      "adstrd_nm": "서울시 중구 광희동",
+      "adstrd_cd": 1114059000,
+      "legaldong_nm": "오장동",
+      "legaldong_cd": 1114015400,
+      "tot_po": 6141,
+      "tot_hshld_co": 3392,
+      "hshld_per_po": 1.81,
+      "ave_income_amt": 3562.26
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "을지로4가",
+      "legaldong_cd": 1114015000,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 4916.87
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "을지로5가",
+      "legaldong_cd": 1114015100,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 4168.24
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "주교동",
+      "legaldong_cd": 1114015200,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 3671.48
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "방산동",
+      "legaldong_cd": 1114015300,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 4578.51
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "을지로3가",
+      "legaldong_cd": 1114015500,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 4983.88
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "입정동",
+      "legaldong_cd": 1114015600,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 4081.56
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "산림동",
+      "legaldong_cd": 1114015700,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 3576.84
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "초동",
+      "legaldong_cd": 1114015900,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 4137.63
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "인현동1가",
+      "legaldong_cd": 1114016000,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 3501.89
+    },
+    {
+      "adstrd_nm": "서울시 중구 을지로동",
+      "adstrd_cd": 1114060500,
+      "legaldong_nm": "저동2가",
+      "legaldong_cd": 1114016100,
+      "tot_po": 1847,
+      "tot_hshld_co": 1203,
+      "hshld_per_po": 1.54,
+      "ave_income_amt": 5206.81
+    },
+    {
+      "adstrd_nm": "서울시 중구 신당동",
+      "adstrd_cd": 1114061500,
+      "legaldong_nm": "신당동",
+      "legaldong_cd": 1114016200,
+      "tot_po": 9342,
+      "tot_hshld_co": 4887,
+      "hshld_per_po": 1.91,
+      "ave_income_amt": 4103.73
+    },
+    {
+      "adstrd_nm": "서울시 중구 신당동",
+      "adstrd_cd": 1114061500,
+      "legaldong_nm": "흥인동",
+      "legaldong_cd": 1114016300,
+      "tot_po": 9342,
+      "tot_hshld_co": 4887,
+      "hshld_per_po": 1.91,
+      "ave_income_amt": 3258.35
+    },
+    {
+      "adstrd_nm": "서울시 중구 신당동",
+      "adstrd_cd": 1114061500,
+      "legaldong_nm": "무학동",
+      "legaldong_cd": 1114016400,
+      "tot_po": 9342,
+      "tot_hshld_co": 4887,
+      "hshld_per_po": 1.91,
+      "ave_income_amt": 4004.46
+    },
+    {
+      "adstrd_nm": "서울시 중구 다산동",
+      "adstrd_cd": 1114062500,
+      "legaldong_nm": "신당동",
+      "legaldong_cd": 1114016200,
+      "tot_po": 14279,
+      "tot_hshld_co": 6562,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 4103.73
+    },
+    {
+      "adstrd_nm": "서울시 중구 약수동",
+      "adstrd_cd": 1114063500,
+      "legaldong_nm": "신당동",
+      "legaldong_cd": 1114016200,
+      "tot_po": 16398,
+      "tot_hshld_co": 7012,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 4103.73
+    },
+    {
+      "adstrd_nm": "서울시 중구 청구동",
+      "adstrd_cd": 1114064500,
+      "legaldong_nm": "신당동",
+      "legaldong_cd": 1114016200,
+      "tot_po": 13579,
+      "tot_hshld_co": 5884,
+      "hshld_per_po": 2.31,
+      "ave_income_amt": 4103.73
+    },
+    {
+      "adstrd_nm": "서울시 중구 신당5동",
+      "adstrd_cd": 1114065000,
+      "legaldong_nm": "신당동",
+      "legaldong_cd": 1114016200,
+      "tot_po": 10604,
+      "tot_hshld_co": 5200,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 4103.73
+    },
+    {
+      "adstrd_nm": "서울시 중구 동화동",
+      "adstrd_cd": 1114066500,
+      "legaldong_nm": "신당동",
+      "legaldong_cd": 1114016200,
+      "tot_po": 10372,
+      "tot_hshld_co": 3878,
+      "hshld_per_po": 2.67,
+      "ave_income_amt": 4103.73
+    },
+    {
+      "adstrd_nm": "서울시 중구 황학동",
+      "adstrd_cd": 1114067000,
+      "legaldong_nm": "황학동",
+      "legaldong_cd": 1114016500,
+      "tot_po": 13372,
+      "tot_hshld_co": 6788,
+      "hshld_per_po": 1.97,
+      "ave_income_amt": 3607.53
+    },
+    {
+      "adstrd_nm": "서울시 중구 중림동",
+      "adstrd_cd": 1114068000,
+      "legaldong_nm": "중림동",
+      "legaldong_cd": 1114017100,
+      "tot_po": 11943,
+      "tot_hshld_co": 5131,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 3778.05
+    },
+    {
+      "adstrd_nm": "서울시 중구 중림동",
+      "adstrd_cd": 1114068000,
+      "legaldong_nm": "의주로2가",
+      "legaldong_cd": 1114017200,
+      "tot_po": 11943,
+      "tot_hshld_co": 5131,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 3442.5
+    },
+    {
+      "adstrd_nm": "서울시 중구 중림동",
+      "adstrd_cd": 1114068000,
+      "legaldong_nm": "만리동1가",
+      "legaldong_cd": 1114017300,
+      "tot_po": 11943,
+      "tot_hshld_co": 5131,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 3944.92
+    },
+    {
+      "adstrd_nm": "서울시 중구 중림동",
+      "adstrd_cd": 1114068000,
+      "legaldong_nm": "만리동2가",
+      "legaldong_cd": 1114017400,
+      "tot_po": 11943,
+      "tot_hshld_co": 5131,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 3233.45
+    },
+    {
+      "adstrd_nm": "서울시 용산구 후암동",
+      "adstrd_cd": 1117051000,
+      "legaldong_nm": "후암동",
+      "legaldong_cd": 1117010100,
+      "tot_po": 16933,
+      "tot_hshld_co": 7555,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 4855.74
+    },
+    {
+      "adstrd_nm": "서울시 용산구 용산2가동",
+      "adstrd_cd": 1117052000,
+      "legaldong_nm": "용산동2가",
+      "legaldong_cd": 1117010200,
+      "tot_po": 10505,
+      "tot_hshld_co": 5055,
+      "hshld_per_po": 2.08,
+      "ave_income_amt": 4740.91
+    },
+    {
+      "adstrd_nm": "서울시 용산구 남영동",
+      "adstrd_cd": 1117053000,
+      "legaldong_nm": "갈월동",
+      "legaldong_cd": 1117010400,
+      "tot_po": 7123,
+      "tot_hshld_co": 4053,
+      "hshld_per_po": 1.76,
+      "ave_income_amt": 5949.85
+    },
+    {
+      "adstrd_nm": "서울시 용산구 남영동",
+      "adstrd_cd": 1117053000,
+      "legaldong_nm": "남영동",
+      "legaldong_cd": 1117010500,
+      "tot_po": 7123,
+      "tot_hshld_co": 4053,
+      "hshld_per_po": 1.76,
+      "ave_income_amt": 4993.31
+    },
+    {
+      "adstrd_nm": "서울시 용산구 남영동",
+      "adstrd_cd": 1117053000,
+      "legaldong_nm": "용산동1가",
+      "legaldong_cd": 1117010600,
+      "tot_po": 7123,
+      "tot_hshld_co": 4053,
+      "hshld_per_po": 1.76,
+      "ave_income_amt": 3626
+    },
+    {
+      "adstrd_nm": "서울시 용산구 남영동",
+      "adstrd_cd": 1117053000,
+      "legaldong_nm": "동자동",
+      "legaldong_cd": 1117010700,
+      "tot_po": 7123,
+      "tot_hshld_co": 4053,
+      "hshld_per_po": 1.76,
+      "ave_income_amt": 5053.49
+    },
+    {
+      "adstrd_nm": "서울시 용산구 청파동",
+      "adstrd_cd": 1117055500,
+      "legaldong_nm": "서계동",
+      "legaldong_cd": 1117010800,
+      "tot_po": 19822,
+      "tot_hshld_co": 10177,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 3854.19
+    },
+    {
+      "adstrd_nm": "서울시 용산구 청파동",
+      "adstrd_cd": 1117055500,
+      "legaldong_nm": "청파동1가",
+      "legaldong_cd": 1117010900,
+      "tot_po": 19822,
+      "tot_hshld_co": 10177,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 4216.07
+    },
+    {
+      "adstrd_nm": "서울시 용산구 청파동",
+      "adstrd_cd": 1117055500,
+      "legaldong_nm": "청파동2가",
+      "legaldong_cd": 1117011000,
+      "tot_po": 19822,
+      "tot_hshld_co": 10177,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 4765.19
+    },
+    {
+      "adstrd_nm": "서울시 용산구 청파동",
+      "adstrd_cd": 1117055500,
+      "legaldong_nm": "청파동3가",
+      "legaldong_cd": 1117011100,
+      "tot_po": 19822,
+      "tot_hshld_co": 10177,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 4924.4
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로1동",
+      "adstrd_cd": 1117056000,
+      "legaldong_nm": "원효로1가",
+      "legaldong_cd": 1117011200,
+      "tot_po": 15443,
+      "tot_hshld_co": 7109,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4762.21
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로1동",
+      "adstrd_cd": 1117056000,
+      "legaldong_nm": "원효로2가",
+      "legaldong_cd": 1117011300,
+      "tot_po": 15443,
+      "tot_hshld_co": 7109,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 3978.18
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로1동",
+      "adstrd_cd": 1117056000,
+      "legaldong_nm": "문배동",
+      "legaldong_cd": 1117012200,
+      "tot_po": 15443,
+      "tot_hshld_co": 7109,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 3478.62
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로1동",
+      "adstrd_cd": 1117056000,
+      "legaldong_nm": "신계동",
+      "legaldong_cd": 1117012300,
+      "tot_po": 15443,
+      "tot_hshld_co": 7109,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4479.83
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로2동",
+      "adstrd_cd": 1117057000,
+      "legaldong_nm": "신창동",
+      "legaldong_cd": 1117011400,
+      "tot_po": 13436,
+      "tot_hshld_co": 5515,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 4340.64
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로2동",
+      "adstrd_cd": 1117057000,
+      "legaldong_nm": "산천동",
+      "legaldong_cd": 1117011500,
+      "tot_po": 13436,
+      "tot_hshld_co": 5515,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 4718.38
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로2동",
+      "adstrd_cd": 1117057000,
+      "legaldong_nm": "청암동",
+      "legaldong_cd": 1117011600,
+      "tot_po": 13436,
+      "tot_hshld_co": 5515,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 5037.87
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로2동",
+      "adstrd_cd": 1117057000,
+      "legaldong_nm": "원효로3가",
+      "legaldong_cd": 1117011700,
+      "tot_po": 13436,
+      "tot_hshld_co": 5515,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 4017.35
+    },
+    {
+      "adstrd_nm": "서울시 용산구 원효로2동",
+      "adstrd_cd": 1117057000,
+      "legaldong_nm": "원효로4가",
+      "legaldong_cd": 1117011800,
+      "tot_po": 13436,
+      "tot_hshld_co": 5515,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 4688.41
+    },
+    {
+      "adstrd_nm": "서울시 용산구 효창동",
+      "adstrd_cd": 1117058000,
+      "legaldong_nm": "효창동",
+      "legaldong_cd": 1117011900,
+      "tot_po": 9866,
+      "tot_hshld_co": 3966,
+      "hshld_per_po": 2.49,
+      "ave_income_amt": 5484.75
+    },
+    {
+      "adstrd_nm": "서울시 용산구 용문동",
+      "adstrd_cd": 1117059000,
+      "legaldong_nm": "도원동",
+      "legaldong_cd": 1117012000,
+      "tot_po": 11669,
+      "tot_hshld_co": 4996,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 3976.65
+    },
+    {
+      "adstrd_nm": "서울시 용산구 용문동",
+      "adstrd_cd": 1117059000,
+      "legaldong_nm": "용문동",
+      "legaldong_cd": 1117012100,
+      "tot_po": 11669,
+      "tot_hshld_co": 4996,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 4609.48
+    },
+    {
+      "adstrd_nm": "서울시 용산구 한강로동",
+      "adstrd_cd": 1117062500,
+      "legaldong_nm": "한강로1가",
+      "legaldong_cd": 1117012400,
+      "tot_po": 19821,
+      "tot_hshld_co": 9321,
+      "hshld_per_po": 2.13,
+      "ave_income_amt": 6437.66
+    },
+    {
+      "adstrd_nm": "서울시 용산구 한강로동",
+      "adstrd_cd": 1117062500,
+      "legaldong_nm": "한강로2가",
+      "legaldong_cd": 1117012500,
+      "tot_po": 19821,
+      "tot_hshld_co": 9321,
+      "hshld_per_po": 2.13,
+      "ave_income_amt": 6382.24
+    },
+    {
+      "adstrd_nm": "서울시 용산구 한강로동",
+      "adstrd_cd": 1117062500,
+      "legaldong_nm": "용산동3가",
+      "legaldong_cd": 1117012600,
+      "tot_po": 19821,
+      "tot_hshld_co": 9321,
+      "hshld_per_po": 2.13,
+      "ave_income_amt": 6011.1
+    },
+    {
+      "adstrd_nm": "서울시 용산구 한강로동",
+      "adstrd_cd": 1117062500,
+      "legaldong_nm": "용산동5가",
+      "legaldong_cd": 1117012700,
+      "tot_po": 19821,
+      "tot_hshld_co": 9321,
+      "hshld_per_po": 2.13,
+      "ave_income_amt": 6190.2
+    },
+    {
+      "adstrd_nm": "서울시 용산구 한강로동",
+      "adstrd_cd": 1117062500,
+      "legaldong_nm": "한강로3가",
+      "legaldong_cd": 1117012800,
+      "tot_po": 19821,
+      "tot_hshld_co": 9321,
+      "hshld_per_po": 2.13,
+      "ave_income_amt": 5856.27
+    },
+    {
+      "adstrd_nm": "서울시 용산구 이촌1동",
+      "adstrd_cd": 1117063000,
+      "legaldong_nm": "이촌동",
+      "legaldong_cd": 1117012900,
+      "tot_po": 26195,
+      "tot_hshld_co": 9260,
+      "hshld_per_po": 2.83,
+      "ave_income_amt": 7292.89
+    },
+    {
+      "adstrd_nm": "서울시 용산구 이촌2동",
+      "adstrd_cd": 1117064000,
+      "legaldong_nm": "이촌동",
+      "legaldong_cd": 1117012900,
+      "tot_po": 8136,
+      "tot_hshld_co": 3337,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 7292.89
+    },
+    {
+      "adstrd_nm": "서울시 용산구 이태원1동",
+      "adstrd_cd": 1117065000,
+      "legaldong_nm": "이태원동",
+      "legaldong_cd": 1117013000,
+      "tot_po": 7991,
+      "tot_hshld_co": 3941,
+      "hshld_per_po": 2.03,
+      "ave_income_amt": 7216.47
+    },
+    {
+      "adstrd_nm": "서울시 용산구 이태원2동",
+      "adstrd_cd": 1117066000,
+      "legaldong_nm": "이태원동",
+      "legaldong_cd": 1117013000,
+      "tot_po": 9780,
+      "tot_hshld_co": 4739,
+      "hshld_per_po": 2.06,
+      "ave_income_amt": 7216.47
+    },
+    {
+      "adstrd_nm": "서울시 용산구 한남동",
+      "adstrd_cd": 1117068500,
+      "legaldong_nm": "한남동",
+      "legaldong_cd": 1117013100,
+      "tot_po": 21524,
+      "tot_hshld_co": 10333,
+      "hshld_per_po": 2.08,
+      "ave_income_amt": 8144.87
+    },
+    {
+      "adstrd_nm": "서울시 용산구 서빙고동",
+      "adstrd_cd": 1117069000,
+      "legaldong_nm": "동빙고동",
+      "legaldong_cd": 1117013200,
+      "tot_po": 12672,
+      "tot_hshld_co": 4858,
+      "hshld_per_po": 2.61,
+      "ave_income_amt": 9098.59
+    },
+    {
+      "adstrd_nm": "서울시 용산구 서빙고동",
+      "adstrd_cd": 1117069000,
+      "legaldong_nm": "서빙고동",
+      "legaldong_cd": 1117013300,
+      "tot_po": 12672,
+      "tot_hshld_co": 4858,
+      "hshld_per_po": 2.61,
+      "ave_income_amt": 6038.32
+    },
+    {
+      "adstrd_nm": "서울시 용산구 서빙고동",
+      "adstrd_cd": 1117069000,
+      "legaldong_nm": "주성동",
+      "legaldong_cd": 1117013400,
+      "tot_po": 12672,
+      "tot_hshld_co": 4858,
+      "hshld_per_po": 2.61,
+      "ave_income_amt": 9367.63
+    },
+    {
+      "adstrd_nm": "서울시 용산구 서빙고동",
+      "adstrd_cd": 1117069000,
+      "legaldong_nm": "용산동6가",
+      "legaldong_cd": 1117013500,
+      "tot_po": 12672,
+      "tot_hshld_co": 4858,
+      "hshld_per_po": 2.61,
+      "ave_income_amt": 5128
+    },
+    {
+      "adstrd_nm": "서울시 용산구 보광동",
+      "adstrd_cd": 1117070000,
+      "legaldong_nm": "보광동",
+      "legaldong_cd": 1117013600,
+      "tot_po": 14966,
+      "tot_hshld_co": 7216,
+      "hshld_per_po": 2.07,
+      "ave_income_amt": 7137.76
+    },
+    {
+      "adstrd_nm": "서울시 성동구 왕십리2동",
+      "adstrd_cd": 1120052000,
+      "legaldong_nm": "하왕십리동",
+      "legaldong_cd": 1120010200,
+      "tot_po": 16744,
+      "tot_hshld_co": 7154,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 4120.57
+    },
+    {
+      "adstrd_nm": "서울시 성동구 왕십리도선동",
+      "adstrd_cd": 1120053500,
+      "legaldong_nm": "상왕십리동",
+      "legaldong_cd": 1120010100,
+      "tot_po": 26884,
+      "tot_hshld_co": 11312,
+      "hshld_per_po": 2.38,
+      "ave_income_amt": 3866.48
+    },
+    {
+      "adstrd_nm": "서울시 성동구 왕십리도선동",
+      "adstrd_cd": 1120053500,
+      "legaldong_nm": "하왕십리동",
+      "legaldong_cd": 1120010200,
+      "tot_po": 26884,
+      "tot_hshld_co": 11312,
+      "hshld_per_po": 2.38,
+      "ave_income_amt": 4120.57
+    },
+    {
+      "adstrd_nm": "서울시 성동구 왕십리도선동",
+      "adstrd_cd": 1120053500,
+      "legaldong_nm": "홍익동",
+      "legaldong_cd": 1120010300,
+      "tot_po": 26884,
+      "tot_hshld_co": 11312,
+      "hshld_per_po": 2.38,
+      "ave_income_amt": 4149.77
+    },
+    {
+      "adstrd_nm": "서울시 성동구 왕십리도선동",
+      "adstrd_cd": 1120053500,
+      "legaldong_nm": "도선동",
+      "legaldong_cd": 1120010400,
+      "tot_po": 26884,
+      "tot_hshld_co": 11312,
+      "hshld_per_po": 2.38,
+      "ave_income_amt": 4478.54
+    },
+    {
+      "adstrd_nm": "서울시 성동구 마장동",
+      "adstrd_cd": 1120054000,
+      "legaldong_nm": "마장동",
+      "legaldong_cd": 1120010500,
+      "tot_po": 22666,
+      "tot_hshld_co": 10116,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 3957.2
+    },
+    {
+      "adstrd_nm": "서울시 성동구 사근동",
+      "adstrd_cd": 1120055000,
+      "legaldong_nm": "사근동",
+      "legaldong_cd": 1120010600,
+      "tot_po": 15030,
+      "tot_hshld_co": 8081,
+      "hshld_per_po": 1.86,
+      "ave_income_amt": 3886.71
+    },
+    {
+      "adstrd_nm": "서울시 성동구 사근동",
+      "adstrd_cd": 1120055000,
+      "legaldong_nm": "행당동",
+      "legaldong_cd": 1120010700,
+      "tot_po": 15030,
+      "tot_hshld_co": 8081,
+      "hshld_per_po": 1.86,
+      "ave_income_amt": 5223.06
+    },
+    {
+      "adstrd_nm": "서울시 성동구 행당1동",
+      "adstrd_cd": 1120056000,
+      "legaldong_nm": "행당동",
+      "legaldong_cd": 1120010700,
+      "tot_po": 13782,
+      "tot_hshld_co": 5946,
+      "hshld_per_po": 2.32,
+      "ave_income_amt": 5223.06
+    },
+    {
+      "adstrd_nm": "서울시 성동구 행당2동",
+      "adstrd_cd": 1120057000,
+      "legaldong_nm": "행당동",
+      "legaldong_cd": 1120010700,
+      "tot_po": 23064,
+      "tot_hshld_co": 8788,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 5223.06
+    },
+    {
+      "adstrd_nm": "서울시 성동구 응봉동",
+      "adstrd_cd": 1120058000,
+      "legaldong_nm": "응봉동",
+      "legaldong_cd": 1120010800,
+      "tot_po": 14949,
+      "tot_hshld_co": 5514,
+      "hshld_per_po": 2.71,
+      "ave_income_amt": 5162.03
+    },
+    {
+      "adstrd_nm": "서울시 성동구 금호1가동",
+      "adstrd_cd": 1120059000,
+      "legaldong_nm": "금호동1가",
+      "legaldong_cd": 1120010900,
+      "tot_po": 15058,
+      "tot_hshld_co": 6074,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 3765.25
+    },
+    {
+      "adstrd_nm": "서울시 성동구 금호2·3가동",
+      "adstrd_cd": 1120061500,
+      "legaldong_nm": "금호동2가",
+      "legaldong_cd": 1120011000,
+      "tot_po": 22458,
+      "tot_hshld_co": 9296,
+      "hshld_per_po": 2.42,
+      "ave_income_amt": 4521.64
+    },
+    {
+      "adstrd_nm": "서울시 성동구 금호2·3가동",
+      "adstrd_cd": 1120061500,
+      "legaldong_nm": "금호동3가",
+      "legaldong_cd": 1120011100,
+      "tot_po": 22458,
+      "tot_hshld_co": 9296,
+      "hshld_per_po": 2.42,
+      "ave_income_amt": 4047.4
+    },
+    {
+      "adstrd_nm": "서울시 성동구 금호4가동",
+      "adstrd_cd": 1120062000,
+      "legaldong_nm": "금호동4가",
+      "legaldong_cd": 1120011200,
+      "tot_po": 14190,
+      "tot_hshld_co": 5916,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 4285.78
+    },
+    {
+      "adstrd_nm": "서울시 성동구 옥수동",
+      "adstrd_cd": 1120064500,
+      "legaldong_nm": "옥수동",
+      "legaldong_cd": 1120011300,
+      "tot_po": 25373,
+      "tot_hshld_co": 10197,
+      "hshld_per_po": 2.49,
+      "ave_income_amt": 5073.55
+    },
+    {
+      "adstrd_nm": "서울시 성동구 성수1가1동",
+      "adstrd_cd": 1120065000,
+      "legaldong_nm": "성수동1가",
+      "legaldong_cd": 1120011400,
+      "tot_po": 16186,
+      "tot_hshld_co": 7135,
+      "hshld_per_po": 2.27,
+      "ave_income_amt": 6728.64
+    },
+    {
+      "adstrd_nm": "서울시 성동구 성수1가2동",
+      "adstrd_cd": 1120066000,
+      "legaldong_nm": "성수동1가",
+      "legaldong_cd": 1120011400,
+      "tot_po": 13564,
+      "tot_hshld_co": 6326,
+      "hshld_per_po": 2.14,
+      "ave_income_amt": 6728.64
+    },
+    {
+      "adstrd_nm": "서울시 성동구 성수2가1동",
+      "adstrd_cd": 1120067000,
+      "legaldong_nm": "성수동2가",
+      "legaldong_cd": 1120011500,
+      "tot_po": 16727,
+      "tot_hshld_co": 7840,
+      "hshld_per_po": 2.13,
+      "ave_income_amt": 5657.18
+    },
+    {
+      "adstrd_nm": "서울시 성동구 성수2가3동",
+      "adstrd_cd": 1120069000,
+      "legaldong_nm": "성수동2가",
+      "legaldong_cd": 1120011500,
+      "tot_po": 11235,
+      "tot_hshld_co": 5089,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 5657.18
+    },
+    {
+      "adstrd_nm": "서울시 성동구 송정동",
+      "adstrd_cd": 1120072000,
+      "legaldong_nm": "송정동",
+      "legaldong_cd": 1120011800,
+      "tot_po": 11009,
+      "tot_hshld_co": 5381,
+      "hshld_per_po": 2.05,
+      "ave_income_amt": 4369.43
+    },
+    {
+      "adstrd_nm": "서울시 성동구 용답동",
+      "adstrd_cd": 1120079000,
+      "legaldong_nm": "송정동",
+      "legaldong_cd": 1120011800,
+      "tot_po": 12999,
+      "tot_hshld_co": 6493,
+      "hshld_per_po": 2,
+      "ave_income_amt": 4369.43
+    },
+    {
+      "adstrd_nm": "서울시 성동구 용답동",
+      "adstrd_cd": 1120079000,
+      "legaldong_nm": "용답동",
+      "legaldong_cd": 1120012200,
+      "tot_po": 12999,
+      "tot_hshld_co": 6493,
+      "hshld_per_po": 2,
+      "ave_income_amt": 4216.23
+    },
+    {
+      "adstrd_nm": "서울시 광진구 화양동",
+      "adstrd_cd": 1121571000,
+      "legaldong_nm": "화양동",
+      "legaldong_cd": 1121510700,
+      "tot_po": 28124,
+      "tot_hshld_co": 18354,
+      "hshld_per_po": 1.53,
+      "ave_income_amt": 6177.5
+    },
+    {
+      "adstrd_nm": "서울시 광진구 군자동",
+      "adstrd_cd": 1121573000,
+      "legaldong_nm": "군자동",
+      "legaldong_cd": 1121510900,
+      "tot_po": 22308,
+      "tot_hshld_co": 11316,
+      "hshld_per_po": 1.97,
+      "ave_income_amt": 5455.82
+    },
+    {
+      "adstrd_nm": "경기도 양주시 남면",
+      "adstrd_cd": 4163032000,
+      "legaldong_nm": "신암리",
+      "legaldong_cd": 4163032022,
+      "tot_po": 8425,
+      "tot_hshld_co": 3222,
+      "hshld_per_po": 2.61,
+      "ave_income_amt": 1948.06
+    },
+    {
+      "adstrd_nm": "서울시 광진구 중곡1동",
+      "adstrd_cd": 1121574000,
+      "legaldong_nm": "중곡동",
+      "legaldong_cd": 1121510100,
+      "tot_po": 15493,
+      "tot_hshld_co": 7639,
+      "hshld_per_po": 2.03,
+      "ave_income_amt": 5054.02
+    },
+    {
+      "adstrd_nm": "서울시 광진구 중곡2동",
+      "adstrd_cd": 1121575000,
+      "legaldong_nm": "중곡동",
+      "legaldong_cd": 1121510100,
+      "tot_po": 21513,
+      "tot_hshld_co": 9857,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 5054.02
+    },
+    {
+      "adstrd_nm": "서울시 광진구 중곡3동",
+      "adstrd_cd": 1121576000,
+      "legaldong_nm": "중곡동",
+      "legaldong_cd": 1121510100,
+      "tot_po": 16289,
+      "tot_hshld_co": 7733,
+      "hshld_per_po": 2.11,
+      "ave_income_amt": 5054.02
+    },
+    {
+      "adstrd_nm": "서울시 광진구 중곡4동",
+      "adstrd_cd": 1121577000,
+      "legaldong_nm": "중곡동",
+      "legaldong_cd": 1121510100,
+      "tot_po": 28612,
+      "tot_hshld_co": 12111,
+      "hshld_per_po": 2.36,
+      "ave_income_amt": 5054.02
+    },
+    {
+      "adstrd_nm": "서울시 광진구 능동",
+      "adstrd_cd": 1121578000,
+      "legaldong_nm": "능동",
+      "legaldong_cd": 1121510200,
+      "tot_po": 11501,
+      "tot_hshld_co": 6233,
+      "hshld_per_po": 1.85,
+      "ave_income_amt": 6992.71
+    },
+    {
+      "adstrd_nm": "서울시 광진구 광장동",
+      "adstrd_cd": 1121581000,
+      "legaldong_nm": "광장동",
+      "legaldong_cd": 1121510400,
+      "tot_po": 34206,
+      "tot_hshld_co": 11235,
+      "hshld_per_po": 3.04,
+      "ave_income_amt": 5997.21
+    },
+    {
+      "adstrd_nm": "서울시 광진구 자양1동",
+      "adstrd_cd": 1121582000,
+      "legaldong_nm": "자양동",
+      "legaldong_cd": 1121510500,
+      "tot_po": 23199,
+      "tot_hshld_co": 11202,
+      "hshld_per_po": 2.07,
+      "ave_income_amt": 5425.21
+    },
+    {
+      "adstrd_nm": "서울시 광진구 자양2동",
+      "adstrd_cd": 1121583000,
+      "legaldong_nm": "자양동",
+      "legaldong_cd": 1121510500,
+      "tot_po": 25349,
+      "tot_hshld_co": 10443,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 5425.21
+    },
+    {
+      "adstrd_nm": "서울시 광진구 자양3동",
+      "adstrd_cd": 1121584000,
+      "legaldong_nm": "자양동",
+      "legaldong_cd": 1121510500,
+      "tot_po": 27806,
+      "tot_hshld_co": 10228,
+      "hshld_per_po": 2.72,
+      "ave_income_amt": 5425.21
+    },
+    {
+      "adstrd_nm": "서울시 광진구 자양4동",
+      "adstrd_cd": 1121584700,
+      "legaldong_nm": "자양동",
+      "legaldong_cd": 1121510500,
+      "tot_po": 22673,
+      "tot_hshld_co": 11086,
+      "hshld_per_po": 2.05,
+      "ave_income_amt": 5425.21
+    },
+    {
+      "adstrd_nm": "서울시 광진구 구의1동",
+      "adstrd_cd": 1121585000,
+      "legaldong_nm": "구의동",
+      "legaldong_cd": 1121510300,
+      "tot_po": 22228,
+      "tot_hshld_co": 11495,
+      "hshld_per_po": 1.93,
+      "ave_income_amt": 6037.69
+    },
+    {
+      "adstrd_nm": "서울시 광진구 구의2동",
+      "adstrd_cd": 1121586000,
+      "legaldong_nm": "구의동",
+      "legaldong_cd": 1121510300,
+      "tot_po": 26536,
+      "tot_hshld_co": 10688,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 6037.69
+    },
+    {
+      "adstrd_nm": "서울시 광진구 구의3동",
+      "adstrd_cd": 1121587000,
+      "legaldong_nm": "구의동",
+      "legaldong_cd": 1121510300,
+      "tot_po": 28130,
+      "tot_hshld_co": 11324,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 6037.69
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 용신동",
+      "adstrd_cd": 1123053600,
+      "legaldong_nm": "신설동",
+      "legaldong_cd": 1123010100,
+      "tot_po": 31644,
+      "tot_hshld_co": 16617,
+      "hshld_per_po": 1.9,
+      "ave_income_amt": 3211.2
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 용신동",
+      "adstrd_cd": 1123053600,
+      "legaldong_nm": "용두동",
+      "legaldong_cd": 1123010200,
+      "tot_po": 31644,
+      "tot_hshld_co": 16617,
+      "hshld_per_po": 1.9,
+      "ave_income_amt": 3505.55
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 제기동",
+      "adstrd_cd": 1123054500,
+      "legaldong_nm": "제기동",
+      "legaldong_cd": 1123010300,
+      "tot_po": 26289,
+      "tot_hshld_co": 12973,
+      "hshld_per_po": 2.03,
+      "ave_income_amt": 3409
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 전농1동",
+      "adstrd_cd": 1123056000,
+      "legaldong_nm": "전농동",
+      "legaldong_cd": 1123010400,
+      "tot_po": 29807,
+      "tot_hshld_co": 13906,
+      "hshld_per_po": 2.14,
+      "ave_income_amt": 3700.46
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 전농2동",
+      "adstrd_cd": 1123057000,
+      "legaldong_nm": "전농동",
+      "legaldong_cd": 1123010400,
+      "tot_po": 19345,
+      "tot_hshld_co": 7218,
+      "hshld_per_po": 2.68,
+      "ave_income_amt": 3700.46
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 답십리1동",
+      "adstrd_cd": 1123060000,
+      "legaldong_nm": "답십리동",
+      "legaldong_cd": 1123010500,
+      "tot_po": 28367,
+      "tot_hshld_co": 11783,
+      "hshld_per_po": 2.41,
+      "ave_income_amt": 3673.98
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 답십리2동",
+      "adstrd_cd": 1123061000,
+      "legaldong_nm": "답십리동",
+      "legaldong_cd": 1123010500,
+      "tot_po": 28537,
+      "tot_hshld_co": 11937,
+      "hshld_per_po": 2.39,
+      "ave_income_amt": 3673.98
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 장안1동",
+      "adstrd_cd": 1123065000,
+      "legaldong_nm": "장안동",
+      "legaldong_cd": 1123010600,
+      "tot_po": 37534,
+      "tot_hshld_co": 16251,
+      "hshld_per_po": 2.31,
+      "ave_income_amt": 3908.2
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 장안2동",
+      "adstrd_cd": 1123066000,
+      "legaldong_nm": "장안동",
+      "legaldong_cd": 1123010600,
+      "tot_po": 32565,
+      "tot_hshld_co": 12547,
+      "hshld_per_po": 2.6,
+      "ave_income_amt": 3908.2
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 청량리동",
+      "adstrd_cd": 1123070500,
+      "legaldong_nm": "청량리동",
+      "legaldong_cd": 1123010700,
+      "tot_po": 19906,
+      "tot_hshld_co": 9024,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3244.28
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 회기동",
+      "adstrd_cd": 1123071000,
+      "legaldong_nm": "회기동",
+      "legaldong_cd": 1123010800,
+      "tot_po": 14028,
+      "tot_hshld_co": 7546,
+      "hshld_per_po": 1.86,
+      "ave_income_amt": 4522.99
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 휘경1동",
+      "adstrd_cd": 1123072000,
+      "legaldong_nm": "휘경동",
+      "legaldong_cd": 1123010900,
+      "tot_po": 15367,
+      "tot_hshld_co": 7790,
+      "hshld_per_po": 1.97,
+      "ave_income_amt": 4105.24
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 휘경2동",
+      "adstrd_cd": 1123073000,
+      "legaldong_nm": "휘경동",
+      "legaldong_cd": 1123010900,
+      "tot_po": 24715,
+      "tot_hshld_co": 11366,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4105.24
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 이문1동",
+      "adstrd_cd": 1123074000,
+      "legaldong_nm": "이문동",
+      "legaldong_cd": 1123011000,
+      "tot_po": 22243,
+      "tot_hshld_co": 11500,
+      "hshld_per_po": 1.93,
+      "ave_income_amt": 3796.7
+    },
+    {
+      "adstrd_nm": "서울시 동대문구 이문2동",
+      "adstrd_cd": 1123075000,
+      "legaldong_nm": "이문동",
+      "legaldong_cd": 1123011000,
+      "tot_po": 20710,
+      "tot_hshld_co": 8441,
+      "hshld_per_po": 2.45,
+      "ave_income_amt": 3796.7
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 면목2동",
+      "adstrd_cd": 1126052000,
+      "legaldong_nm": "면목동",
+      "legaldong_cd": 1126010100,
+      "tot_po": 24256,
+      "tot_hshld_co": 10897,
+      "hshld_per_po": 2.23,
+      "ave_income_amt": 3647.99
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 면목4동",
+      "adstrd_cd": 1126054000,
+      "legaldong_nm": "면목동",
+      "legaldong_cd": 1126010100,
+      "tot_po": 18498,
+      "tot_hshld_co": 8017,
+      "hshld_per_po": 2.31,
+      "ave_income_amt": 3647.99
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 면목5동",
+      "adstrd_cd": 1126055000,
+      "legaldong_nm": "면목동",
+      "legaldong_cd": 1126010100,
+      "tot_po": 14042,
+      "tot_hshld_co": 5764,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 3647.99
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 면목본동",
+      "adstrd_cd": 1126056500,
+      "legaldong_nm": "면목동",
+      "legaldong_cd": 1126010100,
+      "tot_po": 34229,
+      "tot_hshld_co": 16118,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 3647.99
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 면목7동",
+      "adstrd_cd": 1126057000,
+      "legaldong_nm": "면목동",
+      "legaldong_cd": 1126010100,
+      "tot_po": 21748,
+      "tot_hshld_co": 9666,
+      "hshld_per_po": 2.25,
+      "ave_income_amt": 3647.99
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 면목3·8동",
+      "adstrd_cd": 1126057500,
+      "legaldong_nm": "면목동",
+      "legaldong_cd": 1126010100,
+      "tot_po": 25006,
+      "tot_hshld_co": 11496,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 3647.99
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 상봉1동",
+      "adstrd_cd": 1126058000,
+      "legaldong_nm": "상봉동",
+      "legaldong_cd": 1126010200,
+      "tot_po": 24177,
+      "tot_hshld_co": 9498,
+      "hshld_per_po": 2.55,
+      "ave_income_amt": 3987.76
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 상봉2동",
+      "adstrd_cd": 1126059000,
+      "legaldong_nm": "상봉동",
+      "legaldong_cd": 1126010200,
+      "tot_po": 19511,
+      "tot_hshld_co": 10496,
+      "hshld_per_po": 1.86,
+      "ave_income_amt": 3987.76
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 중화1동",
+      "adstrd_cd": 1126060000,
+      "legaldong_nm": "중화동",
+      "legaldong_cd": 1126010300,
+      "tot_po": 19653,
+      "tot_hshld_co": 8196,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3967.03
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 중화2동",
+      "adstrd_cd": 1126061000,
+      "legaldong_nm": "중화동",
+      "legaldong_cd": 1126010300,
+      "tot_po": 25395,
+      "tot_hshld_co": 12539,
+      "hshld_per_po": 2.03,
+      "ave_income_amt": 3967.03
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 묵1동",
+      "adstrd_cd": 1126062000,
+      "legaldong_nm": "묵동",
+      "legaldong_cd": 1126010400,
+      "tot_po": 34195,
+      "tot_hshld_co": 13647,
+      "hshld_per_po": 2.51,
+      "ave_income_amt": 4176.23
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 묵2동",
+      "adstrd_cd": 1126063000,
+      "legaldong_nm": "묵동",
+      "legaldong_cd": 1126010400,
+      "tot_po": 19057,
+      "tot_hshld_co": 8500,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 4176.23
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 망우본동",
+      "adstrd_cd": 1126065500,
+      "legaldong_nm": "망우동",
+      "legaldong_cd": 1126010500,
+      "tot_po": 29446,
+      "tot_hshld_co": 13064,
+      "hshld_per_po": 2.25,
+      "ave_income_amt": 3927.86
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 망우3동",
+      "adstrd_cd": 1126066000,
+      "legaldong_nm": "망우동",
+      "legaldong_cd": 1126010500,
+      "tot_po": 16997,
+      "tot_hshld_co": 7539,
+      "hshld_per_po": 2.25,
+      "ave_income_amt": 3927.86
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 신내1동",
+      "adstrd_cd": 1126068000,
+      "legaldong_nm": "신내동",
+      "legaldong_cd": 1126010600,
+      "tot_po": 38747,
+      "tot_hshld_co": 13693,
+      "hshld_per_po": 2.83,
+      "ave_income_amt": 3837.79
+    },
+    {
+      "adstrd_nm": "서울시 중랑구 신내2동",
+      "adstrd_cd": 1126069000,
+      "legaldong_nm": "신내동",
+      "legaldong_cd": 1126010600,
+      "tot_po": 20706,
+      "tot_hshld_co": 8487,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 3837.79
+    },
+    {
+      "adstrd_nm": "서울시 성북구 성북동",
+      "adstrd_cd": 1129052500,
+      "legaldong_nm": "성북동",
+      "legaldong_cd": 1129010100,
+      "tot_po": 16346,
+      "tot_hshld_co": 7484,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 7694.52
+    },
+    {
+      "adstrd_nm": "서울시 성북구 성북동",
+      "adstrd_cd": 1129052500,
+      "legaldong_nm": "성북동1가",
+      "legaldong_cd": 1129010200,
+      "tot_po": 16346,
+      "tot_hshld_co": 7484,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 4447.75
+    },
+    {
+      "adstrd_nm": "서울시 성북구 성북동",
+      "adstrd_cd": 1129052500,
+      "legaldong_nm": "동소문동1가",
+      "legaldong_cd": 1129010400,
+      "tot_po": 16346,
+      "tot_hshld_co": 7484,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 4343.32
+    },
+    {
+      "adstrd_nm": "서울시 성북구 성북동",
+      "adstrd_cd": 1129052500,
+      "legaldong_nm": "동소문동4가",
+      "legaldong_cd": 1129010700,
+      "tot_po": 16346,
+      "tot_hshld_co": 7484,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 4341.44
+    },
+    {
+      "adstrd_nm": "서울시 성북구 삼선동",
+      "adstrd_cd": 1129055500,
+      "legaldong_nm": "동소문동2가",
+      "legaldong_cd": 1129010500,
+      "tot_po": 23764,
+      "tot_hshld_co": 11068,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 3323.05
+    },
+    {
+      "adstrd_nm": "서울시 성북구 삼선동",
+      "adstrd_cd": 1129055500,
+      "legaldong_nm": "동소문동3가",
+      "legaldong_cd": 1129010600,
+      "tot_po": 23764,
+      "tot_hshld_co": 11068,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 3864.35
+    },
+    {
+      "adstrd_nm": "서울시 성북구 삼선동",
+      "adstrd_cd": 1129055500,
+      "legaldong_nm": "동소문동5가",
+      "legaldong_cd": 1129010800,
+      "tot_po": 23764,
+      "tot_hshld_co": 11068,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 3893.4
+    },
+    {
+      "adstrd_nm": "서울시 성북구 삼선동",
+      "adstrd_cd": 1129055500,
+      "legaldong_nm": "삼선동1가",
+      "legaldong_cd": 1129011100,
+      "tot_po": 23764,
+      "tot_hshld_co": 11068,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 3537.26
+    },
+    {
+      "adstrd_nm": "서울시 성북구 삼선동",
+      "adstrd_cd": 1129055500,
+      "legaldong_nm": "삼선동2가",
+      "legaldong_cd": 1129011200,
+      "tot_po": 23764,
+      "tot_hshld_co": 11068,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 3786.67
+    },
+    {
+      "adstrd_nm": "서울시 성북구 삼선동",
+      "adstrd_cd": 1129055500,
+      "legaldong_nm": "삼선동3가",
+      "legaldong_cd": 1129011300,
+      "tot_po": 23764,
+      "tot_hshld_co": 11068,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 4321.74
+    },
+    {
+      "adstrd_nm": "서울시 성북구 삼선동",
+      "adstrd_cd": 1129055500,
+      "legaldong_nm": "삼선동4가",
+      "legaldong_cd": 1129011400,
+      "tot_po": 23764,
+      "tot_hshld_co": 11068,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 4243.59
+    },
+    {
+      "adstrd_nm": "서울시 성북구 삼선동",
+      "adstrd_cd": 1129055500,
+      "legaldong_nm": "삼선동5가",
+      "legaldong_cd": 1129011500,
+      "tot_po": 23764,
+      "tot_hshld_co": 11068,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 4570.28
+    },
+    {
+      "adstrd_nm": "서울시 성북구 동선동",
+      "adstrd_cd": 1129057500,
+      "legaldong_nm": "돈암동",
+      "legaldong_cd": 1129010300,
+      "tot_po": 15990,
+      "tot_hshld_co": 9047,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 3783.38
+    },
+    {
+      "adstrd_nm": "서울시 성북구 동선동",
+      "adstrd_cd": 1129057500,
+      "legaldong_nm": "동소문동6가",
+      "legaldong_cd": 1129010900,
+      "tot_po": 15990,
+      "tot_hshld_co": 9047,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 4055.1
+    },
+    {
+      "adstrd_nm": "서울시 성북구 동선동",
+      "adstrd_cd": 1129057500,
+      "legaldong_nm": "동소문동7가",
+      "legaldong_cd": 1129011000,
+      "tot_po": 15990,
+      "tot_hshld_co": 9047,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 3714.87
+    },
+    {
+      "adstrd_nm": "서울시 성북구 동선동",
+      "adstrd_cd": 1129057500,
+      "legaldong_nm": "동선동1가",
+      "legaldong_cd": 1129011600,
+      "tot_po": 15990,
+      "tot_hshld_co": 9047,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 4141.75
+    },
+    {
+      "adstrd_nm": "서울시 성북구 동선동",
+      "adstrd_cd": 1129057500,
+      "legaldong_nm": "동선동2가",
+      "legaldong_cd": 1129011700,
+      "tot_po": 15990,
+      "tot_hshld_co": 9047,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 4319.29
+    },
+    {
+      "adstrd_nm": "서울시 성북구 동선동",
+      "adstrd_cd": 1129057500,
+      "legaldong_nm": "동선동3가",
+      "legaldong_cd": 1129011800,
+      "tot_po": 15990,
+      "tot_hshld_co": 9047,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 4268
+    },
+    {
+      "adstrd_nm": "서울시 성북구 동선동",
+      "adstrd_cd": 1129057500,
+      "legaldong_nm": "동선동4가",
+      "legaldong_cd": 1129011900,
+      "tot_po": 15990,
+      "tot_hshld_co": 9047,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 4289.87
+    },
+    {
+      "adstrd_nm": "서울시 성북구 동선동",
+      "adstrd_cd": 1129057500,
+      "legaldong_nm": "동선동5가",
+      "legaldong_cd": 1129012000,
+      "tot_po": 15990,
+      "tot_hshld_co": 9047,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 4253.49
+    },
+    {
+      "adstrd_nm": "서울시 성북구 돈암1동",
+      "adstrd_cd": 1129058000,
+      "legaldong_nm": "돈암동",
+      "legaldong_cd": 1129010300,
+      "tot_po": 14733,
+      "tot_hshld_co": 5843,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 3783.38
+    },
+    {
+      "adstrd_nm": "서울시 성북구 돈암2동",
+      "adstrd_cd": 1129059000,
+      "legaldong_nm": "돈암동",
+      "legaldong_cd": 1129010300,
+      "tot_po": 23496,
+      "tot_hshld_co": 8150,
+      "hshld_per_po": 2.88,
+      "ave_income_amt": 3783.38
+    },
+    {
+      "adstrd_nm": "서울시 성북구 안암동",
+      "adstrd_cd": 1129060000,
+      "legaldong_nm": "안암동1가",
+      "legaldong_cd": 1129012100,
+      "tot_po": 18467,
+      "tot_hshld_co": 10007,
+      "hshld_per_po": 1.85,
+      "ave_income_amt": 4024.16
+    },
+    {
+      "adstrd_nm": "서울시 성북구 안암동",
+      "adstrd_cd": 1129060000,
+      "legaldong_nm": "안암동2가",
+      "legaldong_cd": 1129012200,
+      "tot_po": 18467,
+      "tot_hshld_co": 10007,
+      "hshld_per_po": 1.85,
+      "ave_income_amt": 3506.71
+    },
+    {
+      "adstrd_nm": "서울시 성북구 안암동",
+      "adstrd_cd": 1129060000,
+      "legaldong_nm": "안암동3가",
+      "legaldong_cd": 1129012300,
+      "tot_po": 18467,
+      "tot_hshld_co": 10007,
+      "hshld_per_po": 1.85,
+      "ave_income_amt": 3586.95
+    },
+    {
+      "adstrd_nm": "서울시 성북구 안암동",
+      "adstrd_cd": 1129060000,
+      "legaldong_nm": "안암동4가",
+      "legaldong_cd": 1129012400,
+      "tot_po": 18467,
+      "tot_hshld_co": 10007,
+      "hshld_per_po": 1.85,
+      "ave_income_amt": 5125.67
+    },
+    {
+      "adstrd_nm": "서울시 성북구 안암동",
+      "adstrd_cd": 1129060000,
+      "legaldong_nm": "안암동5가",
+      "legaldong_cd": 1129012500,
+      "tot_po": 18467,
+      "tot_hshld_co": 10007,
+      "hshld_per_po": 1.85,
+      "ave_income_amt": 4492.33
+    },
+    {
+      "adstrd_nm": "서울시 성북구 보문동",
+      "adstrd_cd": 1129061000,
+      "legaldong_nm": "보문동4가",
+      "legaldong_cd": 1129012600,
+      "tot_po": 16305,
+      "tot_hshld_co": 7378,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3852.9
+    },
+    {
+      "adstrd_nm": "서울시 성북구 보문동",
+      "adstrd_cd": 1129061000,
+      "legaldong_nm": "보문동5가",
+      "legaldong_cd": 1129012700,
+      "tot_po": 16305,
+      "tot_hshld_co": 7378,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3643.75
+    },
+    {
+      "adstrd_nm": "서울시 성북구 보문동",
+      "adstrd_cd": 1129061000,
+      "legaldong_nm": "보문동6가",
+      "legaldong_cd": 1129012800,
+      "tot_po": 16305,
+      "tot_hshld_co": 7378,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3632.11
+    },
+    {
+      "adstrd_nm": "서울시 성북구 보문동",
+      "adstrd_cd": 1129061000,
+      "legaldong_nm": "보문동7가",
+      "legaldong_cd": 1129012900,
+      "tot_po": 16305,
+      "tot_hshld_co": 7378,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3594.18
+    },
+    {
+      "adstrd_nm": "서울시 성북구 보문동",
+      "adstrd_cd": 1129061000,
+      "legaldong_nm": "보문동1가",
+      "legaldong_cd": 1129013000,
+      "tot_po": 16305,
+      "tot_hshld_co": 7378,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 2901.69
+    },
+    {
+      "adstrd_nm": "서울시 성북구 보문동",
+      "adstrd_cd": 1129061000,
+      "legaldong_nm": "보문동2가",
+      "legaldong_cd": 1129013100,
+      "tot_po": 16305,
+      "tot_hshld_co": 7378,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3984.86
+    },
+    {
+      "adstrd_nm": "서울시 성북구 보문동",
+      "adstrd_cd": 1129061000,
+      "legaldong_nm": "보문동3가",
+      "legaldong_cd": 1129013200,
+      "tot_po": 16305,
+      "tot_hshld_co": 7378,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3577.86
+    },
+    {
+      "adstrd_nm": "서울시 성북구 정릉1동",
+      "adstrd_cd": 1129062000,
+      "legaldong_nm": "정릉동",
+      "legaldong_cd": 1129013300,
+      "tot_po": 18481,
+      "tot_hshld_co": 7139,
+      "hshld_per_po": 2.59,
+      "ave_income_amt": 3668.91
+    },
+    {
+      "adstrd_nm": "서울시 성북구 정릉1동",
+      "adstrd_cd": 1129062000,
+      "legaldong_nm": "길음동",
+      "legaldong_cd": 1129013400,
+      "tot_po": 18481,
+      "tot_hshld_co": 7139,
+      "hshld_per_po": 2.59,
+      "ave_income_amt": 3845.54
+    },
+    {
+      "adstrd_nm": "서울시 성북구 정릉2동",
+      "adstrd_cd": 1129063000,
+      "legaldong_nm": "돈암동",
+      "legaldong_cd": 1129010300,
+      "tot_po": 22963,
+      "tot_hshld_co": 9071,
+      "hshld_per_po": 2.53,
+      "ave_income_amt": 3783.38
+    },
+    {
+      "adstrd_nm": "서울시 성북구 정릉2동",
+      "adstrd_cd": 1129063000,
+      "legaldong_nm": "정릉동",
+      "legaldong_cd": 1129013300,
+      "tot_po": 22963,
+      "tot_hshld_co": 9071,
+      "hshld_per_po": 2.53,
+      "ave_income_amt": 3668.91
+    },
+    {
+      "adstrd_nm": "서울시 성북구 정릉3동",
+      "adstrd_cd": 1129064000,
+      "legaldong_nm": "정릉동",
+      "legaldong_cd": 1129013300,
+      "tot_po": 17565,
+      "tot_hshld_co": 7882,
+      "hshld_per_po": 2.23,
+      "ave_income_amt": 3668.91
+    },
+    {
+      "adstrd_nm": "서울시 성북구 정릉4동",
+      "adstrd_cd": 1129065000,
+      "legaldong_nm": "정릉동",
+      "legaldong_cd": 1129013300,
+      "tot_po": 25170,
+      "tot_hshld_co": 10018,
+      "hshld_per_po": 2.51,
+      "ave_income_amt": 3668.91
+    },
+    {
+      "adstrd_nm": "서울시 성북구 길음1동",
+      "adstrd_cd": 1129066000,
+      "legaldong_nm": "길음동",
+      "legaldong_cd": 1129013400,
+      "tot_po": 35023,
+      "tot_hshld_co": 11901,
+      "hshld_per_po": 2.94,
+      "ave_income_amt": 3845.54
+    },
+    {
+      "adstrd_nm": "서울시 성북구 길음2동",
+      "adstrd_cd": 1129068500,
+      "legaldong_nm": "길음동",
+      "legaldong_cd": 1129013400,
+      "tot_po": 16711,
+      "tot_hshld_co": 6466,
+      "hshld_per_po": 2.58,
+      "ave_income_amt": 3845.54
+    },
+    {
+      "adstrd_nm": "서울시 성북구 길음2동",
+      "adstrd_cd": 1129068500,
+      "legaldong_nm": "하월곡동",
+      "legaldong_cd": 1129013600,
+      "tot_po": 16711,
+      "tot_hshld_co": 6466,
+      "hshld_per_po": 2.58,
+      "ave_income_amt": 3540.47
+    },
+    {
+      "adstrd_nm": "서울시 성북구 종암동",
+      "adstrd_cd": 1129070500,
+      "legaldong_nm": "종암동",
+      "legaldong_cd": 1129013500,
+      "tot_po": 40945,
+      "tot_hshld_co": 17260,
+      "hshld_per_po": 2.37,
+      "ave_income_amt": 3674.34
+    },
+    {
+      "adstrd_nm": "서울시 성북구 월곡1동",
+      "adstrd_cd": 1129071500,
+      "legaldong_nm": "하월곡동",
+      "legaldong_cd": 1129013600,
+      "tot_po": 26175,
+      "tot_hshld_co": 10089,
+      "hshld_per_po": 2.59,
+      "ave_income_amt": 3540.47
+    },
+    {
+      "adstrd_nm": "서울시 성북구 월곡2동",
+      "adstrd_cd": 1129072500,
+      "legaldong_nm": "하월곡동",
+      "legaldong_cd": 1129013600,
+      "tot_po": 20300,
+      "tot_hshld_co": 9238,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 3540.47
+    },
+    {
+      "adstrd_nm": "서울시 성북구 월곡2동",
+      "adstrd_cd": 1129072500,
+      "legaldong_nm": "상월곡동",
+      "legaldong_cd": 1129013700,
+      "tot_po": 20300,
+      "tot_hshld_co": 9238,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 3471.29
+    },
+    {
+      "adstrd_nm": "서울시 성북구 장위1동",
+      "adstrd_cd": 1129076000,
+      "legaldong_nm": "장위동",
+      "legaldong_cd": 1129013800,
+      "tot_po": 19411,
+      "tot_hshld_co": 8134,
+      "hshld_per_po": 2.39,
+      "ave_income_amt": 3804.88
+    },
+    {
+      "adstrd_nm": "서울시 성북구 장위2동",
+      "adstrd_cd": 1129077000,
+      "legaldong_nm": "장위동",
+      "legaldong_cd": 1129013800,
+      "tot_po": 13774,
+      "tot_hshld_co": 5980,
+      "hshld_per_po": 2.3,
+      "ave_income_amt": 3804.88
+    },
+    {
+      "adstrd_nm": "서울시 성북구 장위3동",
+      "adstrd_cd": 1129078000,
+      "legaldong_nm": "장위동",
+      "legaldong_cd": 1129013800,
+      "tot_po": 17256,
+      "tot_hshld_co": 6854,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 3804.88
+    },
+    {
+      "adstrd_nm": "서울시 성북구 석관동",
+      "adstrd_cd": 1129081000,
+      "legaldong_nm": "석관동",
+      "legaldong_cd": 1129013900,
+      "tot_po": 35958,
+      "tot_hshld_co": 15862,
+      "hshld_per_po": 2.27,
+      "ave_income_amt": 3600.15
+    },
+    {
+      "adstrd_nm": "서울시 강북구 삼양동",
+      "adstrd_cd": 1130553400,
+      "legaldong_nm": "미아동",
+      "legaldong_cd": 1130510100,
+      "tot_po": 23494,
+      "tot_hshld_co": 9916,
+      "hshld_per_po": 2.37,
+      "ave_income_amt": 3467.21
+    },
+    {
+      "adstrd_nm": "서울시 강북구 미아동",
+      "adstrd_cd": 1130553500,
+      "legaldong_nm": "미아동",
+      "legaldong_cd": 1130510100,
+      "tot_po": 22156,
+      "tot_hshld_co": 10841,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 3467.21
+    },
+    {
+      "adstrd_nm": "서울시 강북구 송중동",
+      "adstrd_cd": 1130554500,
+      "legaldong_nm": "미아동",
+      "legaldong_cd": 1130510100,
+      "tot_po": 29719,
+      "tot_hshld_co": 13027,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 3467.21
+    },
+    {
+      "adstrd_nm": "서울시 강북구 송천동",
+      "adstrd_cd": 1130555500,
+      "legaldong_nm": "미아동",
+      "legaldong_cd": 1130510100,
+      "tot_po": 26986,
+      "tot_hshld_co": 12233,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3467.21
+    },
+    {
+      "adstrd_nm": "서울시 강북구 삼각산동",
+      "adstrd_cd": 1130557500,
+      "legaldong_nm": "미아동",
+      "legaldong_cd": 1130510100,
+      "tot_po": 30954,
+      "tot_hshld_co": 11062,
+      "hshld_per_po": 2.8,
+      "ave_income_amt": 3467.21
+    },
+    {
+      "adstrd_nm": "서울시 강북구 번1동",
+      "adstrd_cd": 1130559500,
+      "legaldong_nm": "번동",
+      "legaldong_cd": 1130510200,
+      "tot_po": 18848,
+      "tot_hshld_co": 9514,
+      "hshld_per_po": 1.98,
+      "ave_income_amt": 3640.1
+    },
+    {
+      "adstrd_nm": "서울시 강북구 번2동",
+      "adstrd_cd": 1130560300,
+      "legaldong_nm": "번동",
+      "legaldong_cd": 1130510200,
+      "tot_po": 15908,
+      "tot_hshld_co": 7028,
+      "hshld_per_po": 2.26,
+      "ave_income_amt": 3640.1
+    },
+    {
+      "adstrd_nm": "서울시 강북구 번3동",
+      "adstrd_cd": 1130560800,
+      "legaldong_nm": "번동",
+      "legaldong_cd": 1130510200,
+      "tot_po": 16994,
+      "tot_hshld_co": 7159,
+      "hshld_per_po": 2.37,
+      "ave_income_amt": 3640.1
+    },
+    {
+      "adstrd_nm": "서울시 강북구 수유1동",
+      "adstrd_cd": 1130561500,
+      "legaldong_nm": "수유동",
+      "legaldong_cd": 1130510300,
+      "tot_po": 20423,
+      "tot_hshld_co": 9286,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 3657.81
+    },
+    {
+      "adstrd_nm": "서울시 강북구 수유2동",
+      "adstrd_cd": 1130562500,
+      "legaldong_nm": "수유동",
+      "legaldong_cd": 1130510300,
+      "tot_po": 20591,
+      "tot_hshld_co": 8792,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 3657.81
+    },
+    {
+      "adstrd_nm": "서울시 강북구 수유3동",
+      "adstrd_cd": 1130563500,
+      "legaldong_nm": "수유동",
+      "legaldong_cd": 1130510300,
+      "tot_po": 22975,
+      "tot_hshld_co": 11766,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 3657.81
+    },
+    {
+      "adstrd_nm": "서울시 강북구 우이동",
+      "adstrd_cd": 1130564500,
+      "legaldong_nm": "수유동",
+      "legaldong_cd": 1130510300,
+      "tot_po": 20038,
+      "tot_hshld_co": 8360,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3657.81
+    },
+    {
+      "adstrd_nm": "서울시 강북구 우이동",
+      "adstrd_cd": 1130564500,
+      "legaldong_nm": "우이동",
+      "legaldong_cd": 1130510400,
+      "tot_po": 20038,
+      "tot_hshld_co": 8360,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3679.82
+    },
+    {
+      "adstrd_nm": "서울시 강북구 인수동",
+      "adstrd_cd": 1130566000,
+      "legaldong_nm": "수유동",
+      "legaldong_cd": 1130510300,
+      "tot_po": 30449,
+      "tot_hshld_co": 12900,
+      "hshld_per_po": 2.36,
+      "ave_income_amt": 3657.81
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 창1동",
+      "adstrd_cd": 1132051100,
+      "legaldong_nm": "창동",
+      "legaldong_cd": 1132010700,
+      "tot_po": 24432,
+      "tot_hshld_co": 10183,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3733.22
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 창2동",
+      "adstrd_cd": 1132051200,
+      "legaldong_nm": "창동",
+      "legaldong_cd": 1132010700,
+      "tot_po": 29054,
+      "tot_hshld_co": 11524,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 3733.22
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 창3동",
+      "adstrd_cd": 1132051300,
+      "legaldong_nm": "창동",
+      "legaldong_cd": 1132010700,
+      "tot_po": 13933,
+      "tot_hshld_co": 5977,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 3733.22
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 창4동",
+      "adstrd_cd": 1132051400,
+      "legaldong_nm": "창동",
+      "legaldong_cd": 1132010700,
+      "tot_po": 26182,
+      "tot_hshld_co": 10018,
+      "hshld_per_po": 2.61,
+      "ave_income_amt": 3733.22
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 창5동",
+      "adstrd_cd": 1132051500,
+      "legaldong_nm": "창동",
+      "legaldong_cd": 1132010700,
+      "tot_po": 24454,
+      "tot_hshld_co": 9625,
+      "hshld_per_po": 2.54,
+      "ave_income_amt": 3733.22
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 도봉1동",
+      "adstrd_cd": 1132052100,
+      "legaldong_nm": "도봉동",
+      "legaldong_cd": 1132010800,
+      "tot_po": 20685,
+      "tot_hshld_co": 9222,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 3597.97
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 도봉2동",
+      "adstrd_cd": 1132052200,
+      "legaldong_nm": "도봉동",
+      "legaldong_cd": 1132010800,
+      "tot_po": 26853,
+      "tot_hshld_co": 10989,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 3597.97
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 쌍문1동",
+      "adstrd_cd": 1132066000,
+      "legaldong_nm": "쌍문동",
+      "legaldong_cd": 1132010500,
+      "tot_po": 21779,
+      "tot_hshld_co": 8750,
+      "hshld_per_po": 2.49,
+      "ave_income_amt": 3714.43
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 쌍문2동",
+      "adstrd_cd": 1132067000,
+      "legaldong_nm": "쌍문동",
+      "legaldong_cd": 1132010500,
+      "tot_po": 18801,
+      "tot_hshld_co": 8016,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 3714.43
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 쌍문3동",
+      "adstrd_cd": 1132068000,
+      "legaldong_nm": "쌍문동",
+      "legaldong_cd": 1132010500,
+      "tot_po": 16483,
+      "tot_hshld_co": 7466,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 3714.43
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 쌍문4동",
+      "adstrd_cd": 1132068100,
+      "legaldong_nm": "쌍문동",
+      "legaldong_cd": 1132010500,
+      "tot_po": 18486,
+      "tot_hshld_co": 6783,
+      "hshld_per_po": 2.73,
+      "ave_income_amt": 3714.43
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 방학1동",
+      "adstrd_cd": 1132069000,
+      "legaldong_nm": "방학동",
+      "legaldong_cd": 1132010600,
+      "tot_po": 28070,
+      "tot_hshld_co": 11687,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3824.87
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 방학2동",
+      "adstrd_cd": 1132070000,
+      "legaldong_nm": "방학동",
+      "legaldong_cd": 1132010600,
+      "tot_po": 19599,
+      "tot_hshld_co": 8579,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 3824.87
+    },
+    {
+      "adstrd_nm": "서울시 도봉구 방학3동",
+      "adstrd_cd": 1132071000,
+      "legaldong_nm": "방학동",
+      "legaldong_cd": 1132010600,
+      "tot_po": 27168,
+      "tot_hshld_co": 9559,
+      "hshld_per_po": 2.84,
+      "ave_income_amt": 3824.87
+    },
+    {
+      "adstrd_nm": "서울시 노원구 월계1동",
+      "adstrd_cd": 1135056000,
+      "legaldong_nm": "월계동",
+      "legaldong_cd": 1135010200,
+      "tot_po": 23195,
+      "tot_hshld_co": 9889,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 3981.4
+    },
+    {
+      "adstrd_nm": "서울시 노원구 월계2동",
+      "adstrd_cd": 1135057000,
+      "legaldong_nm": "월계동",
+      "legaldong_cd": 1135010200,
+      "tot_po": 26816,
+      "tot_hshld_co": 11425,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 3981.4
+    },
+    {
+      "adstrd_nm": "서울시 노원구 월계3동",
+      "adstrd_cd": 1135058000,
+      "legaldong_nm": "월계동",
+      "legaldong_cd": 1135010200,
+      "tot_po": 29641,
+      "tot_hshld_co": 12309,
+      "hshld_per_po": 2.41,
+      "ave_income_amt": 3981.4
+    },
+    {
+      "adstrd_nm": "서울시 노원구 공릉1동",
+      "adstrd_cd": 1135059500,
+      "legaldong_nm": "공릉동",
+      "legaldong_cd": 1135010300,
+      "tot_po": 37620,
+      "tot_hshld_co": 17539,
+      "hshld_per_po": 2.14,
+      "ave_income_amt": 4722.2
+    },
+    {
+      "adstrd_nm": "서울시 노원구 공릉2동",
+      "adstrd_cd": 1135060000,
+      "legaldong_nm": "공릉동",
+      "legaldong_cd": 1135010300,
+      "tot_po": 40575,
+      "tot_hshld_co": 15758,
+      "hshld_per_po": 2.57,
+      "ave_income_amt": 4722.2
+    },
+    {
+      "adstrd_nm": "서울시 노원구 하계1동",
+      "adstrd_cd": 1135061100,
+      "legaldong_nm": "하계동",
+      "legaldong_cd": 1135010400,
+      "tot_po": 27682,
+      "tot_hshld_co": 10679,
+      "hshld_per_po": 2.59,
+      "ave_income_amt": 4133.37
+    },
+    {
+      "adstrd_nm": "서울시 노원구 하계2동",
+      "adstrd_cd": 1135061200,
+      "legaldong_nm": "하계동",
+      "legaldong_cd": 1135010400,
+      "tot_po": 21990,
+      "tot_hshld_co": 7939,
+      "hshld_per_po": 2.77,
+      "ave_income_amt": 4133.37
+    },
+    {
+      "adstrd_nm": "서울시 노원구 중계본동",
+      "adstrd_cd": 1135061900,
+      "legaldong_nm": "중계동",
+      "legaldong_cd": 1135010600,
+      "tot_po": 24008,
+      "tot_hshld_co": 7884,
+      "hshld_per_po": 3.05,
+      "ave_income_amt": 3321.14
+    },
+    {
+      "adstrd_nm": "서울시 노원구 중계1동",
+      "adstrd_cd": 1135062100,
+      "legaldong_nm": "중계동",
+      "legaldong_cd": 1135010600,
+      "tot_po": 26623,
+      "tot_hshld_co": 8700,
+      "hshld_per_po": 3.06,
+      "ave_income_amt": 3321.14
+    },
+    {
+      "adstrd_nm": "서울시 노원구 중계4동",
+      "adstrd_cd": 1135062400,
+      "legaldong_nm": "중계동",
+      "legaldong_cd": 1135010600,
+      "tot_po": 20089,
+      "tot_hshld_co": 7886,
+      "hshld_per_po": 2.55,
+      "ave_income_amt": 3321.14
+    },
+    {
+      "adstrd_nm": "서울시 노원구 중계2·3동",
+      "adstrd_cd": 1135062500,
+      "legaldong_nm": "중계동",
+      "legaldong_cd": 1135010600,
+      "tot_po": 34563,
+      "tot_hshld_co": 14400,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3321.14
+    },
+    {
+      "adstrd_nm": "서울시 노원구 상계1동",
+      "adstrd_cd": 1135063000,
+      "legaldong_nm": "상계동",
+      "legaldong_cd": 1135010500,
+      "tot_po": 38051,
+      "tot_hshld_co": 14597,
+      "hshld_per_po": 2.61,
+      "ave_income_amt": 3676.98
+    },
+    {
+      "adstrd_nm": "서울시 노원구 상계2동",
+      "adstrd_cd": 1135064000,
+      "legaldong_nm": "상계동",
+      "legaldong_cd": 1135010500,
+      "tot_po": 20125,
+      "tot_hshld_co": 8063,
+      "hshld_per_po": 2.5,
+      "ave_income_amt": 3676.98
+    },
+    {
+      "adstrd_nm": "서울시 노원구 상계3·4동",
+      "adstrd_cd": 1135066500,
+      "legaldong_nm": "상계동",
+      "legaldong_cd": 1135010500,
+      "tot_po": 25887,
+      "tot_hshld_co": 10932,
+      "hshld_per_po": 2.37,
+      "ave_income_amt": 3676.98
+    },
+    {
+      "adstrd_nm": "서울시 노원구 상계5동",
+      "adstrd_cd": 1135067000,
+      "legaldong_nm": "상계동",
+      "legaldong_cd": 1135010500,
+      "tot_po": 24007,
+      "tot_hshld_co": 10085,
+      "hshld_per_po": 2.38,
+      "ave_income_amt": 3676.98
+    },
+    {
+      "adstrd_nm": "서울시 노원구 상계6·7동",
+      "adstrd_cd": 1135069500,
+      "legaldong_nm": "상계동",
+      "legaldong_cd": 1135010500,
+      "tot_po": 32476,
+      "tot_hshld_co": 13102,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 3676.98
+    },
+    {
+      "adstrd_nm": "서울시 노원구 상계8동",
+      "adstrd_cd": 1135070000,
+      "legaldong_nm": "상계동",
+      "legaldong_cd": 1135010500,
+      "tot_po": 22389,
+      "tot_hshld_co": 8747,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 3676.98
+    },
+    {
+      "adstrd_nm": "서울시 노원구 상계9동",
+      "adstrd_cd": 1135071000,
+      "legaldong_nm": "상계동",
+      "legaldong_cd": 1135010500,
+      "tot_po": 20550,
+      "tot_hshld_co": 8009,
+      "hshld_per_po": 2.57,
+      "ave_income_amt": 3676.98
+    },
+    {
+      "adstrd_nm": "서울시 노원구 상계10동",
+      "adstrd_cd": 1135072000,
+      "legaldong_nm": "상계동",
+      "legaldong_cd": 1135010500,
+      "tot_po": 15695,
+      "tot_hshld_co": 6267,
+      "hshld_per_po": 2.5,
+      "ave_income_amt": 3676.98
+    },
+    {
+      "adstrd_nm": "서울시 은평구 녹번동",
+      "adstrd_cd": 1138051000,
+      "legaldong_nm": "녹번동",
+      "legaldong_cd": 1138010200,
+      "tot_po": 37283,
+      "tot_hshld_co": 15898,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4622.89
+    },
+    {
+      "adstrd_nm": "서울시 은평구 불광1동",
+      "adstrd_cd": 1138052000,
+      "legaldong_nm": "불광동",
+      "legaldong_cd": 1138010300,
+      "tot_po": 37940,
+      "tot_hshld_co": 16130,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4340.3
+    },
+    {
+      "adstrd_nm": "서울시 은평구 불광2동",
+      "adstrd_cd": 1138053000,
+      "legaldong_nm": "불광동",
+      "legaldong_cd": 1138010300,
+      "tot_po": 28089,
+      "tot_hshld_co": 12748,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 4340.3
+    },
+    {
+      "adstrd_nm": "서울시 은평구 갈현1동",
+      "adstrd_cd": 1138055100,
+      "legaldong_nm": "갈현동",
+      "legaldong_cd": 1138010400,
+      "tot_po": 22811,
+      "tot_hshld_co": 10049,
+      "hshld_per_po": 2.27,
+      "ave_income_amt": 4394.9
+    },
+    {
+      "adstrd_nm": "서울시 은평구 갈현2동",
+      "adstrd_cd": 1138055200,
+      "legaldong_nm": "갈현동",
+      "legaldong_cd": 1138010400,
+      "tot_po": 28625,
+      "tot_hshld_co": 11600,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 4394.9
+    },
+    {
+      "adstrd_nm": "서울시 은평구 구산동",
+      "adstrd_cd": 1138056000,
+      "legaldong_nm": "구산동",
+      "legaldong_cd": 1138010500,
+      "tot_po": 31971,
+      "tot_hshld_co": 11930,
+      "hshld_per_po": 2.68,
+      "ave_income_amt": 4537.62
+    },
+    {
+      "adstrd_nm": "서울시 은평구 대조동",
+      "adstrd_cd": 1138057000,
+      "legaldong_nm": "대조동",
+      "legaldong_cd": 1138010600,
+      "tot_po": 26694,
+      "tot_hshld_co": 13045,
+      "hshld_per_po": 2.05,
+      "ave_income_amt": 4531.56
+    },
+    {
+      "adstrd_nm": "서울시 은평구 응암1동",
+      "adstrd_cd": 1138058000,
+      "legaldong_nm": "응암동",
+      "legaldong_cd": 1138010700,
+      "tot_po": 26444,
+      "tot_hshld_co": 11270,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4056.6
+    },
+    {
+      "adstrd_nm": "서울시 은평구 응암2동",
+      "adstrd_cd": 1138059000,
+      "legaldong_nm": "응암동",
+      "legaldong_cd": 1138010700,
+      "tot_po": 26691,
+      "tot_hshld_co": 10184,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 4056.6
+    },
+    {
+      "adstrd_nm": "서울시 은평구 응암3동",
+      "adstrd_cd": 1138060000,
+      "legaldong_nm": "응암동",
+      "legaldong_cd": 1138010700,
+      "tot_po": 24668,
+      "tot_hshld_co": 11468,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 4056.6
+    },
+    {
+      "adstrd_nm": "서울시 은평구 역촌동",
+      "adstrd_cd": 1138062500,
+      "legaldong_nm": "역촌동",
+      "legaldong_cd": 1138010800,
+      "tot_po": 45608,
+      "tot_hshld_co": 18956,
+      "hshld_per_po": 2.41,
+      "ave_income_amt": 4606.14
+    },
+    {
+      "adstrd_nm": "서울시 은평구 신사1동",
+      "adstrd_cd": 1138063100,
+      "legaldong_nm": "신사동",
+      "legaldong_cd": 1138010900,
+      "tot_po": 26926,
+      "tot_hshld_co": 11051,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 3946.82
+    },
+    {
+      "adstrd_nm": "서울시 은평구 신사2동",
+      "adstrd_cd": 1138063200,
+      "legaldong_nm": "신사동",
+      "legaldong_cd": 1138010900,
+      "tot_po": 20236,
+      "tot_hshld_co": 8310,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 3946.82
+    },
+    {
+      "adstrd_nm": "서울시 은평구 증산동",
+      "adstrd_cd": 1138064000,
+      "legaldong_nm": "증산동",
+      "legaldong_cd": 1138011000,
+      "tot_po": 15049,
+      "tot_hshld_co": 6223,
+      "hshld_per_po": 2.42,
+      "ave_income_amt": 4411.64
+    },
+    {
+      "adstrd_nm": "서울시 은평구 수색동",
+      "adstrd_cd": 1138065000,
+      "legaldong_nm": "수색동",
+      "legaldong_cd": 1138010100,
+      "tot_po": 8887,
+      "tot_hshld_co": 3619,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 3952.18
+    },
+    {
+      "adstrd_nm": "서울시 은평구 진관동",
+      "adstrd_cd": 1138069000,
+      "legaldong_nm": "진관동",
+      "legaldong_cd": 1138011400,
+      "tot_po": 55180,
+      "tot_hshld_co": 20100,
+      "hshld_per_po": 2.75,
+      "ave_income_amt": 3885.86
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 천연동",
+      "adstrd_cd": 1141052000,
+      "legaldong_nm": "냉천동",
+      "legaldong_cd": 1141010500,
+      "tot_po": 17792,
+      "tot_hshld_co": 7318,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 4034.65
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 천연동",
+      "adstrd_cd": 1141052000,
+      "legaldong_nm": "천연동",
+      "legaldong_cd": 1141010600,
+      "tot_po": 17792,
+      "tot_hshld_co": 7318,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 4370.99
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 천연동",
+      "adstrd_cd": 1141052000,
+      "legaldong_nm": "옥천동",
+      "legaldong_cd": 1141010700,
+      "tot_po": 17792,
+      "tot_hshld_co": 7318,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 3738.73
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 천연동",
+      "adstrd_cd": 1141052000,
+      "legaldong_nm": "영천동",
+      "legaldong_cd": 1141010800,
+      "tot_po": 17792,
+      "tot_hshld_co": 7318,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 3769.35
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 천연동",
+      "adstrd_cd": 1141052000,
+      "legaldong_nm": "현저동",
+      "legaldong_cd": 1141010900,
+      "tot_po": 17792,
+      "tot_hshld_co": 7318,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 3012.2
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 북아현동",
+      "adstrd_cd": 1141055500,
+      "legaldong_nm": "북아현동",
+      "legaldong_cd": 1141011000,
+      "tot_po": 16373,
+      "tot_hshld_co": 7040,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 4378.6
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 충현동",
+      "adstrd_cd": 1141056500,
+      "legaldong_nm": "충정로2가",
+      "legaldong_cd": 1141010100,
+      "tot_po": 20190,
+      "tot_hshld_co": 9344,
+      "hshld_per_po": 2.16,
+      "ave_income_amt": 4580.77
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 충현동",
+      "adstrd_cd": 1141056500,
+      "legaldong_nm": "충정로3가",
+      "legaldong_cd": 1141010200,
+      "tot_po": 20190,
+      "tot_hshld_co": 9344,
+      "hshld_per_po": 2.16,
+      "ave_income_amt": 4091.79
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 충현동",
+      "adstrd_cd": 1141056500,
+      "legaldong_nm": "합동",
+      "legaldong_cd": 1141010300,
+      "tot_po": 20190,
+      "tot_hshld_co": 9344,
+      "hshld_per_po": 2.16,
+      "ave_income_amt": 4725.82
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 충현동",
+      "adstrd_cd": 1141056500,
+      "legaldong_nm": "미근동",
+      "legaldong_cd": 1141010400,
+      "tot_po": 20190,
+      "tot_hshld_co": 9344,
+      "hshld_per_po": 2.16,
+      "ave_income_amt": 3495.26
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 충현동",
+      "adstrd_cd": 1141056500,
+      "legaldong_nm": "북아현동",
+      "legaldong_cd": 1141011000,
+      "tot_po": 20190,
+      "tot_hshld_co": 9344,
+      "hshld_per_po": 2.16,
+      "ave_income_amt": 4378.6
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 신촌동",
+      "adstrd_cd": 1141058500,
+      "legaldong_nm": "대현동",
+      "legaldong_cd": 1141011200,
+      "tot_po": 26434,
+      "tot_hshld_co": 14793,
+      "hshld_per_po": 1.79,
+      "ave_income_amt": 4804.99
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 신촌동",
+      "adstrd_cd": 1141058500,
+      "legaldong_nm": "대신동",
+      "legaldong_cd": 1141011300,
+      "tot_po": 26434,
+      "tot_hshld_co": 14793,
+      "hshld_per_po": 1.79,
+      "ave_income_amt": 6148.3
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 신촌동",
+      "adstrd_cd": 1141058500,
+      "legaldong_nm": "신촌동",
+      "legaldong_cd": 1141011400,
+      "tot_po": 26434,
+      "tot_hshld_co": 14793,
+      "hshld_per_po": 1.79,
+      "ave_income_amt": 5255.71
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 신촌동",
+      "adstrd_cd": 1141058500,
+      "legaldong_nm": "봉원동",
+      "legaldong_cd": 1141011500,
+      "tot_po": 26434,
+      "tot_hshld_co": 14793,
+      "hshld_per_po": 1.79,
+      "ave_income_amt": 3846.48
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 신촌동",
+      "adstrd_cd": 1141058500,
+      "legaldong_nm": "창천동",
+      "legaldong_cd": 1141011600,
+      "tot_po": 26434,
+      "tot_hshld_co": 14793,
+      "hshld_per_po": 1.79,
+      "ave_income_amt": 5394.79
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 연희동",
+      "adstrd_cd": 1141061500,
+      "legaldong_nm": "연희동",
+      "legaldong_cd": 1141011700,
+      "tot_po": 40195,
+      "tot_hshld_co": 19642,
+      "hshld_per_po": 2.05,
+      "ave_income_amt": 6218.82
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 홍제1동",
+      "adstrd_cd": 1141062000,
+      "legaldong_nm": "홍제동",
+      "legaldong_cd": 1141011100,
+      "tot_po": 23762,
+      "tot_hshld_co": 9651,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 4138.59
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 홍제3동",
+      "adstrd_cd": 1141064000,
+      "legaldong_nm": "홍제동",
+      "legaldong_cd": 1141011100,
+      "tot_po": 15384,
+      "tot_hshld_co": 6551,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4138.59
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 홍제2동",
+      "adstrd_cd": 1141065500,
+      "legaldong_nm": "홍제동",
+      "legaldong_cd": 1141011100,
+      "tot_po": 13699,
+      "tot_hshld_co": 5540,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 4138.59
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 홍은1동",
+      "adstrd_cd": 1141066000,
+      "legaldong_nm": "홍은동",
+      "legaldong_cd": 1141011800,
+      "tot_po": 22204,
+      "tot_hshld_co": 8978,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 3830.59
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 홍은2동",
+      "adstrd_cd": 1141068500,
+      "legaldong_nm": "홍은동",
+      "legaldong_cd": 1141011800,
+      "tot_po": 26793,
+      "tot_hshld_co": 11497,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 3830.59
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 남가좌1동",
+      "adstrd_cd": 1141069000,
+      "legaldong_nm": "남가좌동",
+      "legaldong_cd": 1141012000,
+      "tot_po": 15422,
+      "tot_hshld_co": 5467,
+      "hshld_per_po": 2.82,
+      "ave_income_amt": 3944.75
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 남가좌2동",
+      "adstrd_cd": 1141070000,
+      "legaldong_nm": "남가좌동",
+      "legaldong_cd": 1141012000,
+      "tot_po": 29095,
+      "tot_hshld_co": 12439,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 3944.75
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 북가좌1동",
+      "adstrd_cd": 1141071000,
+      "legaldong_nm": "북가좌동",
+      "legaldong_cd": 1141011900,
+      "tot_po": 17845,
+      "tot_hshld_co": 6520,
+      "hshld_per_po": 2.74,
+      "ave_income_amt": 4564.93
+    },
+    {
+      "adstrd_nm": "서울시 서대문구 북가좌2동",
+      "adstrd_cd": 1141072000,
+      "legaldong_nm": "북가좌동",
+      "legaldong_cd": 1141011900,
+      "tot_po": 32021,
+      "tot_hshld_co": 13748,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 4564.93
+    },
+    {
+      "adstrd_nm": "서울시 마포구 아현동",
+      "adstrd_cd": 1144055500,
+      "legaldong_nm": "아현동",
+      "legaldong_cd": 1144010100,
+      "tot_po": 24327,
+      "tot_hshld_co": 9651,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 4825.7
+    },
+    {
+      "adstrd_nm": "서울시 마포구 아현동",
+      "adstrd_cd": 1144055500,
+      "legaldong_nm": "공덕동",
+      "legaldong_cd": 1144010200,
+      "tot_po": 24327,
+      "tot_hshld_co": 9651,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 4066.56
+    },
+    {
+      "adstrd_nm": "서울시 마포구 아현동",
+      "adstrd_cd": 1144055500,
+      "legaldong_nm": "염리동",
+      "legaldong_cd": 1144010900,
+      "tot_po": 24327,
+      "tot_hshld_co": 9651,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 4971.68
+    },
+    {
+      "adstrd_nm": "서울시 마포구 공덕동",
+      "adstrd_cd": 1144056500,
+      "legaldong_nm": "아현동",
+      "legaldong_cd": 1144010100,
+      "tot_po": 37185,
+      "tot_hshld_co": 16918,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 4825.7
+    },
+    {
+      "adstrd_nm": "서울시 마포구 공덕동",
+      "adstrd_cd": 1144056500,
+      "legaldong_nm": "공덕동",
+      "legaldong_cd": 1144010200,
+      "tot_po": 37185,
+      "tot_hshld_co": 16918,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 4066.56
+    },
+    {
+      "adstrd_nm": "서울시 마포구 공덕동",
+      "adstrd_cd": 1144056500,
+      "legaldong_nm": "신공덕동",
+      "legaldong_cd": 1144010300,
+      "tot_po": 37185,
+      "tot_hshld_co": 16918,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 3955.16
+    },
+    {
+      "adstrd_nm": "서울시 마포구 공덕동",
+      "adstrd_cd": 1144056500,
+      "legaldong_nm": "도화동",
+      "legaldong_cd": 1144010400,
+      "tot_po": 37185,
+      "tot_hshld_co": 16918,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 4780.15
+    },
+    {
+      "adstrd_nm": "서울시 마포구 도화동",
+      "adstrd_cd": 1144058500,
+      "legaldong_nm": "도화동",
+      "legaldong_cd": 1144010400,
+      "tot_po": 20644,
+      "tot_hshld_co": 8598,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 4780.15
+    },
+    {
+      "adstrd_nm": "서울시 마포구 도화동",
+      "adstrd_cd": 1144058500,
+      "legaldong_nm": "마포동",
+      "legaldong_cd": 1144010700,
+      "tot_po": 20644,
+      "tot_hshld_co": 8598,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 5438.95
+    },
+    {
+      "adstrd_nm": "서울시 마포구 용강동",
+      "adstrd_cd": 1144059000,
+      "legaldong_nm": "도화동",
+      "legaldong_cd": 1144010400,
+      "tot_po": 21111,
+      "tot_hshld_co": 8578,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 4780.15
+    },
+    {
+      "adstrd_nm": "서울시 마포구 용강동",
+      "adstrd_cd": 1144059000,
+      "legaldong_nm": "용강동",
+      "legaldong_cd": 1144010500,
+      "tot_po": 21111,
+      "tot_hshld_co": 8578,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 5994.17
+    },
+    {
+      "adstrd_nm": "서울시 마포구 용강동",
+      "adstrd_cd": 1144059000,
+      "legaldong_nm": "토정동",
+      "legaldong_cd": 1144010600,
+      "tot_po": 21111,
+      "tot_hshld_co": 8578,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 4439.83
+    },
+    {
+      "adstrd_nm": "서울시 마포구 용강동",
+      "adstrd_cd": 1144059000,
+      "legaldong_nm": "마포동",
+      "legaldong_cd": 1144010700,
+      "tot_po": 21111,
+      "tot_hshld_co": 8578,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 5438.95
+    },
+    {
+      "adstrd_nm": "서울시 마포구 용강동",
+      "adstrd_cd": 1144059000,
+      "legaldong_nm": "대흥동",
+      "legaldong_cd": 1144010800,
+      "tot_po": 21111,
+      "tot_hshld_co": 8578,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 4570.4
+    },
+    {
+      "adstrd_nm": "서울시 마포구 용강동",
+      "adstrd_cd": 1144059000,
+      "legaldong_nm": "염리동",
+      "legaldong_cd": 1144010900,
+      "tot_po": 21111,
+      "tot_hshld_co": 8578,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 4971.68
+    },
+    {
+      "adstrd_nm": "서울시 마포구 대흥동",
+      "adstrd_cd": 1144060000,
+      "legaldong_nm": "대흥동",
+      "legaldong_cd": 1144010800,
+      "tot_po": 15533,
+      "tot_hshld_co": 8160,
+      "hshld_per_po": 1.9,
+      "ave_income_amt": 4570.4
+    },
+    {
+      "adstrd_nm": "서울시 마포구 대흥동",
+      "adstrd_cd": 1144060000,
+      "legaldong_nm": "노고산동",
+      "legaldong_cd": 1144011000,
+      "tot_po": 15533,
+      "tot_hshld_co": 8160,
+      "hshld_per_po": 1.9,
+      "ave_income_amt": 4758.39
+    },
+    {
+      "adstrd_nm": "서울시 마포구 대흥동",
+      "adstrd_cd": 1144060000,
+      "legaldong_nm": "신수동",
+      "legaldong_cd": 1144011100,
+      "tot_po": 15533,
+      "tot_hshld_co": 8160,
+      "hshld_per_po": 1.9,
+      "ave_income_amt": 5606.41
+    },
+    {
+      "adstrd_nm": "서울시 마포구 염리동",
+      "adstrd_cd": 1144061000,
+      "legaldong_nm": "공덕동",
+      "legaldong_cd": 1144010200,
+      "tot_po": 11843,
+      "tot_hshld_co": 5202,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 4066.56
+    },
+    {
+      "adstrd_nm": "서울시 마포구 염리동",
+      "adstrd_cd": 1144061000,
+      "legaldong_nm": "염리동",
+      "legaldong_cd": 1144010900,
+      "tot_po": 11843,
+      "tot_hshld_co": 5202,
+      "hshld_per_po": 2.28,
+      "ave_income_amt": 4971.68
+    },
+    {
+      "adstrd_nm": "서울시 마포구 신수동",
+      "adstrd_cd": 1144063000,
+      "legaldong_nm": "대흥동",
+      "legaldong_cd": 1144010800,
+      "tot_po": 22945,
+      "tot_hshld_co": 9762,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4570.4
+    },
+    {
+      "adstrd_nm": "서울시 마포구 신수동",
+      "adstrd_cd": 1144063000,
+      "legaldong_nm": "신수동",
+      "legaldong_cd": 1144011100,
+      "tot_po": 22945,
+      "tot_hshld_co": 9762,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 5606.41
+    },
+    {
+      "adstrd_nm": "서울시 마포구 신수동",
+      "adstrd_cd": 1144063000,
+      "legaldong_nm": "현석동",
+      "legaldong_cd": 1144011200,
+      "tot_po": 22945,
+      "tot_hshld_co": 9762,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 6163.41
+    },
+    {
+      "adstrd_nm": "서울시 마포구 신수동",
+      "adstrd_cd": 1144063000,
+      "legaldong_nm": "구수동",
+      "legaldong_cd": 1144011300,
+      "tot_po": 22945,
+      "tot_hshld_co": 9762,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 5239.55
+    },
+    {
+      "adstrd_nm": "서울시 마포구 신수동",
+      "adstrd_cd": 1144063000,
+      "legaldong_nm": "신정동",
+      "legaldong_cd": 1144011700,
+      "tot_po": 22945,
+      "tot_hshld_co": 9762,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4495
+    },
+    {
+      "adstrd_nm": "서울시 마포구 서강동",
+      "adstrd_cd": 1144065500,
+      "legaldong_nm": "창전동",
+      "legaldong_cd": 1144011400,
+      "tot_po": 25204,
+      "tot_hshld_co": 11241,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 6488.19
+    },
+    {
+      "adstrd_nm": "서울시 마포구 서강동",
+      "adstrd_cd": 1144065500,
+      "legaldong_nm": "상수동",
+      "legaldong_cd": 1144011500,
+      "tot_po": 25204,
+      "tot_hshld_co": 11241,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 7339.56
+    },
+    {
+      "adstrd_nm": "서울시 마포구 서강동",
+      "adstrd_cd": 1144065500,
+      "legaldong_nm": "하중동",
+      "legaldong_cd": 1144011600,
+      "tot_po": 25204,
+      "tot_hshld_co": 11241,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 4433.5
+    },
+    {
+      "adstrd_nm": "서울시 마포구 서강동",
+      "adstrd_cd": 1144065500,
+      "legaldong_nm": "신정동",
+      "legaldong_cd": 1144011700,
+      "tot_po": 25204,
+      "tot_hshld_co": 11241,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 4495
+    },
+    {
+      "adstrd_nm": "서울시 마포구 서강동",
+      "adstrd_cd": 1144065500,
+      "legaldong_nm": "당인동",
+      "legaldong_cd": 1144011800,
+      "tot_po": 25204,
+      "tot_hshld_co": 11241,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 5407.74
+    },
+    {
+      "adstrd_nm": "서울시 마포구 서교동",
+      "adstrd_cd": 1144066000,
+      "legaldong_nm": "노고산동",
+      "legaldong_cd": 1144011000,
+      "tot_po": 26038,
+      "tot_hshld_co": 15031,
+      "hshld_per_po": 1.73,
+      "ave_income_amt": 4758.39
+    },
+    {
+      "adstrd_nm": "서울시 마포구 서교동",
+      "adstrd_cd": 1144066000,
+      "legaldong_nm": "서교동",
+      "legaldong_cd": 1144012000,
+      "tot_po": 26038,
+      "tot_hshld_co": 15031,
+      "hshld_per_po": 1.73,
+      "ave_income_amt": 9187.73
+    },
+    {
+      "adstrd_nm": "서울시 마포구 서교동",
+      "adstrd_cd": 1144066000,
+      "legaldong_nm": "동교동",
+      "legaldong_cd": 1144012100,
+      "tot_po": 26038,
+      "tot_hshld_co": 15031,
+      "hshld_per_po": 1.73,
+      "ave_income_amt": 8528.41
+    },
+    {
+      "adstrd_nm": "서울시 마포구 합정동",
+      "adstrd_cd": 1144068000,
+      "legaldong_nm": "합정동",
+      "legaldong_cd": 1144012200,
+      "tot_po": 17169,
+      "tot_hshld_co": 8494,
+      "hshld_per_po": 2.02,
+      "ave_income_amt": 7448.79
+    },
+    {
+      "adstrd_nm": "서울시 마포구 망원1동",
+      "adstrd_cd": 1144069000,
+      "legaldong_nm": "망원동",
+      "legaldong_cd": 1144012300,
+      "tot_po": 20110,
+      "tot_hshld_co": 9498,
+      "hshld_per_po": 2.12,
+      "ave_income_amt": 5566.86
+    },
+    {
+      "adstrd_nm": "서울시 마포구 망원2동",
+      "adstrd_cd": 1144070000,
+      "legaldong_nm": "망원동",
+      "legaldong_cd": 1144012300,
+      "tot_po": 18460,
+      "tot_hshld_co": 7781,
+      "hshld_per_po": 2.37,
+      "ave_income_amt": 5566.86
+    },
+    {
+      "adstrd_nm": "서울시 마포구 연남동",
+      "adstrd_cd": 1144071000,
+      "legaldong_nm": "연남동",
+      "legaldong_cd": 1144012400,
+      "tot_po": 16047,
+      "tot_hshld_co": 8440,
+      "hshld_per_po": 1.9,
+      "ave_income_amt": 7419.95
+    },
+    {
+      "adstrd_nm": "서울시 마포구 성산1동",
+      "adstrd_cd": 1144072000,
+      "legaldong_nm": "성산동",
+      "legaldong_cd": 1144012500,
+      "tot_po": 19004,
+      "tot_hshld_co": 8801,
+      "hshld_per_po": 2.16,
+      "ave_income_amt": 5903.98
+    },
+    {
+      "adstrd_nm": "서울시 마포구 성산2동",
+      "adstrd_cd": 1144073000,
+      "legaldong_nm": "성산동",
+      "legaldong_cd": 1144012500,
+      "tot_po": 39298,
+      "tot_hshld_co": 17607,
+      "hshld_per_po": 2.23,
+      "ave_income_amt": 5903.98
+    },
+    {
+      "adstrd_nm": "서울시 마포구 성산2동",
+      "adstrd_cd": 1144073000,
+      "legaldong_nm": "중동",
+      "legaldong_cd": 1144012600,
+      "tot_po": 39298,
+      "tot_hshld_co": 17607,
+      "hshld_per_po": 2.23,
+      "ave_income_amt": 5329.86
+    },
+    {
+      "adstrd_nm": "서울시 마포구 상암동",
+      "adstrd_cd": 1144074000,
+      "legaldong_nm": "상암동",
+      "legaldong_cd": 1144012700,
+      "tot_po": 30694,
+      "tot_hshld_co": 12245,
+      "hshld_per_po": 2.51,
+      "ave_income_amt": 5763.97
+    },
+    {
+      "adstrd_nm": "서울시 양천구 목1동",
+      "adstrd_cd": 1147051000,
+      "legaldong_nm": "목동",
+      "legaldong_cd": 1147010200,
+      "tot_po": 30200,
+      "tot_hshld_co": 10031,
+      "hshld_per_po": 3.01,
+      "ave_income_amt": 5443.69
+    },
+    {
+      "adstrd_nm": "서울시 양천구 목2동",
+      "adstrd_cd": 1147052000,
+      "legaldong_nm": "목동",
+      "legaldong_cd": 1147010200,
+      "tot_po": 29322,
+      "tot_hshld_co": 12249,
+      "hshld_per_po": 2.39,
+      "ave_income_amt": 5443.69
+    },
+    {
+      "adstrd_nm": "서울시 양천구 목3동",
+      "adstrd_cd": 1147053000,
+      "legaldong_nm": "목동",
+      "legaldong_cd": 1147010200,
+      "tot_po": 21432,
+      "tot_hshld_co": 9277,
+      "hshld_per_po": 2.31,
+      "ave_income_amt": 5443.69
+    },
+    {
+      "adstrd_nm": "서울시 양천구 목4동",
+      "adstrd_cd": 1147054000,
+      "legaldong_nm": "목동",
+      "legaldong_cd": 1147010200,
+      "tot_po": 25124,
+      "tot_hshld_co": 9432,
+      "hshld_per_po": 2.66,
+      "ave_income_amt": 5443.69
+    },
+    {
+      "adstrd_nm": "서울시 양천구 목5동",
+      "adstrd_cd": 1147055000,
+      "legaldong_nm": "목동",
+      "legaldong_cd": 1147010200,
+      "tot_po": 40066,
+      "tot_hshld_co": 12925,
+      "hshld_per_po": 3.1,
+      "ave_income_amt": 5443.69
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신월1동",
+      "adstrd_cd": 1147056000,
+      "legaldong_nm": "신월동",
+      "legaldong_cd": 1147010300,
+      "tot_po": 20483,
+      "tot_hshld_co": 9197,
+      "hshld_per_po": 2.23,
+      "ave_income_amt": 3644.81
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신월2동",
+      "adstrd_cd": 1147057000,
+      "legaldong_nm": "신월동",
+      "legaldong_cd": 1147010300,
+      "tot_po": 20638,
+      "tot_hshld_co": 7940,
+      "hshld_per_po": 2.6,
+      "ave_income_amt": 3644.81
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신월3동",
+      "adstrd_cd": 1147058000,
+      "legaldong_nm": "신월동",
+      "legaldong_cd": 1147010300,
+      "tot_po": 15416,
+      "tot_hshld_co": 7208,
+      "hshld_per_po": 2.14,
+      "ave_income_amt": 3644.81
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신월4동",
+      "adstrd_cd": 1147059000,
+      "legaldong_nm": "신월동",
+      "legaldong_cd": 1147010300,
+      "tot_po": 17842,
+      "tot_hshld_co": 6503,
+      "hshld_per_po": 2.74,
+      "ave_income_amt": 3644.81
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신월5동",
+      "adstrd_cd": 1147060000,
+      "legaldong_nm": "신월동",
+      "legaldong_cd": 1147010300,
+      "tot_po": 14602,
+      "tot_hshld_co": 5901,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 3644.81
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신월6동",
+      "adstrd_cd": 1147061000,
+      "legaldong_nm": "신월동",
+      "legaldong_cd": 1147010300,
+      "tot_po": 13138,
+      "tot_hshld_co": 4857,
+      "hshld_per_po": 2.7,
+      "ave_income_amt": 3644.81
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신월7동",
+      "adstrd_cd": 1147061100,
+      "legaldong_nm": "신월동",
+      "legaldong_cd": 1147010300,
+      "tot_po": 20074,
+      "tot_hshld_co": 8363,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 3644.81
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신정1동",
+      "adstrd_cd": 1147062000,
+      "legaldong_nm": "신정동",
+      "legaldong_cd": 1147010100,
+      "tot_po": 20098,
+      "tot_hshld_co": 6738,
+      "hshld_per_po": 2.98,
+      "ave_income_amt": 4828.51
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신정2동",
+      "adstrd_cd": 1147063000,
+      "legaldong_nm": "신정동",
+      "legaldong_cd": 1147010100,
+      "tot_po": 19386,
+      "tot_hshld_co": 6742,
+      "hshld_per_po": 2.88,
+      "ave_income_amt": 4828.51
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신정3동",
+      "adstrd_cd": 1147064000,
+      "legaldong_nm": "신정동",
+      "legaldong_cd": 1147010100,
+      "tot_po": 45278,
+      "tot_hshld_co": 16989,
+      "hshld_per_po": 2.67,
+      "ave_income_amt": 4828.51
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신정4동",
+      "adstrd_cd": 1147065000,
+      "legaldong_nm": "신정동",
+      "legaldong_cd": 1147010100,
+      "tot_po": 33400,
+      "tot_hshld_co": 15059,
+      "hshld_per_po": 2.22,
+      "ave_income_amt": 4828.51
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신정6동",
+      "adstrd_cd": 1147067000,
+      "legaldong_nm": "신정동",
+      "legaldong_cd": 1147010100,
+      "tot_po": 23789,
+      "tot_hshld_co": 7809,
+      "hshld_per_po": 3.05,
+      "ave_income_amt": 4828.51
+    },
+    {
+      "adstrd_nm": "서울시 양천구 신정7동",
+      "adstrd_cd": 1147068000,
+      "legaldong_nm": "신정동",
+      "legaldong_cd": 1147010100,
+      "tot_po": 28780,
+      "tot_hshld_co": 10964,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 4828.51
+    },
+    {
+      "adstrd_nm": "서울시 강서구 염창동",
+      "adstrd_cd": 1150051000,
+      "legaldong_nm": "염창동",
+      "legaldong_cd": 1150010100,
+      "tot_po": 40237,
+      "tot_hshld_co": 14738,
+      "hshld_per_po": 2.73,
+      "ave_income_amt": 5252.97
+    },
+    {
+      "adstrd_nm": "서울시 강서구 염창동",
+      "adstrd_cd": 1150051000,
+      "legaldong_nm": "가양동",
+      "legaldong_cd": 1150010400,
+      "tot_po": 40237,
+      "tot_hshld_co": 14738,
+      "hshld_per_po": 2.73,
+      "ave_income_amt": 5241.12
+    },
+    {
+      "adstrd_nm": "서울시 강서구 등촌1동",
+      "adstrd_cd": 1150052000,
+      "legaldong_nm": "등촌동",
+      "legaldong_cd": 1150010200,
+      "tot_po": 23182,
+      "tot_hshld_co": 12072,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 5654.74
+    },
+    {
+      "adstrd_nm": "서울시 강서구 등촌2동",
+      "adstrd_cd": 1150053000,
+      "legaldong_nm": "등촌동",
+      "legaldong_cd": 1150010200,
+      "tot_po": 20469,
+      "tot_hshld_co": 8175,
+      "hshld_per_po": 2.5,
+      "ave_income_amt": 5654.74
+    },
+    {
+      "adstrd_nm": "서울시 강서구 등촌3동",
+      "adstrd_cd": 1150053500,
+      "legaldong_nm": "등촌동",
+      "legaldong_cd": 1150010200,
+      "tot_po": 30611,
+      "tot_hshld_co": 14231,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 5654.74
+    },
+    {
+      "adstrd_nm": "서울시 강서구 화곡1동",
+      "adstrd_cd": 1150054000,
+      "legaldong_nm": "화곡동",
+      "legaldong_cd": 1150010300,
+      "tot_po": 51842,
+      "tot_hshld_co": 25039,
+      "hshld_per_po": 2.07,
+      "ave_income_amt": 4585.7
+    },
+    {
+      "adstrd_nm": "서울시 강서구 화곡2동",
+      "adstrd_cd": 1150055000,
+      "legaldong_nm": "화곡동",
+      "legaldong_cd": 1150010300,
+      "tot_po": 18213,
+      "tot_hshld_co": 7734,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4585.7
+    },
+    {
+      "adstrd_nm": "서울시 강서구 화곡3동",
+      "adstrd_cd": 1150056000,
+      "legaldong_nm": "화곡동",
+      "legaldong_cd": 1150010300,
+      "tot_po": 21100,
+      "tot_hshld_co": 8494,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 4585.7
+    },
+    {
+      "adstrd_nm": "서울시 강서구 화곡4동",
+      "adstrd_cd": 1150057000,
+      "legaldong_nm": "화곡동",
+      "legaldong_cd": 1150010300,
+      "tot_po": 20909,
+      "tot_hshld_co": 9112,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 4585.7
+    },
+    {
+      "adstrd_nm": "서울시 강서구 화곡본동",
+      "adstrd_cd": 1150059000,
+      "legaldong_nm": "화곡동",
+      "legaldong_cd": 1150010300,
+      "tot_po": 33860,
+      "tot_hshld_co": 15269,
+      "hshld_per_po": 2.22,
+      "ave_income_amt": 4585.7
+    },
+    {
+      "adstrd_nm": "서울시 강서구 화곡6동",
+      "adstrd_cd": 1150059100,
+      "legaldong_nm": "화곡동",
+      "legaldong_cd": 1150010300,
+      "tot_po": 24019,
+      "tot_hshld_co": 10918,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 4585.7
+    },
+    {
+      "adstrd_nm": "서울시 강서구 화곡8동",
+      "adstrd_cd": 1150059300,
+      "legaldong_nm": "화곡동",
+      "legaldong_cd": 1150010300,
+      "tot_po": 24971,
+      "tot_hshld_co": 10896,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 4585.7
+    },
+    {
+      "adstrd_nm": "서울시 강서구 가양1동",
+      "adstrd_cd": 1150060300,
+      "legaldong_nm": "가양동",
+      "legaldong_cd": 1150010400,
+      "tot_po": 33187,
+      "tot_hshld_co": 18753,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 5241.12
+    },
+    {
+      "adstrd_nm": "서울시 강서구 가양1동",
+      "adstrd_cd": 1150060300,
+      "legaldong_nm": "마곡동",
+      "legaldong_cd": 1150010500,
+      "tot_po": 33187,
+      "tot_hshld_co": 18753,
+      "hshld_per_po": 1.77,
+      "ave_income_amt": 6154.05
+    },
+    {
+      "adstrd_nm": "서울시 강서구 가양2동",
+      "adstrd_cd": 1150060400,
+      "legaldong_nm": "가양동",
+      "legaldong_cd": 1150010400,
+      "tot_po": 14241,
+      "tot_hshld_co": 7576,
+      "hshld_per_po": 1.88,
+      "ave_income_amt": 5241.12
+    },
+    {
+      "adstrd_nm": "서울시 강서구 가양3동",
+      "adstrd_cd": 1150060500,
+      "legaldong_nm": "가양동",
+      "legaldong_cd": 1150010400,
+      "tot_po": 15023,
+      "tot_hshld_co": 7485,
+      "hshld_per_po": 2.01,
+      "ave_income_amt": 5241.12
+    },
+    {
+      "adstrd_nm": "서울시 강서구 발산1동",
+      "adstrd_cd": 1150061100,
+      "legaldong_nm": "마곡동",
+      "legaldong_cd": 1150010500,
+      "tot_po": 36552,
+      "tot_hshld_co": 12779,
+      "hshld_per_po": 2.86,
+      "ave_income_amt": 6154.05
+    },
+    {
+      "adstrd_nm": "서울시 강서구 발산1동",
+      "adstrd_cd": 1150061100,
+      "legaldong_nm": "내발산동",
+      "legaldong_cd": 1150010600,
+      "tot_po": 36552,
+      "tot_hshld_co": 12779,
+      "hshld_per_po": 2.86,
+      "ave_income_amt": 5415.03
+    },
+    {
+      "adstrd_nm": "서울시 강서구 발산1동",
+      "adstrd_cd": 1150061100,
+      "legaldong_nm": "외발산동",
+      "legaldong_cd": 1150010700,
+      "tot_po": 36552,
+      "tot_hshld_co": 12779,
+      "hshld_per_po": 2.86,
+      "ave_income_amt": 6349
+    },
+    {
+      "adstrd_nm": "서울시 강서구 우장산동",
+      "adstrd_cd": 1150061500,
+      "legaldong_nm": "화곡동",
+      "legaldong_cd": 1150010300,
+      "tot_po": 42184,
+      "tot_hshld_co": 15050,
+      "hshld_per_po": 2.8,
+      "ave_income_amt": 4585.7
+    },
+    {
+      "adstrd_nm": "서울시 강서구 우장산동",
+      "adstrd_cd": 1150061500,
+      "legaldong_nm": "내발산동",
+      "legaldong_cd": 1150010600,
+      "tot_po": 42184,
+      "tot_hshld_co": 15050,
+      "hshld_per_po": 2.8,
+      "ave_income_amt": 5415.03
+    },
+    {
+      "adstrd_nm": "서울시 강서구 공항동",
+      "adstrd_cd": 1150062000,
+      "legaldong_nm": "마곡동",
+      "legaldong_cd": 1150010500,
+      "tot_po": 26330,
+      "tot_hshld_co": 11764,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 6154.05
+    },
+    {
+      "adstrd_nm": "서울시 강서구 공항동",
+      "adstrd_cd": 1150062000,
+      "legaldong_nm": "공항동",
+      "legaldong_cd": 1150010800,
+      "tot_po": 26330,
+      "tot_hshld_co": 11764,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 4831.22
+    },
+    {
+      "adstrd_nm": "서울시 강서구 공항동",
+      "adstrd_cd": 1150062000,
+      "legaldong_nm": "방화동",
+      "legaldong_cd": 1150010900,
+      "tot_po": 26330,
+      "tot_hshld_co": 11764,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 4573.18
+    },
+    {
+      "adstrd_nm": "서울시 강서구 공항동",
+      "adstrd_cd": 1150062000,
+      "legaldong_nm": "과해동",
+      "legaldong_cd": 1150011100,
+      "tot_po": 26330,
+      "tot_hshld_co": 11764,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 3571
+    },
+    {
+      "adstrd_nm": "서울시 강서구 공항동",
+      "adstrd_cd": 1150062000,
+      "legaldong_nm": "오곡동",
+      "legaldong_cd": 1150011200,
+      "tot_po": 26330,
+      "tot_hshld_co": 11764,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 3535.83
+    },
+    {
+      "adstrd_nm": "서울시 강서구 공항동",
+      "adstrd_cd": 1150062000,
+      "legaldong_nm": "오쇠동",
+      "legaldong_cd": 1150011300,
+      "tot_po": 26330,
+      "tot_hshld_co": 11764,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 3437.58
+    },
+    {
+      "adstrd_nm": "서울시 강서구 방화1동",
+      "adstrd_cd": 1150063000,
+      "legaldong_nm": "마곡동",
+      "legaldong_cd": 1150010500,
+      "tot_po": 43150,
+      "tot_hshld_co": 16332,
+      "hshld_per_po": 2.64,
+      "ave_income_amt": 6154.05
+    },
+    {
+      "adstrd_nm": "서울시 강서구 방화1동",
+      "adstrd_cd": 1150063000,
+      "legaldong_nm": "공항동",
+      "legaldong_cd": 1150010800,
+      "tot_po": 43150,
+      "tot_hshld_co": 16332,
+      "hshld_per_po": 2.64,
+      "ave_income_amt": 4831.22
+    },
+    {
+      "adstrd_nm": "서울시 강서구 방화1동",
+      "adstrd_cd": 1150063000,
+      "legaldong_nm": "방화동",
+      "legaldong_cd": 1150010900,
+      "tot_po": 43150,
+      "tot_hshld_co": 16332,
+      "hshld_per_po": 2.64,
+      "ave_income_amt": 4573.18
+    },
+    {
+      "adstrd_nm": "서울시 강서구 방화2동",
+      "adstrd_cd": 1150064000,
+      "legaldong_nm": "방화동",
+      "legaldong_cd": 1150010900,
+      "tot_po": 22226,
+      "tot_hshld_co": 10371,
+      "hshld_per_po": 2.14,
+      "ave_income_amt": 4573.18
+    },
+    {
+      "adstrd_nm": "서울시 강서구 방화2동",
+      "adstrd_cd": 1150064000,
+      "legaldong_nm": "개화동",
+      "legaldong_cd": 1150011000,
+      "tot_po": 22226,
+      "tot_hshld_co": 10371,
+      "hshld_per_po": 2.14,
+      "ave_income_amt": 5674.15
+    },
+    {
+      "adstrd_nm": "서울시 강서구 방화3동",
+      "adstrd_cd": 1150064100,
+      "legaldong_nm": "방화동",
+      "legaldong_cd": 1150010900,
+      "tot_po": 22548,
+      "tot_hshld_co": 10414,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 4573.18
+    },
+    {
+      "adstrd_nm": "서울시 구로구 신도림동",
+      "adstrd_cd": 1153051000,
+      "legaldong_nm": "신도림동",
+      "legaldong_cd": 1153010100,
+      "tot_po": 35334,
+      "tot_hshld_co": 12887,
+      "hshld_per_po": 2.74,
+      "ave_income_amt": 4030.19
+    },
+    {
+      "adstrd_nm": "서울시 구로구 구로1동",
+      "adstrd_cd": 1153052000,
+      "legaldong_nm": "구로동",
+      "legaldong_cd": 1153010200,
+      "tot_po": 20861,
+      "tot_hshld_co": 7964,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3716.19
+    },
+    {
+      "adstrd_nm": "서울시 구로구 구로2동",
+      "adstrd_cd": 1153053000,
+      "legaldong_nm": "구로동",
+      "legaldong_cd": 1153010200,
+      "tot_po": 37054,
+      "tot_hshld_co": 17107,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 3716.19
+    },
+    {
+      "adstrd_nm": "서울시 구로구 구로3동",
+      "adstrd_cd": 1153054000,
+      "legaldong_nm": "구로동",
+      "legaldong_cd": 1153010200,
+      "tot_po": 25963,
+      "tot_hshld_co": 13316,
+      "hshld_per_po": 1.95,
+      "ave_income_amt": 3716.19
+    },
+    {
+      "adstrd_nm": "서울시 구로구 구로4동",
+      "adstrd_cd": 1153055000,
+      "legaldong_nm": "구로동",
+      "legaldong_cd": 1153010200,
+      "tot_po": 26789,
+      "tot_hshld_co": 12316,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 3716.19
+    },
+    {
+      "adstrd_nm": "서울시 구로구 구로5동",
+      "adstrd_cd": 1153056000,
+      "legaldong_nm": "구로동",
+      "legaldong_cd": 1153010200,
+      "tot_po": 33303,
+      "tot_hshld_co": 15338,
+      "hshld_per_po": 2.17,
+      "ave_income_amt": 3716.19
+    },
+    {
+      "adstrd_nm": "서울시 구로구 가리봉동",
+      "adstrd_cd": 1153059500,
+      "legaldong_nm": "가리봉동",
+      "legaldong_cd": 1153010300,
+      "tot_po": 16530,
+      "tot_hshld_co": 8177,
+      "hshld_per_po": 2.02,
+      "ave_income_amt": 4498.31
+    },
+    {
+      "adstrd_nm": "서울시 구로구 고척1동",
+      "adstrd_cd": 1153072000,
+      "legaldong_nm": "고척동",
+      "legaldong_cd": 1153010600,
+      "tot_po": 23430,
+      "tot_hshld_co": 9039,
+      "hshld_per_po": 2.59,
+      "ave_income_amt": 4061.91
+    },
+    {
+      "adstrd_nm": "서울시 구로구 고척2동",
+      "adstrd_cd": 1153073000,
+      "legaldong_nm": "고척동",
+      "legaldong_cd": 1153010600,
+      "tot_po": 27513,
+      "tot_hshld_co": 11117,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 4061.91
+    },
+    {
+      "adstrd_nm": "서울시 구로구 개봉1동",
+      "adstrd_cd": 1153074000,
+      "legaldong_nm": "개봉동",
+      "legaldong_cd": 1153010700,
+      "tot_po": 34712,
+      "tot_hshld_co": 14033,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 4331.64
+    },
+    {
+      "adstrd_nm": "서울시 구로구 개봉2동",
+      "adstrd_cd": 1153075000,
+      "legaldong_nm": "개봉동",
+      "legaldong_cd": 1153010700,
+      "tot_po": 31422,
+      "tot_hshld_co": 11975,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 4331.64
+    },
+    {
+      "adstrd_nm": "서울시 구로구 개봉3동",
+      "adstrd_cd": 1153076000,
+      "legaldong_nm": "개봉동",
+      "legaldong_cd": 1153010700,
+      "tot_po": 20876,
+      "tot_hshld_co": 8312,
+      "hshld_per_po": 2.51,
+      "ave_income_amt": 4331.64
+    },
+    {
+      "adstrd_nm": "서울시 구로구 오류1동",
+      "adstrd_cd": 1153077000,
+      "legaldong_nm": "오류동",
+      "legaldong_cd": 1153010800,
+      "tot_po": 22948,
+      "tot_hshld_co": 10988,
+      "hshld_per_po": 2.09,
+      "ave_income_amt": 3740.72
+    },
+    {
+      "adstrd_nm": "서울시 구로구 오류2동",
+      "adstrd_cd": 1153078000,
+      "legaldong_nm": "오류동",
+      "legaldong_cd": 1153010800,
+      "tot_po": 38657,
+      "tot_hshld_co": 14775,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3740.72
+    },
+    {
+      "adstrd_nm": "서울시 구로구 오류2동",
+      "adstrd_cd": 1153078000,
+      "legaldong_nm": "천왕동",
+      "legaldong_cd": 1153011100,
+      "tot_po": 38657,
+      "tot_hshld_co": 14775,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3643.73
+    },
+    {
+      "adstrd_nm": "서울시 구로구 항동",
+      "adstrd_cd": 1153080000,
+      "legaldong_nm": "항동",
+      "legaldong_cd": 1153011200,
+      "tot_po": 16217,
+      "tot_hshld_co": 6016,
+      "hshld_per_po": 2.7,
+      "ave_income_amt": 4215.71
+    },
+    {
+      "adstrd_nm": "서울시 구로구 수궁동",
+      "adstrd_cd": 1153079000,
+      "legaldong_nm": "궁동",
+      "legaldong_cd": 1153010900,
+      "tot_po": 23833,
+      "tot_hshld_co": 9276,
+      "hshld_per_po": 2.57,
+      "ave_income_amt": 4001.42
+    },
+    {
+      "adstrd_nm": "서울시 구로구 수궁동",
+      "adstrd_cd": 1153079000,
+      "legaldong_nm": "온수동",
+      "legaldong_cd": 1153011000,
+      "tot_po": 23833,
+      "tot_hshld_co": 9276,
+      "hshld_per_po": 2.57,
+      "ave_income_amt": 4352.69
+    },
+    {
+      "adstrd_nm": "서울시 금천구 가산동",
+      "adstrd_cd": 1154551000,
+      "legaldong_nm": "가산동",
+      "legaldong_cd": 1154510100,
+      "tot_po": 26621,
+      "tot_hshld_co": 16417,
+      "hshld_per_po": 1.62,
+      "ave_income_amt": 4121.77
+    },
+    {
+      "adstrd_nm": "서울시 금천구 독산1동",
+      "adstrd_cd": 1154561000,
+      "legaldong_nm": "독산동",
+      "legaldong_cd": 1154510200,
+      "tot_po": 44145,
+      "tot_hshld_co": 21167,
+      "hshld_per_po": 2.09,
+      "ave_income_amt": 4384.74
+    },
+    {
+      "adstrd_nm": "서울시 금천구 독산2동",
+      "adstrd_cd": 1154562000,
+      "legaldong_nm": "독산동",
+      "legaldong_cd": 1154510200,
+      "tot_po": 21096,
+      "tot_hshld_co": 9625,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 4384.74
+    },
+    {
+      "adstrd_nm": "서울시 금천구 독산3동",
+      "adstrd_cd": 1154563000,
+      "legaldong_nm": "독산동",
+      "legaldong_cd": 1154510200,
+      "tot_po": 30129,
+      "tot_hshld_co": 13953,
+      "hshld_per_po": 2.16,
+      "ave_income_amt": 4384.74
+    },
+    {
+      "adstrd_nm": "서울시 금천구 독산4동",
+      "adstrd_cd": 1154564000,
+      "legaldong_nm": "독산동",
+      "legaldong_cd": 1154510200,
+      "tot_po": 18158,
+      "tot_hshld_co": 8216,
+      "hshld_per_po": 2.21,
+      "ave_income_amt": 4384.74
+    },
+    {
+      "adstrd_nm": "서울시 금천구 시흥1동",
+      "adstrd_cd": 1154567000,
+      "legaldong_nm": "시흥동",
+      "legaldong_cd": 1154510300,
+      "tot_po": 36091,
+      "tot_hshld_co": 15936,
+      "hshld_per_po": 2.26,
+      "ave_income_amt": 4085.31
+    },
+    {
+      "adstrd_nm": "서울시 금천구 시흥2동",
+      "adstrd_cd": 1154568000,
+      "legaldong_nm": "시흥동",
+      "legaldong_cd": 1154510300,
+      "tot_po": 21197,
+      "tot_hshld_co": 7870,
+      "hshld_per_po": 2.69,
+      "ave_income_amt": 4085.31
+    },
+    {
+      "adstrd_nm": "서울시 금천구 시흥3동",
+      "adstrd_cd": 1154569000,
+      "legaldong_nm": "시흥동",
+      "legaldong_cd": 1154510300,
+      "tot_po": 11067,
+      "tot_hshld_co": 4456,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 4085.31
+    },
+    {
+      "adstrd_nm": "서울시 금천구 시흥4동",
+      "adstrd_cd": 1154570000,
+      "legaldong_nm": "시흥동",
+      "legaldong_cd": 1154510300,
+      "tot_po": 21129,
+      "tot_hshld_co": 8808,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 4085.31
+    },
+    {
+      "adstrd_nm": "서울시 금천구 시흥5동",
+      "adstrd_cd": 1154571000,
+      "legaldong_nm": "시흥동",
+      "legaldong_cd": 1154510300,
+      "tot_po": 19786,
+      "tot_hshld_co": 8806,
+      "hshld_per_po": 2.25,
+      "ave_income_amt": 4085.31
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포본동",
+      "adstrd_cd": 1156051500,
+      "legaldong_nm": "영등포동",
+      "legaldong_cd": 1156010100,
+      "tot_po": 24409,
+      "tot_hshld_co": 10386,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4341.53
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포본동",
+      "adstrd_cd": 1156051500,
+      "legaldong_nm": "신길동",
+      "legaldong_cd": 1156013200,
+      "tot_po": 24409,
+      "tot_hshld_co": 10386,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 4604.09
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동",
+      "legaldong_cd": 1156010100,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 4341.53
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동1가",
+      "legaldong_cd": 1156010200,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 3257
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동2가",
+      "legaldong_cd": 1156010300,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 3220.6
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동3가",
+      "legaldong_cd": 1156010400,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 4960.7
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동4가",
+      "legaldong_cd": 1156010500,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 4794.27
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동5가",
+      "legaldong_cd": 1156010600,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 3783.24
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동6가",
+      "legaldong_cd": 1156010700,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 3787.04
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동7가",
+      "legaldong_cd": 1156010800,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 4240.42
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 영등포동",
+      "adstrd_cd": 1156053500,
+      "legaldong_nm": "영등포동8가",
+      "legaldong_cd": 1156010900,
+      "tot_po": 27378,
+      "tot_hshld_co": 15982,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 3350.82
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 여의동",
+      "adstrd_cd": 1156054000,
+      "legaldong_nm": "여의도동",
+      "legaldong_cd": 1156011000,
+      "tot_po": 31395,
+      "tot_hshld_co": 12095,
+      "hshld_per_po": 2.6,
+      "ave_income_amt": 7904
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 당산1동",
+      "adstrd_cd": 1156055000,
+      "legaldong_nm": "당산동1가",
+      "legaldong_cd": 1156011100,
+      "tot_po": 20442,
+      "tot_hshld_co": 9822,
+      "hshld_per_po": 2.08,
+      "ave_income_amt": 4172.75
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 당산1동",
+      "adstrd_cd": 1156055000,
+      "legaldong_nm": "당산동2가",
+      "legaldong_cd": 1156011200,
+      "tot_po": 20442,
+      "tot_hshld_co": 9822,
+      "hshld_per_po": 2.08,
+      "ave_income_amt": 3830.77
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 당산1동",
+      "adstrd_cd": 1156055000,
+      "legaldong_nm": "당산동3가",
+      "legaldong_cd": 1156011300,
+      "tot_po": 20442,
+      "tot_hshld_co": 9822,
+      "hshld_per_po": 2.08,
+      "ave_income_amt": 4174.92
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 당산2동",
+      "adstrd_cd": 1156056000,
+      "legaldong_nm": "당산동4가",
+      "legaldong_cd": 1156011400,
+      "tot_po": 35966,
+      "tot_hshld_co": 17042,
+      "hshld_per_po": 2.11,
+      "ave_income_amt": 4818.7
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 당산2동",
+      "adstrd_cd": 1156056000,
+      "legaldong_nm": "당산동5가",
+      "legaldong_cd": 1156011500,
+      "tot_po": 35966,
+      "tot_hshld_co": 17042,
+      "hshld_per_po": 2.11,
+      "ave_income_amt": 4097.98
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 당산2동",
+      "adstrd_cd": 1156056000,
+      "legaldong_nm": "당산동6가",
+      "legaldong_cd": 1156011600,
+      "tot_po": 35966,
+      "tot_hshld_co": 17042,
+      "hshld_per_po": 2.11,
+      "ave_income_amt": 5002.99
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 당산2동",
+      "adstrd_cd": 1156056000,
+      "legaldong_nm": "당산동",
+      "legaldong_cd": 1156011700,
+      "tot_po": 35966,
+      "tot_hshld_co": 17042,
+      "hshld_per_po": 2.11,
+      "ave_income_amt": 5047.66
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 도림동",
+      "adstrd_cd": 1156058500,
+      "legaldong_nm": "도림동",
+      "legaldong_cd": 1156011800,
+      "tot_po": 21633,
+      "tot_hshld_co": 9874,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 4054.46
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 문래동",
+      "adstrd_cd": 1156060500,
+      "legaldong_nm": "문래동1가",
+      "legaldong_cd": 1156011900,
+      "tot_po": 32133,
+      "tot_hshld_co": 12273,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3328.22
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 문래동",
+      "adstrd_cd": 1156060500,
+      "legaldong_nm": "문래동2가",
+      "legaldong_cd": 1156012000,
+      "tot_po": 32133,
+      "tot_hshld_co": 12273,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3628.18
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 문래동",
+      "adstrd_cd": 1156060500,
+      "legaldong_nm": "문래동3가",
+      "legaldong_cd": 1156012100,
+      "tot_po": 32133,
+      "tot_hshld_co": 12273,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3587.13
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 문래동",
+      "adstrd_cd": 1156060500,
+      "legaldong_nm": "문래동4가",
+      "legaldong_cd": 1156012200,
+      "tot_po": 32133,
+      "tot_hshld_co": 12273,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3609.43
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 문래동",
+      "adstrd_cd": 1156060500,
+      "legaldong_nm": "문래동5가",
+      "legaldong_cd": 1156012300,
+      "tot_po": 32133,
+      "tot_hshld_co": 12273,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3679.1
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 문래동",
+      "adstrd_cd": 1156060500,
+      "legaldong_nm": "문래동6가",
+      "legaldong_cd": 1156012400,
+      "tot_po": 32133,
+      "tot_hshld_co": 12273,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 3589
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 양평1동",
+      "adstrd_cd": 1156061000,
+      "legaldong_nm": "양평동1가",
+      "legaldong_cd": 1156012500,
+      "tot_po": 16873,
+      "tot_hshld_co": 8419,
+      "hshld_per_po": 2,
+      "ave_income_amt": 3074.37
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 양평1동",
+      "adstrd_cd": 1156061000,
+      "legaldong_nm": "양평동2가",
+      "legaldong_cd": 1156012600,
+      "tot_po": 16873,
+      "tot_hshld_co": 8419,
+      "hshld_per_po": 2,
+      "ave_income_amt": 3584.73
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 양평1동",
+      "adstrd_cd": 1156061000,
+      "legaldong_nm": "양평동3가",
+      "legaldong_cd": 1156012700,
+      "tot_po": 16873,
+      "tot_hshld_co": 8419,
+      "hshld_per_po": 2,
+      "ave_income_amt": 3834.54
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 양평2동",
+      "adstrd_cd": 1156062000,
+      "legaldong_nm": "양평동3가",
+      "legaldong_cd": 1156012700,
+      "tot_po": 21977,
+      "tot_hshld_co": 9572,
+      "hshld_per_po": 2.3,
+      "ave_income_amt": 3834.54
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 양평2동",
+      "adstrd_cd": 1156062000,
+      "legaldong_nm": "양평동4가",
+      "legaldong_cd": 1156012800,
+      "tot_po": 21977,
+      "tot_hshld_co": 9572,
+      "hshld_per_po": 2.3,
+      "ave_income_amt": 4691.48
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 양평2동",
+      "adstrd_cd": 1156062000,
+      "legaldong_nm": "양평동5가",
+      "legaldong_cd": 1156012900,
+      "tot_po": 21977,
+      "tot_hshld_co": 9572,
+      "hshld_per_po": 2.3,
+      "ave_income_amt": 4513.96
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 양평2동",
+      "adstrd_cd": 1156062000,
+      "legaldong_nm": "양평동6가",
+      "legaldong_cd": 1156013000,
+      "tot_po": 21977,
+      "tot_hshld_co": 9572,
+      "hshld_per_po": 2.3,
+      "ave_income_amt": 4792.59
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 신길1동",
+      "adstrd_cd": 1156063000,
+      "legaldong_nm": "신길동",
+      "legaldong_cd": 1156013200,
+      "tot_po": 19495,
+      "tot_hshld_co": 10085,
+      "hshld_per_po": 1.93,
+      "ave_income_amt": 4604.09
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 신길3동",
+      "adstrd_cd": 1156065000,
+      "legaldong_nm": "신길동",
+      "legaldong_cd": 1156013200,
+      "tot_po": 18052,
+      "tot_hshld_co": 7575,
+      "hshld_per_po": 2.38,
+      "ave_income_amt": 4604.09
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 신길4동",
+      "adstrd_cd": 1156066000,
+      "legaldong_nm": "신길동",
+      "legaldong_cd": 1156013200,
+      "tot_po": 11065,
+      "tot_hshld_co": 4734,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 4604.09
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 신길5동",
+      "adstrd_cd": 1156067000,
+      "legaldong_nm": "신길동",
+      "legaldong_cd": 1156013200,
+      "tot_po": 12614,
+      "tot_hshld_co": 5097,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 4604.09
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 신길5동",
+      "adstrd_cd": 1156067000,
+      "legaldong_nm": "대림동",
+      "legaldong_cd": 1156013300,
+      "tot_po": 12614,
+      "tot_hshld_co": 5097,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 4690.84
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 신길6동",
+      "adstrd_cd": 1156068000,
+      "legaldong_nm": "신길동",
+      "legaldong_cd": 1156013200,
+      "tot_po": 18468,
+      "tot_hshld_co": 8332,
+      "hshld_per_po": 2.22,
+      "ave_income_amt": 4604.09
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 신길7동",
+      "adstrd_cd": 1156069000,
+      "legaldong_nm": "신길동",
+      "legaldong_cd": 1156013200,
+      "tot_po": 19975,
+      "tot_hshld_co": 7355,
+      "hshld_per_po": 2.72,
+      "ave_income_amt": 4604.09
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 대림1동",
+      "adstrd_cd": 1156070000,
+      "legaldong_nm": "대림동",
+      "legaldong_cd": 1156013300,
+      "tot_po": 18854,
+      "tot_hshld_co": 8000,
+      "hshld_per_po": 2.36,
+      "ave_income_amt": 4690.84
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 대림2동",
+      "adstrd_cd": 1156071000,
+      "legaldong_nm": "대림동",
+      "legaldong_cd": 1156013300,
+      "tot_po": 23707,
+      "tot_hshld_co": 9625,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 4690.84
+    },
+    {
+      "adstrd_nm": "서울시 영등포구 대림3동",
+      "adstrd_cd": 1156072000,
+      "legaldong_nm": "대림동",
+      "legaldong_cd": 1156013300,
+      "tot_po": 29183,
+      "tot_hshld_co": 11949,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 4690.84
+    },
+    {
+      "adstrd_nm": "서울시 동작구 노량진1동",
+      "adstrd_cd": 1159051000,
+      "legaldong_nm": "노량진동",
+      "legaldong_cd": 1159010100,
+      "tot_po": 31292,
+      "tot_hshld_co": 14288,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 6067.18
+    },
+    {
+      "adstrd_nm": "서울시 동작구 노량진1동",
+      "adstrd_cd": 1159051000,
+      "legaldong_nm": "본동",
+      "legaldong_cd": 1159010400,
+      "tot_po": 31292,
+      "tot_hshld_co": 14288,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 4445.42
+    },
+    {
+      "adstrd_nm": "서울시 동작구 노량진2동",
+      "adstrd_cd": 1159052000,
+      "legaldong_nm": "노량진동",
+      "legaldong_cd": 1159010100,
+      "tot_po": 12898,
+      "tot_hshld_co": 6711,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 6067.18
+    },
+    {
+      "adstrd_nm": "서울시 동작구 상도1동",
+      "adstrd_cd": 1159053000,
+      "legaldong_nm": "상도동",
+      "legaldong_cd": 1159010200,
+      "tot_po": 46060,
+      "tot_hshld_co": 21051,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 5000.16
+    },
+    {
+      "adstrd_nm": "서울시 동작구 상도1동",
+      "adstrd_cd": 1159053000,
+      "legaldong_nm": "상도1동",
+      "legaldong_cd": 1159010300,
+      "tot_po": 46060,
+      "tot_hshld_co": 21051,
+      "hshld_per_po": 2.19,
+      "ave_income_amt": 5626.84
+    },
+    {
+      "adstrd_nm": "서울시 동작구 상도2동",
+      "adstrd_cd": 1159054000,
+      "legaldong_nm": "상도동",
+      "legaldong_cd": 1159010200,
+      "tot_po": 27215,
+      "tot_hshld_co": 11743,
+      "hshld_per_po": 2.32,
+      "ave_income_amt": 5000.16
+    },
+    {
+      "adstrd_nm": "서울시 동작구 상도3동",
+      "adstrd_cd": 1159055000,
+      "legaldong_nm": "상도동",
+      "legaldong_cd": 1159010200,
+      "tot_po": 24734,
+      "tot_hshld_co": 11156,
+      "hshld_per_po": 2.22,
+      "ave_income_amt": 5000.16
+    },
+    {
+      "adstrd_nm": "서울시 동작구 상도4동",
+      "adstrd_cd": 1159056000,
+      "legaldong_nm": "상도동",
+      "legaldong_cd": 1159010200,
+      "tot_po": 28531,
+      "tot_hshld_co": 12760,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 5000.16
+    },
+    {
+      "adstrd_nm": "서울시 동작구 흑석동",
+      "adstrd_cd": 1159060500,
+      "legaldong_nm": "흑석동",
+      "legaldong_cd": 1159010500,
+      "tot_po": 34643,
+      "tot_hshld_co": 14450,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 5409.45
+    },
+    {
+      "adstrd_nm": "서울시 동작구 사당1동",
+      "adstrd_cd": 1159062000,
+      "legaldong_nm": "사당동",
+      "legaldong_cd": 1159010700,
+      "tot_po": 23311,
+      "tot_hshld_co": 12573,
+      "hshld_per_po": 1.85,
+      "ave_income_amt": 5417.95
+    },
+    {
+      "adstrd_nm": "서울시 동작구 사당2동",
+      "adstrd_cd": 1159063000,
+      "legaldong_nm": "동작동",
+      "legaldong_cd": 1159010600,
+      "tot_po": 26268,
+      "tot_hshld_co": 11011,
+      "hshld_per_po": 2.39,
+      "ave_income_amt": 5359.81
+    },
+    {
+      "adstrd_nm": "서울시 동작구 사당2동",
+      "adstrd_cd": 1159063000,
+      "legaldong_nm": "사당동",
+      "legaldong_cd": 1159010700,
+      "tot_po": 26268,
+      "tot_hshld_co": 11011,
+      "hshld_per_po": 2.39,
+      "ave_income_amt": 5417.95
+    },
+    {
+      "adstrd_nm": "서울시 동작구 사당3동",
+      "adstrd_cd": 1159064000,
+      "legaldong_nm": "사당동",
+      "legaldong_cd": 1159010700,
+      "tot_po": 24202,
+      "tot_hshld_co": 9691,
+      "hshld_per_po": 2.5,
+      "ave_income_amt": 5417.95
+    },
+    {
+      "adstrd_nm": "서울시 동작구 사당4동",
+      "adstrd_cd": 1159065000,
+      "legaldong_nm": "사당동",
+      "legaldong_cd": 1159010700,
+      "tot_po": 14175,
+      "tot_hshld_co": 6640,
+      "hshld_per_po": 2.13,
+      "ave_income_amt": 5417.95
+    },
+    {
+      "adstrd_nm": "서울시 동작구 사당5동",
+      "adstrd_cd": 1159065100,
+      "legaldong_nm": "사당동",
+      "legaldong_cd": 1159010700,
+      "tot_po": 14294,
+      "tot_hshld_co": 6180,
+      "hshld_per_po": 2.31,
+      "ave_income_amt": 5417.95
+    },
+    {
+      "adstrd_nm": "서울시 동작구 대방동",
+      "adstrd_cd": 1159066000,
+      "legaldong_nm": "대방동",
+      "legaldong_cd": 1159010800,
+      "tot_po": 38644,
+      "tot_hshld_co": 16353,
+      "hshld_per_po": 2.36,
+      "ave_income_amt": 5745.48
+    },
+    {
+      "adstrd_nm": "서울시 동작구 신대방1동",
+      "adstrd_cd": 1159067000,
+      "legaldong_nm": "신대방동",
+      "legaldong_cd": 1159010900,
+      "tot_po": 26603,
+      "tot_hshld_co": 10933,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 5184.02
+    },
+    {
+      "adstrd_nm": "서울시 동작구 신대방2동",
+      "adstrd_cd": 1159068000,
+      "legaldong_nm": "신대방동",
+      "legaldong_cd": 1159010900,
+      "tot_po": 19902,
+      "tot_hshld_co": 9032,
+      "hshld_per_po": 2.2,
+      "ave_income_amt": 5184.02
+    },
+    {
+      "adstrd_nm": "서울시 관악구 보라매동",
+      "adstrd_cd": 1162052500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 24550,
+      "tot_hshld_co": 11887,
+      "hshld_per_po": 2.07,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 청림동",
+      "adstrd_cd": 1162054500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 15090,
+      "tot_hshld_co": 5991,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 성현동",
+      "adstrd_cd": 1162056500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 29228,
+      "tot_hshld_co": 11633,
+      "hshld_per_po": 2.51,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 행운동",
+      "adstrd_cd": 1162057500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 29334,
+      "tot_hshld_co": 16772,
+      "hshld_per_po": 1.75,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 낙성대동",
+      "adstrd_cd": 1162058500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 21560,
+      "tot_hshld_co": 10219,
+      "hshld_per_po": 2.11,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 청룡동",
+      "adstrd_cd": 1162059500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 35927,
+      "tot_hshld_co": 21728,
+      "hshld_per_po": 1.65,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 은천동",
+      "adstrd_cd": 1162060500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 33810,
+      "tot_hshld_co": 15191,
+      "hshld_per_po": 2.23,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 중앙동",
+      "adstrd_cd": 1162061500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 15426,
+      "tot_hshld_co": 9235,
+      "hshld_per_po": 1.67,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 인헌동",
+      "adstrd_cd": 1162062500,
+      "legaldong_nm": "봉천동",
+      "legaldong_cd": 1162010100,
+      "tot_po": 25803,
+      "tot_hshld_co": 13438,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 4913.29
+    },
+    {
+      "adstrd_nm": "서울시 관악구 남현동",
+      "adstrd_cd": 1162063000,
+      "legaldong_nm": "남현동",
+      "legaldong_cd": 1162010300,
+      "tot_po": 17855,
+      "tot_hshld_co": 8737,
+      "hshld_per_po": 2.04,
+      "ave_income_amt": 6846.29
+    },
+    {
+      "adstrd_nm": "경기도 양주시 남면",
+      "adstrd_cd": 4163032000,
+      "legaldong_nm": "매곡리",
+      "legaldong_cd": 4163032023,
+      "tot_po": 8425,
+      "tot_hshld_co": 3222,
+      "hshld_per_po": 2.61,
+      "ave_income_amt": 2101.77
+    },
+    {
+      "adstrd_nm": "서울시 관악구 서원동",
+      "adstrd_cd": 1162064500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 22994,
+      "tot_hshld_co": 13441,
+      "hshld_per_po": 1.71,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 신원동",
+      "adstrd_cd": 1162065500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 19223,
+      "tot_hshld_co": 10799,
+      "hshld_per_po": 1.78,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 서림동",
+      "adstrd_cd": 1162066500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 23429,
+      "tot_hshld_co": 13420,
+      "hshld_per_po": 1.75,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 신사동",
+      "adstrd_cd": 1162068500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 26454,
+      "tot_hshld_co": 14549,
+      "hshld_per_po": 1.82,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 신림동",
+      "adstrd_cd": 1162069500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 22325,
+      "tot_hshld_co": 16171,
+      "hshld_per_po": 1.38,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 난향동",
+      "adstrd_cd": 1162071500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 15208,
+      "tot_hshld_co": 5806,
+      "hshld_per_po": 2.62,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 조원동",
+      "adstrd_cd": 1162072500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 19553,
+      "tot_hshld_co": 10867,
+      "hshld_per_po": 1.8,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 대학동",
+      "adstrd_cd": 1162073500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 23656,
+      "tot_hshld_co": 14729,
+      "hshld_per_po": 1.61,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 삼성동",
+      "adstrd_cd": 1162074500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 23003,
+      "tot_hshld_co": 9908,
+      "hshld_per_po": 2.32,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 미성동",
+      "adstrd_cd": 1162076500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 30902,
+      "tot_hshld_co": 13208,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 관악구 난곡동",
+      "adstrd_cd": 1162077500,
+      "legaldong_nm": "신림동",
+      "legaldong_cd": 1162010200,
+      "tot_po": 27311,
+      "tot_hshld_co": 12093,
+      "hshld_per_po": 2.26,
+      "ave_income_amt": 5017.06
+    },
+    {
+      "adstrd_nm": "서울시 서초구 서초1동",
+      "adstrd_cd": 1165051000,
+      "legaldong_nm": "서초동",
+      "legaldong_cd": 1165010800,
+      "tot_po": 19994,
+      "tot_hshld_co": 8666,
+      "hshld_per_po": 2.31,
+      "ave_income_amt": 11087.97
+    },
+    {
+      "adstrd_nm": "서울시 서초구 서초2동",
+      "adstrd_cd": 1165052000,
+      "legaldong_nm": "서초동",
+      "legaldong_cd": 1165010800,
+      "tot_po": 19164,
+      "tot_hshld_co": 8559,
+      "hshld_per_po": 2.24,
+      "ave_income_amt": 11087.97
+    },
+    {
+      "adstrd_nm": "서울시 서초구 서초3동",
+      "adstrd_cd": 1165053000,
+      "legaldong_nm": "방배동",
+      "legaldong_cd": 1165010100,
+      "tot_po": 30186,
+      "tot_hshld_co": 13207,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 10292.98
+    },
+    {
+      "adstrd_nm": "서울시 서초구 서초3동",
+      "adstrd_cd": 1165053000,
+      "legaldong_nm": "서초동",
+      "legaldong_cd": 1165010800,
+      "tot_po": 30186,
+      "tot_hshld_co": 13207,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 11087.97
+    },
+    {
+      "adstrd_nm": "서울시 서초구 서초4동",
+      "adstrd_cd": 1165053100,
+      "legaldong_nm": "서초동",
+      "legaldong_cd": 1165010800,
+      "tot_po": 29570,
+      "tot_hshld_co": 10170,
+      "hshld_per_po": 2.91,
+      "ave_income_amt": 11087.97
+    },
+    {
+      "adstrd_nm": "서울시 서초구 잠원동",
+      "adstrd_cd": 1165054000,
+      "legaldong_nm": "잠원동",
+      "legaldong_cd": 1165010600,
+      "tot_po": 26985,
+      "tot_hshld_co": 10511,
+      "hshld_per_po": 2.57,
+      "ave_income_amt": 9797.19
+    },
+    {
+      "adstrd_nm": "서울시 서초구 반포본동",
+      "adstrd_cd": 1165055000,
+      "legaldong_nm": "반포동",
+      "legaldong_cd": 1165010700,
+      "tot_po": 10870,
+      "tot_hshld_co": 3617,
+      "hshld_per_po": 3.01,
+      "ave_income_amt": 11426.04
+    },
+    {
+      "adstrd_nm": "서울시 서초구 반포1동",
+      "adstrd_cd": 1165056000,
+      "legaldong_nm": "반포동",
+      "legaldong_cd": 1165010700,
+      "tot_po": 30904,
+      "tot_hshld_co": 13265,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 11426.04
+    },
+    {
+      "adstrd_nm": "서울시 서초구 반포2동",
+      "adstrd_cd": 1165057000,
+      "legaldong_nm": "반포동",
+      "legaldong_cd": 1165010700,
+      "tot_po": 15274,
+      "tot_hshld_co": 4649,
+      "hshld_per_po": 3.29,
+      "ave_income_amt": 11426.04
+    },
+    {
+      "adstrd_nm": "서울시 서초구 반포3동",
+      "adstrd_cd": 1165058000,
+      "legaldong_nm": "잠원동",
+      "legaldong_cd": 1165010600,
+      "tot_po": 20730,
+      "tot_hshld_co": 7072,
+      "hshld_per_po": 2.93,
+      "ave_income_amt": 9797.19
+    },
+    {
+      "adstrd_nm": "서울시 서초구 반포4동",
+      "adstrd_cd": 1165058100,
+      "legaldong_nm": "반포동",
+      "legaldong_cd": 1165010700,
+      "tot_po": 18635,
+      "tot_hshld_co": 6608,
+      "hshld_per_po": 2.82,
+      "ave_income_amt": 11426.04
+    },
+    {
+      "adstrd_nm": "서울시 서초구 방배본동",
+      "adstrd_cd": 1165059000,
+      "legaldong_nm": "방배동",
+      "legaldong_cd": 1165010100,
+      "tot_po": 19939,
+      "tot_hshld_co": 7400,
+      "hshld_per_po": 2.69,
+      "ave_income_amt": 10292.98
+    },
+    {
+      "adstrd_nm": "서울시 서초구 방배1동",
+      "adstrd_cd": 1165060000,
+      "legaldong_nm": "방배동",
+      "legaldong_cd": 1165010100,
+      "tot_po": 16355,
+      "tot_hshld_co": 7058,
+      "hshld_per_po": 2.32,
+      "ave_income_amt": 10292.98
+    },
+    {
+      "adstrd_nm": "서울시 서초구 방배2동",
+      "adstrd_cd": 1165061000,
+      "legaldong_nm": "방배동",
+      "legaldong_cd": 1165010100,
+      "tot_po": 19174,
+      "tot_hshld_co": 7790,
+      "hshld_per_po": 2.46,
+      "ave_income_amt": 10292.98
+    },
+    {
+      "adstrd_nm": "서울시 서초구 방배3동",
+      "adstrd_cd": 1165062000,
+      "legaldong_nm": "방배동",
+      "legaldong_cd": 1165010100,
+      "tot_po": 20002,
+      "tot_hshld_co": 7490,
+      "hshld_per_po": 2.67,
+      "ave_income_amt": 10292.98
+    },
+    {
+      "adstrd_nm": "서울시 서초구 방배4동",
+      "adstrd_cd": 1165062100,
+      "legaldong_nm": "방배동",
+      "legaldong_cd": 1165010100,
+      "tot_po": 22676,
+      "tot_hshld_co": 9044,
+      "hshld_per_po": 2.51,
+      "ave_income_amt": 10292.98
+    },
+    {
+      "adstrd_nm": "서울시 서초구 양재1동",
+      "adstrd_cd": 1165065100,
+      "legaldong_nm": "양재동",
+      "legaldong_cd": 1165010200,
+      "tot_po": 42688,
+      "tot_hshld_co": 16941,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 8871.26
+    },
+    {
+      "adstrd_nm": "서울시 서초구 양재1동",
+      "adstrd_cd": 1165065100,
+      "legaldong_nm": "우면동",
+      "legaldong_cd": 1165010300,
+      "tot_po": 42688,
+      "tot_hshld_co": 16941,
+      "hshld_per_po": 2.52,
+      "ave_income_amt": 12384.41
+    },
+    {
+      "adstrd_nm": "서울시 서초구 양재2동",
+      "adstrd_cd": 1165065200,
+      "legaldong_nm": "양재동",
+      "legaldong_cd": 1165010200,
+      "tot_po": 21529,
+      "tot_hshld_co": 9866,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 8871.26
+    },
+    {
+      "adstrd_nm": "서울시 서초구 양재2동",
+      "adstrd_cd": 1165065200,
+      "legaldong_nm": "원지동",
+      "legaldong_cd": 1165010400,
+      "tot_po": 21529,
+      "tot_hshld_co": 9866,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 9106.1
+    },
+    {
+      "adstrd_nm": "서울시 서초구 내곡동",
+      "adstrd_cd": 1165066000,
+      "legaldong_nm": "내곡동",
+      "legaldong_cd": 1165010900,
+      "tot_po": 17074,
+      "tot_hshld_co": 6669,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 9336.18
+    },
+    {
+      "adstrd_nm": "서울시 서초구 내곡동",
+      "adstrd_cd": 1165066000,
+      "legaldong_nm": "염곡동",
+      "legaldong_cd": 1165011000,
+      "tot_po": 17074,
+      "tot_hshld_co": 6669,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 11148.21
+    },
+    {
+      "adstrd_nm": "서울시 서초구 내곡동",
+      "adstrd_cd": 1165066000,
+      "legaldong_nm": "신원동",
+      "legaldong_cd": 1165011100,
+      "tot_po": 17074,
+      "tot_hshld_co": 6669,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 10247.55
+    },
+    {
+      "adstrd_nm": "서울시 강남구 신사동",
+      "adstrd_cd": 1168051000,
+      "legaldong_nm": "신사동",
+      "legaldong_cd": 1168010700,
+      "tot_po": 15529,
+      "tot_hshld_co": 6621,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 12828.44
+    },
+    {
+      "adstrd_nm": "서울시 강남구 신사동",
+      "adstrd_cd": 1168051000,
+      "legaldong_nm": "압구정동",
+      "legaldong_cd": 1168011000,
+      "tot_po": 15529,
+      "tot_hshld_co": 6621,
+      "hshld_per_po": 2.35,
+      "ave_income_amt": 16701.43
+    },
+    {
+      "adstrd_nm": "서울시 강남구 논현1동",
+      "adstrd_cd": 1168052100,
+      "legaldong_nm": "논현동",
+      "legaldong_cd": 1168010800,
+      "tot_po": 22095,
+      "tot_hshld_co": 12828,
+      "hshld_per_po": 1.72,
+      "ave_income_amt": 13078.13
+    },
+    {
+      "adstrd_nm": "서울시 강남구 논현2동",
+      "adstrd_cd": 1168053100,
+      "legaldong_nm": "논현동",
+      "legaldong_cd": 1168010800,
+      "tot_po": 20669,
+      "tot_hshld_co": 10294,
+      "hshld_per_po": 2.01,
+      "ave_income_amt": 13078.13
+    },
+    {
+      "adstrd_nm": "서울시 강남구 압구정동",
+      "adstrd_cd": 1168054500,
+      "legaldong_nm": "신사동",
+      "legaldong_cd": 1168010700,
+      "tot_po": 24976,
+      "tot_hshld_co": 9343,
+      "hshld_per_po": 2.67,
+      "ave_income_amt": 12828.44
+    },
+    {
+      "adstrd_nm": "서울시 강남구 압구정동",
+      "adstrd_cd": 1168054500,
+      "legaldong_nm": "압구정동",
+      "legaldong_cd": 1168011000,
+      "tot_po": 24976,
+      "tot_hshld_co": 9343,
+      "hshld_per_po": 2.67,
+      "ave_income_amt": 16701.43
+    },
+    {
+      "adstrd_nm": "서울시 강남구 청담동",
+      "adstrd_cd": 1168056500,
+      "legaldong_nm": "청담동",
+      "legaldong_cd": 1168010400,
+      "tot_po": 25054,
+      "tot_hshld_co": 10434,
+      "hshld_per_po": 2.4,
+      "ave_income_amt": 14058.2
+    },
+    {
+      "adstrd_nm": "서울시 강남구 삼성1동",
+      "adstrd_cd": 1168058000,
+      "legaldong_nm": "삼성동",
+      "legaldong_cd": 1168010500,
+      "tot_po": 12698,
+      "tot_hshld_co": 5130,
+      "hshld_per_po": 2.48,
+      "ave_income_amt": 14687.22
+    },
+    {
+      "adstrd_nm": "서울시 강남구 삼성2동",
+      "adstrd_cd": 1168059000,
+      "legaldong_nm": "삼성동",
+      "legaldong_cd": 1168010500,
+      "tot_po": 28212,
+      "tot_hshld_co": 12080,
+      "hshld_per_po": 2.34,
+      "ave_income_amt": 14687.22
+    },
+    {
+      "adstrd_nm": "서울시 강남구 대치1동",
+      "adstrd_cd": 1168060000,
+      "legaldong_nm": "대치동",
+      "legaldong_cd": 1168010600,
+      "tot_po": 23521,
+      "tot_hshld_co": 7005,
+      "hshld_per_po": 3.36,
+      "ave_income_amt": 13523.29
+    },
+    {
+      "adstrd_nm": "서울시 강남구 대치2동",
+      "adstrd_cd": 1168061000,
+      "legaldong_nm": "대치동",
+      "legaldong_cd": 1168010600,
+      "tot_po": 35404,
+      "tot_hshld_co": 12092,
+      "hshld_per_po": 2.93,
+      "ave_income_amt": 13523.29
+    },
+    {
+      "adstrd_nm": "서울시 강남구 대치4동",
+      "adstrd_cd": 1168063000,
+      "legaldong_nm": "대치동",
+      "legaldong_cd": 1168010600,
+      "tot_po": 19547,
+      "tot_hshld_co": 9479,
+      "hshld_per_po": 2.06,
+      "ave_income_amt": 13523.29
+    },
+    {
+      "adstrd_nm": "서울시 강남구 역삼1동",
+      "adstrd_cd": 1168064000,
+      "legaldong_nm": "역삼동",
+      "legaldong_cd": 1168010100,
+      "tot_po": 34491,
+      "tot_hshld_co": 21127,
+      "hshld_per_po": 1.63,
+      "ave_income_amt": 14566.28
+    },
+    {
+      "adstrd_nm": "서울시 강남구 역삼2동",
+      "adstrd_cd": 1168065000,
+      "legaldong_nm": "역삼동",
+      "legaldong_cd": 1168010100,
+      "tot_po": 34617,
+      "tot_hshld_co": 14111,
+      "hshld_per_po": 2.45,
+      "ave_income_amt": 14566.28
+    },
+    {
+      "adstrd_nm": "서울시 강남구 도곡1동",
+      "adstrd_cd": 1168065500,
+      "legaldong_nm": "도곡동",
+      "legaldong_cd": 1168011800,
+      "tot_po": 20799,
+      "tot_hshld_co": 7894,
+      "hshld_per_po": 2.63,
+      "ave_income_amt": 10121.65
+    },
+    {
+      "adstrd_nm": "서울시 강남구 도곡2동",
+      "adstrd_cd": 1168065600,
+      "legaldong_nm": "도곡동",
+      "legaldong_cd": 1168011800,
+      "tot_po": 31740,
+      "tot_hshld_co": 10880,
+      "hshld_per_po": 2.92,
+      "ave_income_amt": 10121.65
+    },
+    {
+      "adstrd_nm": "서울시 강남구 개포1동",
+      "adstrd_cd": 1168066000,
+      "legaldong_nm": "개포동",
+      "legaldong_cd": 1168010300,
+      "tot_po": 6053,
+      "tot_hshld_co": 2334,
+      "hshld_per_po": 2.59,
+      "ave_income_amt": 8492.84
+    },
+    {
+      "adstrd_nm": "서울시 강남구 개포2동",
+      "adstrd_cd": 1168067000,
+      "legaldong_nm": "개포동",
+      "legaldong_cd": 1168010300,
+      "tot_po": 21067,
+      "tot_hshld_co": 7463,
+      "hshld_per_po": 2.82,
+      "ave_income_amt": 8492.84
+    },
+    {
+      "adstrd_nm": "서울시 강남구 개포2동",
+      "adstrd_cd": 1168067000,
+      "legaldong_nm": "일원동",
+      "legaldong_cd": 1168011400,
+      "tot_po": 21067,
+      "tot_hshld_co": 7463,
+      "hshld_per_po": 2.82,
+      "ave_income_amt": 10611.15
+    },
+    {
+      "adstrd_nm": "서울시 강남구 개포4동",
+      "adstrd_cd": 1168069000,
+      "legaldong_nm": "개포동",
+      "legaldong_cd": 1168010300,
+      "tot_po": 19458,
+      "tot_hshld_co": 7890,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 8492.84
+    },
+    {
+      "adstrd_nm": "서울시 강남구 세곡동",
+      "adstrd_cd": 1168070000,
+      "legaldong_nm": "세곡동",
+      "legaldong_cd": 1168011100,
+      "tot_po": 43088,
+      "tot_hshld_co": 16826,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 11208.3
+    },
+    {
+      "adstrd_nm": "서울시 강남구 세곡동",
+      "adstrd_cd": 1168070000,
+      "legaldong_nm": "자곡동",
+      "legaldong_cd": 1168011200,
+      "tot_po": 43088,
+      "tot_hshld_co": 16826,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 12467.42
+    },
+    {
+      "adstrd_nm": "서울시 강남구 세곡동",
+      "adstrd_cd": 1168070000,
+      "legaldong_nm": "율현동",
+      "legaldong_cd": 1168011300,
+      "tot_po": 43088,
+      "tot_hshld_co": 16826,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 9195.11
+    },
+    {
+      "adstrd_nm": "서울시 강남구 일원본동",
+      "adstrd_cd": 1168072000,
+      "legaldong_nm": "일원동",
+      "legaldong_cd": 1168011400,
+      "tot_po": 22639,
+      "tot_hshld_co": 7506,
+      "hshld_per_po": 3.02,
+      "ave_income_amt": 10611.15
+    },
+    {
+      "adstrd_nm": "서울시 강남구 일원본동",
+      "adstrd_cd": 1168072000,
+      "legaldong_nm": "수서동",
+      "legaldong_cd": 1168011500,
+      "tot_po": 22639,
+      "tot_hshld_co": 7506,
+      "hshld_per_po": 3.02,
+      "ave_income_amt": 13308.37
+    },
+    {
+      "adstrd_nm": "서울시 강남구 일원1동",
+      "adstrd_cd": 1168073000,
+      "legaldong_nm": "일원동",
+      "legaldong_cd": 1168011400,
+      "tot_po": 15052,
+      "tot_hshld_co": 6898,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 10611.15
+    },
+    {
+      "adstrd_nm": "서울시 강남구 일원1동",
+      "adstrd_cd": 1168073000,
+      "legaldong_nm": "수서동",
+      "legaldong_cd": 1168011500,
+      "tot_po": 15052,
+      "tot_hshld_co": 6898,
+      "hshld_per_po": 2.18,
+      "ave_income_amt": 13308.37
+    },
+    {
+      "adstrd_nm": "서울시 강남구 일원2동",
+      "adstrd_cd": 1168074000,
+      "legaldong_nm": "개포동",
+      "legaldong_cd": 1168010300,
+      "tot_po": 16809,
+      "tot_hshld_co": 6927,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 8492.84
+    },
+    {
+      "adstrd_nm": "서울시 강남구 일원2동",
+      "adstrd_cd": 1168074000,
+      "legaldong_nm": "대치동",
+      "legaldong_cd": 1168010600,
+      "tot_po": 16809,
+      "tot_hshld_co": 6927,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 13523.29
+    },
+    {
+      "adstrd_nm": "서울시 강남구 일원2동",
+      "adstrd_cd": 1168074000,
+      "legaldong_nm": "일원동",
+      "legaldong_cd": 1168011400,
+      "tot_po": 16809,
+      "tot_hshld_co": 6927,
+      "hshld_per_po": 2.43,
+      "ave_income_amt": 10611.15
+    },
+    {
+      "adstrd_nm": "서울시 강남구 수서동",
+      "adstrd_cd": 1168075000,
+      "legaldong_nm": "수서동",
+      "legaldong_cd": 1168011500,
+      "tot_po": 14617,
+      "tot_hshld_co": 7420,
+      "hshld_per_po": 1.97,
+      "ave_income_amt": 13308.37
+    },
+    {
+      "adstrd_nm": "서울시 송파구 풍납1동",
+      "adstrd_cd": 1171051000,
+      "legaldong_nm": "풍납동",
+      "legaldong_cd": 1171010300,
+      "tot_po": 14533,
+      "tot_hshld_co": 6357,
+      "hshld_per_po": 2.29,
+      "ave_income_amt": 5283.76
+    },
+    {
+      "adstrd_nm": "서울시 송파구 풍납2동",
+      "adstrd_cd": 1171052000,
+      "legaldong_nm": "풍납동",
+      "legaldong_cd": 1171010300,
+      "tot_po": 24780,
+      "tot_hshld_co": 9929,
+      "hshld_per_po": 2.5,
+      "ave_income_amt": 5283.76
+    },
+    {
+      "adstrd_nm": "서울시 송파구 거여1동",
+      "adstrd_cd": 1171053100,
+      "legaldong_nm": "거여동",
+      "legaldong_cd": 1171011300,
+      "tot_po": 12520,
+      "tot_hshld_co": 5075,
+      "hshld_per_po": 2.47,
+      "ave_income_amt": 5404.38
+    },
+    {
+      "adstrd_nm": "서울시 송파구 거여2동",
+      "adstrd_cd": 1171053200,
+      "legaldong_nm": "거여동",
+      "legaldong_cd": 1171011300,
+      "tot_po": 16707,
+      "tot_hshld_co": 6846,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 5404.38
+    },
+    {
+      "adstrd_nm": "서울시 송파구 마천1동",
+      "adstrd_cd": 1171054000,
+      "legaldong_nm": "마천동",
+      "legaldong_cd": 1171011400,
+      "tot_po": 19141,
+      "tot_hshld_co": 7996,
+      "hshld_per_po": 2.39,
+      "ave_income_amt": 4974.27
+    },
+    {
+      "adstrd_nm": "서울시 송파구 마천2동",
+      "adstrd_cd": 1171055000,
+      "legaldong_nm": "마천동",
+      "legaldong_cd": 1171011400,
+      "tot_po": 19006,
+      "tot_hshld_co": 7877,
+      "hshld_per_po": 2.41,
+      "ave_income_amt": 4974.27
+    },
+    {
+      "adstrd_nm": "서울시 송파구 방이1동",
+      "adstrd_cd": 1171056100,
+      "legaldong_nm": "방이동",
+      "legaldong_cd": 1171011100,
+      "tot_po": 15513,
+      "tot_hshld_co": 5816,
+      "hshld_per_po": 2.67,
+      "ave_income_amt": 8640.37
+    },
+    {
+      "adstrd_nm": "서울시 송파구 방이2동",
+      "adstrd_cd": 1171056200,
+      "legaldong_nm": "방이동",
+      "legaldong_cd": 1171011100,
+      "tot_po": 25724,
+      "tot_hshld_co": 13425,
+      "hshld_per_po": 1.92,
+      "ave_income_amt": 8640.37
+    },
+    {
+      "adstrd_nm": "서울시 송파구 오륜동",
+      "adstrd_cd": 1171056600,
+      "legaldong_nm": "방이동",
+      "legaldong_cd": 1171011100,
+      "tot_po": 18040,
+      "tot_hshld_co": 5509,
+      "hshld_per_po": 3.27,
+      "ave_income_amt": 8640.37
+    },
+    {
+      "adstrd_nm": "서울시 송파구 오금동",
+      "adstrd_cd": 1171057000,
+      "legaldong_nm": "오금동",
+      "legaldong_cd": 1171011200,
+      "tot_po": 38255,
+      "tot_hshld_co": 14452,
+      "hshld_per_po": 2.65,
+      "ave_income_amt": 6735.62
+    },
+    {
+      "adstrd_nm": "서울시 송파구 송파1동",
+      "adstrd_cd": 1171058000,
+      "legaldong_nm": "송파동",
+      "legaldong_cd": 1171010400,
+      "tot_po": 24181,
+      "tot_hshld_co": 11525,
+      "hshld_per_po": 2.1,
+      "ave_income_amt": 8696.54
+    },
+    {
+      "adstrd_nm": "서울시 송파구 송파2동",
+      "adstrd_cd": 1171059000,
+      "legaldong_nm": "송파동",
+      "legaldong_cd": 1171010400,
+      "tot_po": 19634,
+      "tot_hshld_co": 7071,
+      "hshld_per_po": 2.78,
+      "ave_income_amt": 8696.54
+    },
+    {
+      "adstrd_nm": "서울시 송파구 석촌동",
+      "adstrd_cd": 1171060000,
+      "legaldong_nm": "석촌동",
+      "legaldong_cd": 1171010500,
+      "tot_po": 32265,
+      "tot_hshld_co": 15768,
+      "hshld_per_po": 2.05,
+      "ave_income_amt": 9495.45
+    },
+    {
+      "adstrd_nm": "서울시 송파구 삼전동",
+      "adstrd_cd": 1171061000,
+      "legaldong_nm": "삼전동",
+      "legaldong_cd": 1171010600,
+      "tot_po": 30630,
+      "tot_hshld_co": 14804,
+      "hshld_per_po": 2.07,
+      "ave_income_amt": 9961.98
+    },
+    {
+      "adstrd_nm": "서울시 송파구 가락본동",
+      "adstrd_cd": 1171062000,
+      "legaldong_nm": "가락동",
+      "legaldong_cd": 1171010700,
+      "tot_po": 26409,
+      "tot_hshld_co": 10824,
+      "hshld_per_po": 2.44,
+      "ave_income_amt": 7281.91
+    },
+    {
+      "adstrd_nm": "서울시 송파구 가락1동",
+      "adstrd_cd": 1171063100,
+      "legaldong_nm": "가락동",
+      "legaldong_cd": 1171010700,
+      "tot_po": 26796,
+      "tot_hshld_co": 9568,
+      "hshld_per_po": 2.8,
+      "ave_income_amt": 7281.91
+    },
+    {
+      "adstrd_nm": "서울시 송파구 가락2동",
+      "adstrd_cd": 1171063200,
+      "legaldong_nm": "가락동",
+      "legaldong_cd": 1171010700,
+      "tot_po": 31680,
+      "tot_hshld_co": 11624,
+      "hshld_per_po": 2.73,
+      "ave_income_amt": 7281.91
+    },
+    {
+      "adstrd_nm": "서울시 송파구 문정1동",
+      "adstrd_cd": 1171064100,
+      "legaldong_nm": "문정동",
+      "legaldong_cd": 1171010800,
+      "tot_po": 19910,
+      "tot_hshld_co": 7952,
+      "hshld_per_po": 2.5,
+      "ave_income_amt": 6878.3
+    },
+    {
+      "adstrd_nm": "서울시 송파구 문정2동",
+      "adstrd_cd": 1171064200,
+      "legaldong_nm": "문정동",
+      "legaldong_cd": 1171010800,
+      "tot_po": 28006,
+      "tot_hshld_co": 14735,
+      "hshld_per_po": 1.9,
+      "ave_income_amt": 6878.3
+    },
+    {
+      "adstrd_nm": "서울시 송파구 문정2동",
+      "adstrd_cd": 1171064200,
+      "legaldong_nm": "장지동",
+      "legaldong_cd": 1171010900,
+      "tot_po": 28006,
+      "tot_hshld_co": 14735,
+      "hshld_per_po": 1.9,
+      "ave_income_amt": 4886.9
+    },
+    {
+      "adstrd_nm": "서울시 송파구 장지동",
+      "adstrd_cd": 1171064600,
+      "legaldong_nm": "문정동",
+      "legaldong_cd": 1171010800,
+      "tot_po": 29489,
+      "tot_hshld_co": 11500,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 6878.3
+    },
+    {
+      "adstrd_nm": "서울시 송파구 장지동",
+      "adstrd_cd": 1171064600,
+      "legaldong_nm": "장지동",
+      "legaldong_cd": 1171010900,
+      "tot_po": 29489,
+      "tot_hshld_co": 11500,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 4886.9
+    },
+    {
+      "adstrd_nm": "서울시 송파구 위례동",
+      "adstrd_cd": 1171064700,
+      "legaldong_nm": "장지동",
+      "legaldong_cd": 1171010900,
+      "tot_po": 28124,
+      "tot_hshld_co": 9067,
+      "hshld_per_po": 3.1,
+      "ave_income_amt": 4886.9
+    },
+    {
+      "adstrd_nm": "서울시 송파구 위례동",
+      "adstrd_cd": 1171064700,
+      "legaldong_nm": "거여동",
+      "legaldong_cd": 1171011300,
+      "tot_po": 28124,
+      "tot_hshld_co": 9067,
+      "hshld_per_po": 3.1,
+      "ave_income_amt": 5404.38
+    },
+    {
+      "adstrd_nm": "서울시 송파구 잠실본동",
+      "adstrd_cd": 1171065000,
+      "legaldong_nm": "잠실동",
+      "legaldong_cd": 1171010100,
+      "tot_po": 28310,
+      "tot_hshld_co": 14249,
+      "hshld_per_po": 1.99,
+      "ave_income_amt": 10345.83
+    },
+    {
+      "adstrd_nm": "서울시 송파구 잠실2동",
+      "adstrd_cd": 1171067000,
+      "legaldong_nm": "잠실동",
+      "legaldong_cd": 1171010100,
+      "tot_po": 34351,
+      "tot_hshld_co": 11048,
+      "hshld_per_po": 3.11,
+      "ave_income_amt": 10345.83
+    },
+    {
+      "adstrd_nm": "서울시 송파구 잠실3동",
+      "adstrd_cd": 1171068000,
+      "legaldong_nm": "잠실동",
+      "legaldong_cd": 1171010100,
+      "tot_po": 33424,
+      "tot_hshld_co": 11282,
+      "hshld_per_po": 2.96,
+      "ave_income_amt": 10345.83
+    },
+    {
+      "adstrd_nm": "서울시 송파구 잠실7동",
+      "adstrd_cd": 1171072000,
+      "legaldong_nm": "잠실동",
+      "legaldong_cd": 1171010100,
+      "tot_po": 9120,
+      "tot_hshld_co": 3165,
+      "hshld_per_po": 2.88,
+      "ave_income_amt": 10345.83
+    },
+    {
+      "adstrd_nm": "서울시 강동구 강일동",
+      "adstrd_cd": 1174051500,
+      "legaldong_nm": "상일동",
+      "legaldong_cd": 1174010300,
+      "tot_po": 32044,
+      "tot_hshld_co": 11319,
+      "hshld_per_po": 2.83,
+      "ave_income_amt": 6160.86
+    },
+    {
+      "adstrd_nm": "서울시 강동구 강일동",
+      "adstrd_cd": 1174051500,
+      "legaldong_nm": "강일동",
+      "legaldong_cd": 1174011000,
+      "tot_po": 32044,
+      "tot_hshld_co": 11319,
+      "hshld_per_po": 2.83,
+      "ave_income_amt": 4508.89
+    },
+    {
+      "adstrd_nm": "서울시 강동구 상일동",
+      "adstrd_cd": 1174052000,
+      "legaldong_nm": "상일동",
+      "legaldong_cd": 1174010300,
+      "tot_po": 31951,
+      "tot_hshld_co": 11053,
+      "hshld_per_po": 2.89,
+      "ave_income_amt": 6160.86
+    },
+    {
+      "adstrd_nm": "서울시 강동구 명일1동",
+      "adstrd_cd": 1174053000,
+      "legaldong_nm": "명일동",
+      "legaldong_cd": 1174010100,
+      "tot_po": 25205,
+      "tot_hshld_co": 9358,
+      "hshld_per_po": 2.69,
+      "ave_income_amt": 6783.31
+    }, 
+    {
+      "adstrd_nm": "서울시 강동구 명일2동",
+      "adstrd_cd": 1174054000,
+      "legaldong_nm": "명일동",
+      "legaldong_cd": 1174010100,
+      "tot_po": 16574,
+      "tot_hshld_co": 5563,
+      "hshld_per_po": 2.98,
+      "ave_income_amt": 6783.31
+    },
+    {
+      "adstrd_nm": "서울시 강동구 고덕1동",
+      "adstrd_cd": 1174055000,
+      "legaldong_nm": "고덕동",
+      "legaldong_cd": 1174010200,
+      "tot_po": 25452,
+      "tot_hshld_co": 8408,
+      "hshld_per_po": 3.03,
+      "ave_income_amt": 7281.59
+    },
+    {
+      "adstrd_nm": "서울시 강동구 고덕2동",
+      "adstrd_cd": 1174056000,
+      "legaldong_nm": "고덕동",
+      "legaldong_cd": 1174010200,
+      "tot_po": 21626,
+      "tot_hshld_co": 8191,
+      "hshld_per_po": 2.64,
+      "ave_income_amt": 7281.59
+    },
+    {
+      "adstrd_nm": "서울시 강동구 암사1동",
+      "adstrd_cd": 1174057000,
+      "legaldong_nm": "암사동",
+      "legaldong_cd": 1174010700,
+      "tot_po": 34597,
+      "tot_hshld_co": 14605,
+      "hshld_per_po": 2.37,
+      "ave_income_amt": 6043.68
+    },
+    {
+      "adstrd_nm": "서울시 강동구 암사2동",
+      "adstrd_cd": 1174058000,
+      "legaldong_nm": "암사동",
+      "legaldong_cd": 1174010700,
+      "tot_po": 14902,
+      "tot_hshld_co": 5942,
+      "hshld_per_po": 2.51,
+      "ave_income_amt": 6043.68
+    },
+    {
+      "adstrd_nm": "서울시 강동구 암사3동",
+      "adstrd_cd": 1174059000,
+      "legaldong_nm": "암사동",
+      "legaldong_cd": 1174010700,
+      "tot_po": 17455,
+      "tot_hshld_co": 5898,
+      "hshld_per_po": 2.96,
+      "ave_income_amt": 6043.68
+    },
+    {
+      "adstrd_nm": "서울시 강동구 천호1동",
+      "adstrd_cd": 1174060000,
+      "legaldong_nm": "천호동",
+      "legaldong_cd": 1174010900,
+      "tot_po": 26550,
+      "tot_hshld_co": 11538,
+      "hshld_per_po": 2.3,
+      "ave_income_amt": 5327.28
+    },
+    {
+      "adstrd_nm": "서울시 강동구 천호2동",
+      "adstrd_cd": 1174061000,
+      "legaldong_nm": "천호동",
+      "legaldong_cd": 1174010900,
+      "tot_po": 34927,
+      "tot_hshld_co": 16215,
+      "hshld_per_po": 2.15,
+      "ave_income_amt": 5327.28
+    },
+    {
+      "adstrd_nm": "서울시 강동구 천호3동",
+      "adstrd_cd": 1174062000,
+      "legaldong_nm": "천호동",
+      "legaldong_cd": 1174010900,
+      "tot_po": 26140,
+      "tot_hshld_co": 12685,
+      "hshld_per_po": 2.06,
+      "ave_income_amt": 5327.28
+    },
+    {
+      "adstrd_nm": "서울시 강동구 성내1동",
+      "adstrd_cd": 1174064000,
+      "legaldong_nm": "성내동",
+      "legaldong_cd": 1174010800,
+      "tot_po": 19405,
+      "tot_hshld_co": 7580,
+      "hshld_per_po": 2.56,
+      "ave_income_amt": 6010.61
+    },
+    {
+      "adstrd_nm": "서울시 강동구 성내2동",
+      "adstrd_cd": 1174065000,
+      "legaldong_nm": "성내동",
+      "legaldong_cd": 1174010800,
+      "tot_po": 24026,
+      "tot_hshld_co": 11954,
+      "hshld_per_po": 2.01,
+      "ave_income_amt": 6010.61
+    },
+    {
+      "adstrd_nm": "서울시 강동구 성내3동",
+      "adstrd_cd": 1174066000,
+      "legaldong_nm": "성내동",
+      "legaldong_cd": 1174010800,
+      "tot_po": 22682,
+      "tot_hshld_co": 9716,
+      "hshld_per_po": 2.33,
+      "ave_income_amt": 6010.61
+    },
+    {
+      "adstrd_nm": "서울시 강동구 길동",
+      "adstrd_cd": 1174068500,
+      "legaldong_nm": "길동",
+      "legaldong_cd": 1174010500,
+      "tot_po": 44791,
+      "tot_hshld_co": 19714,
+      "hshld_per_po": 2.27,
+      "ave_income_amt": 6449.34
+    },
+    {
+      "adstrd_nm": "서울시 강동구 둔촌1동",
+      "adstrd_cd": 1174069000,
+      "legaldong_nm": "둔촌동",
+      "legaldong_cd": 1174010600,
+      "tot_po": 36,
+      "tot_hshld_co": 14,
+      "hshld_per_po": 2.57,
+      "ave_income_amt": 5761.6
+    },
+    {
+      "adstrd_nm": "서울시 강동구 둔촌2동",
+      "adstrd_cd": 1174070000,
+      "legaldong_nm": "둔촌동",
+      "legaldong_cd": 1174010600,
+      "tot_po": 26071,
+      "tot_hshld_co": 10041,
+      "hshld_per_po": 2.6,
+      "ave_income_amt": 5761.6
+    },
+  {
+    "adstrd_nm": "경기도 성남시 위례동",
+    "adstrd_cd": 4113162500,
+    "legaldong_nm": "복정동",
+    "legaldong_cd": 4113110700,
+    "tot_po": 44246,
+    "tot_hshld_co": 16727,
+    "hshld_per_po": 2.65,
+    "ave_income_amt": 9413.98
+  },
+  {
+    "adstrd_nm": "경기도 성남시 위례동",
+    "adstrd_cd": 4113162500,
+    "legaldong_nm": "창곡동",
+    "legaldong_cd": 4113110800,
+    "tot_po": 44246,
+    "tot_hshld_co": 16727,
+    "hshld_per_po": 2.65,
+    "ave_income_amt": 9303.16
+  },
+  {
+    "adstrd_nm": "경기도 하남시 위례동",
+    "adstrd_cd": 4145058500,
+    "legaldong_nm": "감이동",
+    "legaldong_cd": 4145011500,
+    "tot_po": 18343,
+    "tot_hshld_co": 6540,
+    "hshld_per_po": 2.8,
+    "ave_income_amt": 4097.46
+  },
+  {
+    "adstrd_nm": "경기도 하남시 위례동",
+    "adstrd_cd": 4145058500,
+    "legaldong_nm": "학암동",
+    "legaldong_cd": 4145011600,
+    "tot_po": 18343,
+    "tot_hshld_co": 6540,
+    "hshld_per_po": 2.8,
+    "ave_income_amt": 3403.29
+  }
+]

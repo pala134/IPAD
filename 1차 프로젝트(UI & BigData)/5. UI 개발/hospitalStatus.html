@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<!-- css,font -->
+	<link rel="stylesheet" href="css/hospitalStatus.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+	<!-- script -->
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+	<title>상권현황</title>
+
+</head>
+
+<body class="vh-100 overflow-hiddden">
+	<!--nav------------------------------------------------------------------------------------------->
+	<nav class="navbar fixed-top navbar-expand-lg">
+		<div class="container">
+			<!-- LOGO -->
+			<a class="navbar-brand fs-4" href="index.html">LOGO</a>
+
+			<!-- Toggle BTN(모바일 비율 아이콘) -->
+			<button class="navbar-toggler shadow-none border-0 " type="button" data-bs-toggle="offcanvas"
+				data-bs-target="#offcanvasNavbar">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<!-- sidebar -->
+			<div class="offcanvas offcanvas-start sidebar" tabindex="-1" id="offcanvasNavbar">
+				<!-- sidebar header -->
+				<div class="offcanvas-header border-bottom">
+					<h5 class="offcanvas-title" id="offcanvasNavbarLabel">LOGO</h5>
+					<button type="button" class="btn-close shadow-none" data-bs-dismiss="offcanvas"></button>
+				</div>
+				<!-- sidebar body -->
+				<div class="offcanvas-body d-flex flex-column flex-lg-row p-4 p-lg-0">
+					<ul class="navbar-nav justify-content-center fs-5 flex-grow-1 pe-3">
+						<li class="nav-item dropdown mx-5">
+							<div class="dropdown-center">
+								<a class="nav-link dropdown-toggle" href="#" role="button"
+									data-bs-toggle="dropdown">입지분석</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="populationStatus.html">인구분석</a></li>
+									<li><a class="dropdown-item" href="hospitalStatus.html">치과현황</a></li>
+									<li><a class="dropdown-item" href="map.html">지도</a></li>
+								</ul>
+							</div>
+						</li>
+
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="newSearch.html">매출분석</a>
+						</li>
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="#">Q&A</a>
+						</li>
+					</ul>
+					<div class="d-flex flex-column flex-lg-row justify-content-center align-items-center gap-3">
+						<a href="#" class="text-dark">로그인</a>
+						<a id="loginBtn" href="#" class="text-white text-decoration-none px-3 py-1 rounded-4">회원가입</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</nav>
+	<div style="height: 60px; width: 100px;"></div>
+
+	<!-- 배경  -->
+	<div class="container-fluid" style="background-color: #F8F9FA;">
+		<div style="height: 50px; width: 100px;"></div>
+
+		<!--치과현황--------------------------------------------------->
+		<div class="container ">
+			<h1 class="bolder">치과의원 현황</h1>
+		</div>
+
+		<div id="OpenCloseHos" class="container boxShadow">
+			<div style="height: 50px; width: 100px; margin-top: 50px;"></div>
+
+			<h4 style="float:left;">개폐업 현황 <i class="bi bi-question-circle" id="firstBtn"></i></h4>
+
+			<div id="firstInfo">
+				위례 신도시 연도별 치과의원 개·폐업 수
+			</div>
+
+			<div id="chartArea" class="col-sm-12">
+				<canvas id="openCloseHosChart" style="width: 100%;"></canvas>
+			</div>
+			<div id="OpenCloseHosTable" class="table-responsive">
+				<table class=" table table-bordered border-black align-middle text-center">
+					<thead>
+						<tr>
+							<th></th>
+							<th>2020년</th>
+							<th>2021년</th>
+							<th>2022년</th>
+							<th>2023년</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>개업</td>
+							<td>1</td>
+							<td>2</td>
+							<td>2</td>
+							<td>3</td>
+						</tr>
+						<tr>
+							<td>폐업</td>
+							<td>4</td>
+							<td>3</td>
+							<td>2</td>
+							<td>2</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+
+		<!--치과수 현황---------------------------------------------------------------  -->
+		<div id=" numOfHos" class=" container boxShadow">
+			<div style="height: 50px; width: 100px; margin-top: 50px;"></div>
+			<h4 style="float:left;">치과수 현황 <i class="bi bi-question-circle" id="thirdBtn"></i></h4>
+
+			<div id="thirdInfo">
+				지역별 치과의원 수 추이
+			</div>
+
+
+			<div id="numOfHosTable" class="table-responsive">
+				<table class="table table-bordered border-black align-middle text-center">
+					<thead>
+						<tr>
+							<th></th>
+							<th>2020년</th>
+							<th>2021년</th>
+							<th>2022년</th>
+							<th>2023년</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>송파구 위례동</td>
+							<td>5</td>
+							<td>6</td>
+							<td>3</td>
+							<td>5</td>
+						</tr>
+						<tr>
+							<td>성남시 위례동</td>
+							<td>3</td>
+							<td>5</td>
+							<td>4</td>
+							<td>6</td>
+						</tr>
+						<tr>
+							<td>하남시 위례동</td>
+							<td>4</td>
+							<td>3</td>
+							<td>5</td>
+							<td>5</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+
+		<!--치과당 인구수---------------------------------------------------------------  -->
+		<div id=" popuDivideHos" class="container boxShadow">
+			<div style="height: 50px; width: 100px; margin-top: 50px;"></div>
+
+			<h4 style="float:left;">치과 1개당 인구수 <i class="bi bi-question-circle" id="secondBtn"></i></h4>
+
+			<div id="secondInfo">
+				주거 인구를 치과의 수로 나눈 값
+			</div>
+
+
+			<div id="popuDivideHosTable" class="table-responsive">
+				<table class="table table-bordered border-black align-middle text-center">
+					<thead>
+						<tr>
+							<th></th>
+							<th>치과 1개당 인구수</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>송파구 위례동</td>
+							<td>4,000</td>
+						</tr>
+						<tr>
+							<td>성남시 위례동</td>
+							<td>4,000</td>
+						</tr>
+						<tr>
+							<td>하남시 위례동</td>
+							<td>4,000</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div style=" height: 50px; width: 100px;">
+		</div>
+	</div>
+
+	</div>
+	<!-------------------------------------- ------------------------------------------------------->
+
+	<footer class="text-body-secondary py-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<p class="mb-1">이용약관 개인정보처리방침 회사소개</p>
+					<p></p>
+					<p class="mb-1">서울특별시 마포구 </p>
+					<p class="mb-0">대표번호 : 02-1111-1111 l FAX : 02-111-1111</p>
+				</div>
+				<div class="col-6">
+					<p class="float-end mb-1">
+
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<script src="js/hospitalStatus.js"></script>
+	<script src="js/openCloseHosChart.js"></script>
+
+</body>
+
+</html>

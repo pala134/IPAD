@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<!-- css,font -->
+
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&family=Gothic+A1:wght@500&family=Noto+Sans+KR:wght@500&display=swap">
+	<link rel="stylesheet" href="css/map.css">
+	<link rel="stylesheet" href="css/search.css">
+	<!-- script -->
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.umd.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+	<script type="text/javascript"
+		src="//dapi.kakao.com/v2/maps/sdk.js?appkey=0983003a235a4d3c0ae25870de9c471a&libraries=services"></script>
+	<script src="js/search.js"></script>
+	<title>지역 조회 페이지</title>
+</head>
+
+<body class="vh-100 overflow-hiddden">
+	<!--nav------------------------------------------------------------------------------------------->
+	<nav class="navbar fixed-top navbar-expand-lg">
+		<div class="container">
+			<!-- LOGO -->
+			<a class="navbar-brand fs-4" href="index.html">LOGO</a>
+
+			<!-- Toggle BTN(모바일 비율 아이콘) -->
+			<button class="navbar-toggler shadow-none border-0 " type="button" data-bs-toggle="offcanvas"
+				data-bs-target="#offcanvasNavbar">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<!-- sidebar -->
+			<div class="offcanvas offcanvas-start sidebar" tabindex="-1" id="offcanvasNavbar">
+				<!-- sidebar header -->
+				<div class="offcanvas-header border-bottom">
+					<h5 class="offcanvas-title" id="offcanvasNavbarLabel">LOGO</h5>
+					<button type="button" class="btn-close shadow-none" data-bs-dismiss="offcanvas"></button>
+				</div>
+
+				<!-- sidebar body -->
+				<div class="offcanvas-body d-flex flex-column flex-lg-row p-4 p-lg-0">
+					<ul class="navbar-nav justify-content-center fs-5 flex-grow-1 pe-3">
+						<div class="dropdown-center">
+							<li class="nav-item dropdown mx-5">
+								<a class="nav-link dropdown-toggle" href="#" role="button"
+									data-bs-toggle="dropdown">입지분석</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="populationStatus.html">인구분석</a></li>
+									<li><a class="dropdown-item" href="hospitalStatus.html">병원현황</a></li>
+									<li><a class="dropdown-item" href="map.html">지도</a></li>
+								</ul>
+							</li>
+						</div>
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="search.html">매출분석</a>
+						</li>
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="#">Q&A</a>
+						</li>
+					</ul>
+					<div class="d-flex flex-column flex-lg-row justify-content-center align-items-center gap-3">
+						<a href="#" class="text-dark">로그인</a>
+						<a id="loginBtn" href="#" class="text-white text-decoration-none px-3 py-1 rounded-4">회원가입</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</nav>
+	<div style="height: 60px; width: 100px;"></div>
+
+	<!-- search ------------------------------------------------------------------------------------------->
+	<div id="background" class="container-fluid">
+
+		<!---------------- sidenavbar ----------------->
+
+		<!-- <nav id="sideNav" class="col-sm-1 sidenav boxShadow" style="margin-left : 5%; background-color: rgb(241, 241, 221); position: fixed; height: 30%; text-align: center; margin-top: 15%;">
+			<h5 style="margin-top: 15%;">Quick Menu</h5>
+			<div class="nav nav-pills nav-stacked" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 90%;">
+				<div class ="row" style="height: 70%;">
+					<div><a href="search.html" id="search.html" style="color: black;"><img src="img/dental_marker.png" alt="" style="width: 30%; height: 70%; margin-right: 15%;" type="button">지역 선택</a></div>
+					<div><a style="color: black;" id="info.html"><img src="img/dental_marker.png" alt="" style="width: 30%; height: 70%; margin-right: 15%;">진료과 정보</a></div>
+					<div><a style="color: black;" id="predict.html"><img src="img/dental_marker.png" alt="" style="width: 30%; height: 70%; margin-right: 15%;">매출 분석</a></div>
+				</div>
+			</div>
+		</nav> -->
+
+		<!-- 본문 -->
+		<div style="height: 50px; width: 100px;"></div>
+		<div class="container">
+			<div class="row" style="border-bottom: 3px solid #ddd;">
+				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+					<h1>지역검색</h1>
+				</div>
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+					<ol id="nav">
+						<li><a href="index.html" class="docs-creator">홈</a></li>
+						<li><a href="search.html">지역 선택</a></li>
+						<li>진료 과목별 추이</li>
+						<li>매출 분석</li>
+					</ol>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 boxShadow" id="group"
+					style="margin-top: 50px; padding-right: 0; overflow: hidden;">
+					<div class="row">
+						<div class="col-lg-3 " style="margin-top: 5%;">
+							<div class="row" style="height: 30%; display: grid; margin-top: 10%;">
+								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top: 3%;">
+									<select class="form-select" name="mainCity" id="mainCity" style="width: 100%;"
+										required>
+										<option value="시/도" id="sidoSelected">시/도</option>
+										<option value="서울시" selected>서울시</option>
+										<option value="경기도">경기도</option>
+									</select>
+								</div>
+
+								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top: 3%;">
+									<select class="form-select" id="subCity" class="subCity" placeholder="시/군/구"
+										style="width: 100%;" required>
+										<option value="송파구" selected>송파구</option>
+									</select>
+								</div>
+								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top: 3%;">
+									<select class="extraCity form-select" id="extraCity" style="width: 100%;" required>
+										<option value="위례동" selected>위례동</option>
+									</select>
+								</div>
+							</div>
+							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+								<button type="submit" id="submit" class="btn btn-outline-primary  ">조 회</button>
+							</div>
+							<div class="row">
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"
+									style="text-align: center; margin-top: 10%; border-right: 3px solid #ddd;">
+									<p style="margin-top: 15%">그래프 <br> 한눈에 보기</p>
+								</div>
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"
+									style="text-align: center; justify-content: center; margin-top: 10%;">
+									<img src="img/chart_icon.png" alt="" style="width: 60%; cursor: pointer;"
+										id="chartImg" onclick="">
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top : 5%; float: right;">
+								<a href="Info.html"><button type="submit" id="confirm"
+										class="btn btn-outline-primary">진료 과목별 추이</button></a>
+
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-9">
+							<div id="map2"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="height: 50px; width: 100px;"></div>
+		</div>
+
+		<!------------ Modal -------------->
+		<div class="modal fade" id="areaPopUP" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered">
+				<div class="modal-content" style="background-color: #F8F9FA">
+					<div class="modal-header">
+						<h5 class="modal-title" id="PopUpArea"></h5>
+						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body">
+						<div class="row" style="justify-content: center;">
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+								<select class="form-select" id="category">
+									<option value="인구" selected>인구</option>
+									<option value="세대수 현황">세대수 현황</option>
+									<option value="유동인구">유동인구</option>
+									<option value="소득수준">소득수준</option>
+								</select>
+							</div>
+							<div style="height: 30px;"></div>
+							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"
+								style="height: 500px; width: 90%; text-align: center; border: 0.5px solid gray;">
+								<canvas id="regionInfoChart"
+									style="width: 100%; height: 100%; position: absolute; opacity: 1;"></canvas>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="height: 50px; width: 100px;"></div>
+		</div>
+		<!-------------------------------------- --------------	----------------------------------------->
+
+		<footer class="text-body-secondary py-5">
+			<div class="container">
+				<div class="row">
+					<div class="col-6">
+						<p class="mb-1">이용약관 개인정보처리방침 회사소개</p>
+						<p></p>
+						<p class="mb-1">서울특별시 마포구 </p>
+						<p class="mb-0">대표번호 : 02-1111-1111 l FAX : 02-111-1111</p>
+					</div>
+					<div class="col-6">
+						<p class="float-end mb-1">
+
+						</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+</body>
+
+</html>

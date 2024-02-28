@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<!-- css,font -->
+	<link rel="stylesheet" href="css/population.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+	<!-- script -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+	<title>인구분석</title>
+
+</head>
+
+<body class="vh-100 overflow-hiddden">
+	<!--nav------------------------------------------------------------------------------------------->
+	<nav class="navbar fixed-top navbar-expand-lg">
+		<div class="container">
+			<!-- LOGO -->
+			<a class="navbar-brand fs-4" href="index.html">LOGO</a>
+
+			<!-- Toggle BTN(모바일 비율 아이콘) -->
+			<button class="navbar-toggler shadow-none border-0 " type="button" data-bs-toggle="offcanvas"
+				data-bs-target="#offcanvasNavbar">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<!-- sidebar -->
+			<div class="offcanvas offcanvas-start sidebar" tabindex="-1" id="offcanvasNavbar">
+				<!-- sidebar header -->
+				<div class="offcanvas-header border-bottom">
+					<h5 class="offcanvas-title" id="offcanvasNavbarLabel">LOGO</h5>
+					<button type="button" class="btn-close shadow-none" data-bs-dismiss="offcanvas"></button>
+				</div>
+
+				<!-- sidebar body -->
+				<div class="offcanvas-body d-flex flex-column flex-lg-row p-4 p-lg-0">
+					<ul class="navbar-nav justify-content-center fs-5 flex-grow-1 pe-3">
+
+						<li class="nav-item dropdown mx-5">
+							<div class="dropdown-center">
+								<a class="nav-link dropdown-toggle" href="#" role="button"
+									data-bs-toggle="dropdown">입지분석</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="populationStatus.html">인구분석</a></li>
+									<li><a class="dropdown-item" href="hospitalStatus.html">치과현황</a></li>
+									<li><a class="dropdown-item" href="map.html">지도</a></li>
+								</ul>
+							</div>
+						</li>
+
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="newSearch.html">매출분석</a>
+						</li>
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="#">Q&A</a>
+						</li>
+					</ul>
+					<div class="d-flex flex-column flex-lg-row justify-content-center align-items-center gap-3">
+						<a href="#" class="text-dark">로그인</a>
+						<a id="loginBtn" href="#" class="text-white text-decoration-none px-3 py-1 rounded-4">회원가입</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</nav>
+	<div style="height: 60px; width: 100px;"></div>
+
+	<!-- 배경 -->
+	<div class="container-fluid" style="background-color: #F8F9FA;">
+		<div style="height: 50px; width: 100px;"></div>
+
+		<!--유동인구------------------------------------------------------------------------------------------->
+
+		<div class="container">
+			<h1 style="font-weight: bolder;">유동인구</h1>
+		</div>
+
+		<!--분기별 유동인구 -->
+		<div id="quarterlyPop" class="container boxShadow">
+			<div style="height: 50px; width: 100px; margin-top: 50px;"></div>
+
+			<!-- 설명 콜랩스 -->
+			<h4 style="float:left;">분기별 유동인구 <i class="bi bi-question-circle" id="firstBtn"></i></h4>
+
+			<div id="firstInfo">
+				분기별 지역에 방문한 유동인구 수
+			</div>
+
+			<div id="chartArea" class="col-sm-12">
+				<canvas id="quarterlyPopChart" style="width: 100%; "></canvas>
+			</div>
+
+			<div id="quarterlyPopTable" class="table-responsive">
+				<table class="table table-bordered border-black align-middle text-center">
+					<thead>
+						<tr>
+							<th>
+							</th>
+							<th>2021년 4분기</th>
+							<th>2022년 1분기</th>
+							<th>2022년 2분기</th>
+							<th>2022년 3분기</th>
+							<th>2022년 4분기</th>
+							<th>2023년 1분기</th>
+							<th>2023년 2분기</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>송파구 위례동</td>
+							<td>3,331,838</td>
+							<td>3,469,064</td>
+							<td>3,643,283</td>
+							<td>3,527,496</td>
+							<td>3,467,145</td>
+							<td>3,467,145</td>
+							<td>3,467,145</td>
+						</tr>
+						<tr>
+							<td>성남시 위례동</td>
+							<td>4,000,000</td>
+							<td>4,100,000</td>
+							<td>4,300,000</td>
+							<td>4,200,000</td>
+							<td>4,500,000</td>
+							<td>4,500,000</td>
+							<td>4,500,000</td>
+						</tr>
+						<tr>
+							<td>하남시 위례동</td>
+							<td>4,000,000</td>
+							<td>4,100,000</td>
+							<td>4,300,000</td>
+							<td>4,200,000</td>
+							<td>4,500,000</td>
+							<td>4,500,000</td>
+							<td>4,500,000</td>
+						</tr>
+					</tbody>
+				</table>
+
+				<div style=" height: 50px; width: 100px;">
+				</div>
+			</div>
+
+		</div>
+		<div id="dayOfTheWeek" class="container boxShadow">
+			<div style="height: 50px; width: 100px; margin-top: 50px;"></div>
+
+
+			<!-- 설명 콜랩스 -->
+			<h4 style="float:left;">요일별 유동인구 <i class="bi bi-question-circle" id="secondBtn"></i></h4>
+
+			<div id="secondInfo">
+				최근 분기 지역에 방문한 요일별 평균 유동인구 수
+			</div>
+
+			<div id="dayOfTheWeekTable" class="table-responsive">
+				<table class="table table-bordered border-black align-middle text-center">
+					<thead>
+						<tr>
+							<th></th>
+							<th>월</th>
+							<th>화</th>
+							<th>수</th>
+							<th>목</th>
+							<th>금</th>
+							<th>토</th>
+							<th>일</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>송파구 위례동</td>
+							<td>3,331,838</td>
+							<td>3,469,064</td>
+							<td>3,643,283</td>
+							<td>3,527,496</td>
+							<td>3,467,145</td>
+							<td>3,467,145</td>
+							<td>3,467,145</td>
+						</tr>
+						<tr>
+							<td>성남시 위례동</td>
+							<td>4,000,000</td>
+							<td>4,100,000</td>
+							<td>4,300,000</td>
+							<td>4,200,000</td>
+							<td>4,500,000</td>
+							<td>4,500,000</td>
+							<td>4,500,000</td>
+						</tr>
+						<tr>
+							<td>하남시 위례동</td>
+							<td>4,000,000</td>
+							<td>4,100,000</td>
+							<td>4,300,000</td>
+							<td>4,200,000</td>
+							<td>4,500,000</td>
+							<td>4,500,000</td>
+							<td>4,500,000</td>
+						</tr>
+					</tbody>
+				</table>
+				<div style=" height: 50px; width: 100px;">
+				</div>
+			</div>
+		</div>
+
+		<!--거주인구------------------------------------------------------------------------------------------->
+		<div style="height: 50px; width: 100px;"></div>
+		<div class="container">
+			<h1 style="font-weight: bolder;">주거 인구</h1>
+		</div>
+
+		<div id="resident" class="container boxShadow">
+
+			<div style="height: 50px; width: 100px; margin-top: 50px;"></div>
+
+
+			<!-- 설명 콜랩스 -->
+			<h4 style="float:left;">주거 인구 추이 <i class="bi bi-question-circle" id="thirdBtn"></i></h4>
+
+			<div id="thirdInfo">
+				연도별 주거 인구
+			</div>
+
+			<div id="chartArea" class="col-sm-12">
+				<canvas id="residentChart" style="width: 100%;"></canvas>
+			</div>
+
+			<div id="residentTable" class="table-responsive">
+				<table class="table table-bordered border-black align-middle text-center"">
+				<thead>
+					<tr>
+						<th></th>
+						<th>2019년</th>
+						<th>2020년</th>
+						<th>2021년</th>
+						<th>2022년</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>송파구 위례동</td>
+						<td>27870</td>
+						<td>36332</td>
+						<td>42590</td>
+						<td>68764</td>
+					</tr>
+					<tr>
+						<td>성남시 위례동</td>
+						<td>42793</td>
+						<td>43000</td>
+						<td>43500</td>
+						<td>42000</td>
+					</tr>
+					<tr>
+						<td>하남시 위례동</td>
+						<td>17000</td>
+						<td>18000</td>
+						<td>25000</td>
+						<td>28000</td>
+					</tr>
+				</tbody>
+			</table>
+			<div style=" height: 50px; width: 100px;">
+			</div>
+		</div>
+
+	</div>
+	<div id="ageGender" class="container boxShadow">
+		<div style="height: 50px; width: 100px; margin-top: 50px"></div>
+
+
+		<!-- 설명 콜랩스 -->
+
+		<h4 style="float:left;">성별, 연령대별 주거 인구 <i class="bi bi-question-circle" id="fourthBtn"></i></h4>
+
+		<div id="fourthInfo">
+			최근연도 성별, 연령별 주거 인구
+		</div>
+
+		<div id="ageGenderTable" class="table-responsive">
+			<table class="table table-bordered border-black align-middle text-center">
+				<thead>
+					<tr>
+						<th rowspan=" 2">
+						</th>
+						<th colspan="2">성별</th>
+						<th colspan="7">연령</th>
+					</tr>
+					<tr>
+						<th>남성</th>
+						<th>여성</th>
+						<th>10미만</th>
+						<th>10대</th>
+						<th>20대</th>
+						<th>30대</th>
+						<th>40대</th>
+						<th>50대</th>
+						<th>60대이상</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>송파구 위례동</td>
+						<td>20,000</td>
+						<td>21,000</td>
+						<td>6,700</td>
+						<td>5,600</td>
+						<td>3,500</td>
+						<td>6,800</td>
+						<td>8,900</td>
+						<td>5,500</td>
+						<td>3,400</td>
+					</tr>
+					<tr>
+						<td>성남시 위례동</td>
+						<td>20,000</td>
+						<td>22,000</td>
+						<td>4,000</td>
+						<td>4,000</td>
+						<td>4,200</td>
+						<td>6,400</td>
+						<td>7,790</td>
+						<td>6,911</td>
+						<td>6,000</td>
+					</tr>
+					<tr>
+						<td>하남시 위례동</td>
+						<td>14,000</td>
+						<td>14,000</td>
+						<td>4,000</td>
+						<td>3,000</td>
+						<td>2,600</td>
+						<td>4,500</td>
+						<td>5,990</td>
+						<td>4,311</td>
+						<td>2,300</td>
+					</tr>
+				</tbody>
+			</table>
+			<div style="height: 50px; width: 100px;"></div>
+		</div>
+	</div>
+
+	<!--인구예측------------------------------------------------------------------------------------------->
+
+	<div style="height: 50px; width: 100px;"></div>
+	<div class="container">
+		<h1 style="font-weight: bolder;">인구예측</h1>
+	</div>
+
+	<div id="forecast" class="container boxShadow">
+		<div style="height: 50px; width: 100px; margin-top: 50px;"></div>
+
+		<!-- 설명 콜랩스 -->
+
+		<h4 style="float:left;">인구 예측 <i class="bi bi-question-circle" id="fifthBtn"></i></h4>
+
+		<div id="fifthInfo">
+			주택 수, 가구 수, 출생 건수 등을 이용해 회귀분석하여 예측한 인구수
+		</div>
+
+		<div id="chartArea" class="col-sm-12">
+			<canvas id="forecastChart" style="width: 100%;"></canvas>
+		</div>
+
+		<div id="forecastTable" class="table-responsive">
+			<table class="table table-bordered border-black align-middle text-center"">
+				<thead>
+					<tr>
+						<th></th>
+						<th>2019년</th>
+						<th>2020년</th>
+						<th>2021년</th>
+						<th>2022년</th>
+						<th>2023년</th>
+						<th>2024년</th>
+						<th>2025년</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>송파구 위례동</td>
+						<td>27,870</td>
+						<td>36,332</td>
+						<td>42,590</td>
+						<td>68,764</td>
+						<td>68,764</td>
+						<td>68,764</td>
+						<td>68,764</td>
+					</tr>
+					<tr>
+						<td>성남시 위례동</td>
+						<td>42,793</td>
+						<td>43,000</td>
+						<td>43,500</td>
+						<td>42,000</td>
+						<td>42,000</td>
+						<td>42,000</td>
+						<td>42,000</td>
+					</tr>
+					<tr>
+						<td>하남시 위례동</td>
+						<td>17,000</td>
+						<td>18,000</td>
+						<td>25,000</td>
+						<td>28,000</td>
+						<td>28,000</td>
+						<td>28,000</td>
+						<td>28,000</td>
+					</tr>
+				</tbody>
+			</table>
+			<div style=" height: 50px; width: 100px;">
+		</div>
+	</div>
+	</div>
+
+	<div style="height: 50px; width: 100px;"></div>
+	</div>
+
+	<!-- footer------------------------------------ ------------------------------------------------------->
+	<footer class="text-body-secondary py-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<p class="mb-1">이용약관 개인정보처리방침 회사소개</p>
+					<p></p>
+					<p class="mb-1">서울특별시 마포구 </p>
+					<p class="mb-0">대표번호 : 02-1111-1111 l FAX : 02-111-1111</p>
+				</div>
+				<div class="col-6">
+					<p class="float-end mb-1">
+
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<script src="js/population.js"></script>
+	<script src="js/residentChart.js"></script>
+	<script src="js/forecastChart.js"></script>
+	<script src="js/quarterlyPopChart.js"></script>
+</body>
+
+</html>

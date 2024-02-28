@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<!-- css,font -->
+	<link rel="stylesheet" href="css/map.css">
+	<link rel="stylesheet" href="css/Info.css">
+
+	<!-- <link rel="stylesheet" href="css/saleAnalysis.css"> -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Do+Hyeon&family=Gothic+A1:wght@500&family=Noto+Sans+KR:wght@500&display=swap">
+	<!-- script -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.umd.min.js"></script>
+	<title>예상 매출</title>
+</head>
+
+<body class="vh-100 overflow-hiddden">
+	<!--nav------------------------------------------------------------------------------------------->
+	<nav class="navbar fixed-top navbar-expand-lg">
+		<div class="container">
+			<!-- LOGO -->
+			<a class="navbar-brand fs-4" href="index.html">LOGO</a>
+
+			<!-- Toggle BTN(모바일 비율 아이콘) -->
+			<button class="navbar-toggler shadow-none border-0 " type="button" data-bs-toggle="offcanvas"
+				data-bs-target="#offcanvasNavbar">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<!-- sidebar -->
+			<div class="offcanvas offcanvas-start sidebar" tabindex="-1" id="offcanvasNavbar">
+				<!-- sidebar header -->
+				<div class="offcanvas-header border-bottom">
+					<h5 class="offcanvas-title" id="offcanvasNavbarLabel">LOGO</h5>
+					<button type="button" class="btn-close shadow-none" data-bs-dismiss="offcanvas"></button>
+				</div>
+
+				<!-- sidebar body -->
+				<div class="offcanvas-body d-flex flex-column flex-lg-row p-4 p-lg-0">
+					<ul class="navbar-nav justify-content-center fs-5 flex-grow-1 pe-3">
+						<div class="dropdown-center">
+							<li class="nav-item dropdown mx-5">
+								<a class="nav-link dropdown-toggle" href="#" role="button"
+									data-bs-toggle="dropdown">입지분석</a>
+								<ul class="dropdown-menu">
+									<li><a class="dropdown-item" href="populationStatus.html">인구분석</a></li>
+									<li><a class="dropdown-item" href="hospitalStatus.html">병원현황</a></li>
+									<li><a class="dropdown-item" href="map.html">지도</a></li>
+								</ul>
+							</li>
+						</div>
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="newSearch.html">매출분석</a>
+						</li>
+						<li class="nav-item mx-5">
+							<a class="nav-link" href="#">Q&A</a>
+						</li>
+					</ul>
+					<div class="d-flex flex-column flex-lg-row justify-content-center align-items-center gap-3">
+						<a href="#" class="text-dark">로그인</a>
+						<a id="loginBtn" href="#" class="text-white text-decoration-none px-3 py-1 rounded-4">회원가입</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</nav>
+	<div style="height: 60px; width: 100px;"></div>
+
+	<!-- chart ------------------------------------------------------------------------------------------->
+	<div id="background" class="container-fluid">
+		<div style="height: 50px; width: 100px;"></div>
+		<div class="container">
+			<div class="row" style="border-bottom: 3px solid #ddd;">
+				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+					<h1>진료 과목별 추이</h1>
+				</div>
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+					<ol id="nav">
+						<li><a href="index.html" class="docs-creator">홈</a></li>
+						<li><a href="newSearch.html">지역 선택</a></li>
+						<li>진료 과목별 추이</li>
+						<li>매출 분석</li>
+					</ol>
+				</div>
+			</div>
+			<div class="row" style="justify-content: right; margin-top: 10px;">
+				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6">
+					<select class="form-select" id="subject">
+						<option value="">진료과목</option>
+						<option value="치과" selected>치과</option>
+					</select>
+				</div>
+				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6">
+					<select class="form-select" id="diseaseName" required>
+						<option value="K02">충치</option>
+						<option value="K04">치수염</option>
+						<option value="K05">잇몸질환</option>
+						<option value="K07">부정교합</option>
+						<option value="K08">임플란트</option>
+					</select>
+				</div>
+				<div class="row">
+					<div class="col-lg-12 form-check checkBoxes">
+						<span style="font-weight: bold;">연령선택</span>
+						<div class="form-check form-check-inline" style="margin-left: 1%;">
+							<label class="form-check-label" style="color: red;">
+								<input type="checkbox" class="form-check-input" value="1"
+									style="border: 1px solid black;">20세미만
+							</label>
+						</div>
+						<div class="form-check form-check-inline" style="margin-left: 1%;">
+							<label class="form-check-label" style="color: blue;">
+								<input type="checkbox" class="form-check-input" value="2"
+									style="border: 1px solid black;">20대
+							</label>
+						</div>
+						<div class="form-check form-check-inline" style="margin-left: 1%;">
+							<label class="form-check-label" style="color: green">
+								<input type="checkbox" class="form-check-input" value="3"
+									style="border: 1px solid black;">30대
+							</label>
+						</div>
+						<div class="form-check form-check-inline" style="margin-left: 1%;">
+							<label class="form-check-label" style="color: purple;">
+								<input type="checkbox" class="form-check-input" value="4"
+									style="border: 1px solid black;">40대
+							</label>
+						</div>
+						<div class="form-check form-check-inline" style="margin-left: 1%;">
+							<label class="form-check-label" style="color: orange;">
+								<input type="checkbox" class="form-check-input" value="5"
+									style="border: 1px solid black;">50대
+							</label>
+						</div>
+						<div class="form-check form-check-inline" style="margin-left: 1%;">
+							<label class="form-check-label" style="color: brown;">
+								<input type="checkbox" class="form-check-input" value="6"
+									style="border: 1px solid black;">60대
+							</label>
+						</div>
+						<div class="form-check form-check-inline" style="margin-left: 1%;">
+							<label class="form-check-label" style="color: cadetblue;">
+								<input type="checkbox" class="form-check-input" value="7"
+									style="border: 1px solid black;">70대 이상
+							</label>
+						</div>
+						<div class="form-check form-check-inline" style="margin-left: 1%;">
+							<label class="form-check-label">
+								<input type="checkbox" class="form-check-input" value="0"
+									style="border: 1px solid black;" checked>총인구
+							</label>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-10 col-sm-10 col-md-10 col-lg-10"></div>
+					<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2" style="text-align: right;"><a
+							href="predict.html"><button type="submit" id="confirm" class="btn btn-outline-primary">매출
+								분석</button></a></div>
+				</div>
+			</div>
+			<div style="height: 30px;"></div>
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"
+					style="height: 500px; width: 100%; text-align: center;border-bottom: 1px black dotted;">
+					<canvas id="patientChart"
+						style="width: 100%; height: 100%; position: absolute; opacity: 1;">
+					</canvas>
+				</div>
+			</div>
+			<div class="row mt-3">
+				<div class="col-lg-12" style="text-align: right;">
+					<button id="showSubjectTable" type="button" class="btn btn-secondary">표로 보기</button>
+				</div>
+			</div>
+			<div class="table-responsive mt-2" id="subjectTable" style="display: none;">
+				<table class="table table-hover table-bordered">
+					<thead class="table-light">
+						<caption style="text-align: right;" id="subjectCaption">*연도별/연령대별 상병 환자 수</caption>
+						<tr class="text-center">
+							<th scope="col" style="width: 10%;"></th>
+
+							<th style="width: 10%;">총인구</th>
+							<th style="width: 10%;">20대 미만</th>
+							<th style="width: 10%;">20대</th>
+							<th style="width: 10%;">30대</th>
+							<th style="width: 10%;">40대</th>
+							<th style="width: 10%;">50대</th>
+							<th style="width: 10%;">60대</th>
+							<th style="width: 10%;">70대 이상</th>
+						</tr>
+					</thead>
+					<tbody class="text-center table-group-divider" id="tbody">
+						<tr>
+							<th scope="row">2017</th>
+							<td>asdfdsafdsafd</td>
+							<td>safsdafsdaf-</td>
+							<td>sdafsdafd-</td>
+							<td>safsdafsadf-</td>
+							<td>sadfdsafsad-</td>
+							<td>asdfdsafdsaf-</td>
+							<td>dsafsdafsdaf-</td>
+							<td>sdafsadfsadf-</td>
+						</tr>
+						<tr>
+							<th scope="row">2018</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<th scope="row">2019</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<th scope="row">2020</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<th scope="row">2021</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<th scope="row">2022</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</div>
+			<div class="row" style="margin-top: 2%;">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"
+					style="height: 500px; width: 100%; text-align: center;">
+					<canvas id="saleChart" style="width: 100%; height: 100%; position: absolute; opacity: 1;"></canvas>
+
+				</div>
+			</div>
+			<div class="row mt-3">
+				<div class="col-lg-12" style="text-align: right;">
+					<button id="showSaleTable" type="button" class="btn btn-secondary">표로 보기</button>
+				</div>
+			</div>
+			<div class="table-responsive mt-2" id="saleTable" style="display: none;">
+				<table class="table table-hover table-bordered">
+					<thead class="table-light">
+						<caption style="text-align: right;" id="saleCaption">*연도별/연령대별 상병 매출 수</caption>
+						<tr class="text-center">
+							<th scope="col" style="width: 10%;"></th>
+
+							<th style="width: 10%;">총인구</th>
+							<th style="width: 10%;">20대 미만</th>
+							<th style="width: 10%;">20대</th>
+							<th style="width: 10%;">30대</th>
+							<th style="width: 10%;">40대</th>
+							<th style="width: 10%;">50대</th>
+							<th style="width: 10%;">60대</th>
+							<th style="width: 10%;">70대 이상</th>
+						</tr>
+					</thead>
+					<tbody class="text-center table-group-divider">
+						<tr>
+							<th scope="row">2017</th>
+							<td>asdfdsafdsafd</td>
+							<td>safsdafsdaf-</td>
+							<td>sdafsdafd-</td>
+							<td>safsdafsadf-</td>
+							<td>sadfdsafsad-</td>
+							<td>asdfdsafdsaf-</td>
+							<td>dsafsdafsdaf-</td>
+							<td>sdafsadfsadf-</td>
+						</tr>
+						<tr>
+							<th scope="row">2018</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<th scope="row">2019</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<th scope="row">2020</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<th scope="row">2021</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+						<tr>
+							<th scope="row">2022</th>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+							<td>-</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</div>
+
+
+		</div>
+
+		<div style="height: 50px; width: 100px;"></div>
+	</div>
+
+	<!-------------------------------------- ------------------------------------------------------->
+
+	<footer class="text-body-secondary py-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-6">
+					<p class="mb-1">이용약관 개인정보처리방침 회사소개</p>
+					<p></p>
+					<p class="mb-1">서울특별시 마포구 </p>
+					<p class="mb-0">대표번호 : 02-1111-1111 l FAX : 02-111-1111</p>
+				</div>
+				<div class="col-6">
+					<p class="float-end mb-1">
+					
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="js/Info.js"></script>
+</body>
+
+</html>
